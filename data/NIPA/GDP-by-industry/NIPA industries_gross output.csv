@@ -1,0 +1,194 @@
+﻿naics,id,level,parent,industry,type
+0,1,0,0,        All industries,
+1,2,1,1,Private industries,
+11,3,2,2,"    Agriculture, forestry, fishing, and hunting",blue
+111-112,4,3,3,        Farms,blue
+111,5,4,4,            Crop production,blue
+112,6,4,4,            Animal production and aquaculture,blue
+113-115,7,3,3,"        Forestry, fishing, and related activities",blue
+21,8,2,2,    Mining,blue
+,9,3,8,        Oil and gas extraction,blue
+,10,3,8,"        Mining, except oil and gas",blue
+,11,3,8,        Support activities for mining,blue
+22,12,2,2,    Utilities,blue
+,13,3,12,"        Electric power generation, transmission, and distribution",blue
+,14,3,12,"        Natural gas distribution and water, sewage and other systems",blue
+23,15,2,2,    Construction,blue
+,16,3,15,"        Education, hospital, and health structures",blue
+,17,3,15,        Maintenance and repair construction,blue
+,18,3,15,        Office and commercial structures,blue
+,19,3,15,        Other residential construction,blue
+,20,3,15,        Other nonresidential structures,blue
+,21,3,15,        Power and communication structures,blue
+,22,3,15,        Single-family residential structures,blue
+,23,3,15,        Transportation structures and highways and streets,blue
+31-33,24,2,2,    Manufacturing,blue
+,25,3,24,        Durable goods,blue
+,26,4,25,            Wood products,blue
+,27,4,25,            Nonmetallic mineral products,blue
+,28,4,25,            Primary metals,blue
+,29,5,28,                    Iron and steel mills and manufacturing from purchased steel,blue
+,30,5,28,                    Nonferrous metal production and processing and foundries,blue
+,31,4,25,            Fabricated metal products,blue
+,32,4,25,            Machinery,blue
+,33,5,32,                    Agricultural implement manufacturing,blue
+,34,5,32,                    Construction machinery manufacturing,blue
+,35,5,32,                    Mining and oil and gas field machinery manufacturing,blue
+,36,5,32,                    Other machinery,blue
+,37,4,25,            Computer and electronic products,blue
+,38,5,37,                    Computer and peripheral equipment manufacturing,blue
+,39,5,37,                    Communications equipment manufacturing,blue
+,40,5,37,                    Semiconductor and other electronic component manufacturing,blue
+,41,5,37,"                    Navigational, measuring, electromedical, and control instruments manufacturing",blue
+,42,5,37,                    Other computer and electronic product manufacturing,blue
+,43,4,25,"            Electrical equipment, appliances, and components",blue
+,44,4,25,"            Motor vehicles, bodies and trailers, and parts",blue
+,45,5,44,                    Automobile manufacturing,blue
+,46,5,44,                    Light truck and utility vehicle manufacturing,blue
+,47,5,44,                    Heavy duty truck manufacturing,blue
+,48,5,44,"                    Motor vehicle body, trailer, and parts manufacturing",blue
+,49,4,25,            Other transportation equipment,blue
+,50,5,49,                    Aerospace product and parts manufacturing,blue
+,51,5,49,                    All other transportation equipment manufacturing,blue
+,52,4,25,            Furniture and related products,blue
+,53,4,25,            Miscellaneous manufacturing,blue
+,54,5,49,                    Medical equipment and supplies manufacturing,blue
+,55,5,49,                    Other miscellaneous manufacturing,blue
+,56,3,24,        Nondurable goods,blue
+,57,4,56,            Food and beverage and tobacco products,blue
+,58,5,57,                    Food manufacturing,blue
+,59,5,57,                    Beverage manufacturing,blue
+,60,5,57,                    Tobacco product manufacturing,blue
+,61,4,56,            Textile mills and textile product mills,blue
+,62,4,56,            Apparel and leather and allied products,blue
+,63,4,56,            Paper products,blue
+,64,4,56,            Printing and related support activities,blue
+,65,4,56,            Petroleum and coal products,blue
+,66,4,56,            Chemical products,blue
+,67,5,66,                    Basic chemical manufacturing,blue
+,68,5,66,"                    Resin, rubber, and artificial fibers manufacturing",blue
+,69,5,66,                    Pharmaceutical and medicine manufacturing,blue
+,70,5,66,                    Other chemical manufacturing,blue
+,71,4,56,            Plastics and rubber products,blue
+42,72,2,2,    Wholesale trade,pink
+,73,3,72,        Motor vehicle and motor vehicle parts and supplies merchant wholesalers,pink
+,74,3,72,        Professional and commercial equipment and supplies merchant wholesalers,pink
+,75,3,72,        Household appliances and electrical and electronic goods merchant wholesalers,pink
+,76,3,72,"        Machinery, equipment, and supplies merchant wholesalers",pink
+,77,3,72,        Other durable goods merchant wholesalers,pink
+,78,3,72,        Drugs and druggists sundries merchant wholesalers,pink
+,79,3,72,        Grocery and related products merchant wholesalers,pink
+,80,3,72,        Petroleum and petroleum products merchant wholesalers,pink
+,81,3,72,        Other nondurable goods merchant wholesalers,pink
+,82,3,72,        Wholesale electronic markets and agents and brokers,pink
+,83,3,72,        Customs duties,pink
+44-45,84,2,2,    Retail trade,pink
+,85,3,84,        Motor vehicle and parts dealers,pink
+,86,3,84,        Food and beverage stores,pink
+,87,3,84,        General merchandise stores,pink
+,88,3,84,        Other retail,pink
+,89,4,88,            Building material and garden equipment and supplies dealers,pink
+,90,4,88,            Health and personal care stores,pink
+,91,4,88,            Gasoline stations,pink
+,92,4,88,            Clothing and clothing accessories stores,pink
+,93,4,88,            Nonstore retailers,pink
+,94,4,88,            All other retail,pink
+48-49,95,2,2,    Transportation and warehousing,blue
+,96,3,95,        Air transportation,blue
+,97,3,95,        Rail transportation,blue
+,98,3,95,        Water transportation,blue
+,99,3,95,        Truck transportation,blue
+,100,3,95,        Transit and ground passenger transportation,blue
+,101,3,95,        Pipeline transportation,blue
+,102,3,95,        Other transportation and support activities,blue
+,103,4,102,            Scenic and sightseeing transportation and support activities,blue
+,104,4,102,            Couriers and messengers,blue
+,105,3,95,        Warehousing and storage,blue
+51,106,2,2,    Information,white
+,107,3,106,"        Publishing industries, except internet (includes software)",white
+,108,4,107,"            Newspaper, periodical, book, and directory publishers",white
+,109,4,107,            Software publishers,white
+,110,3,106,        Motion picture and sound recording industries,white
+,111,3,106,        Broadcasting and telecommunications,white
+,112,4,111,            Broadcasting (except Internet),white
+,113,4,111,            Wired telecommunications carriers,white
+,114,4,111,            Wireless telecommunications carriers (except satellites),white
+,115,4,111,"            Other telecommunications, including satellite",white
+,116,3,106,"        Data processing, internet publishing, and other information services",white
+,117,4,116,"            Data processing, hosting, and related services",white
+,118,4,116,            Other information services,white
+52-53,119,2,2,"    Finance, insurance, real estate, rental, and leasing",white
+52,120,3,119,        Finance and insurance,white
+,121,4,120,"            Federal Reserve banks, credit intermediation, and related activities",white
+,122,4,120,"            Securities, commodity contracts, and investments",white
+,123,4,120,            Insurance carriers and related activities,white
+,124,5,123,                Direct life insurance carriers,white
+,125,5,123,"                Insurance carriers, except direct life insurance",white
+,126,5,123,"                Agencies, brokerages, and other insurance related activities",white
+,127,4,120,"            Funds, trusts, and other financial vehicles",white
+53,128,3,119,        Real estate and rental and leasing,white
+,129,4,128,            Real estate,white
+,130,5,129,                Housing,white
+,131,6,130,                    Owner-occupied housing,white
+,132,6,130,                    Tenant-occupied housing,white
+,133,5,129,                Other real estate,white
+,134,4,128,            Rental and leasing services and lessors of intangible assets,white
+54-56,135,2,2,    Professional and business services,white
+54,136,3,135,"        Professional, scientific, and technical services",white
+,137,4,136,            Legal services,white
+,138,4,136,            Computer systems design and related services,white
+,139,4,136,"            Miscellaneous professional, scientific, and technical services",white
+,140,5,139,"                Accounting, tax preparation, bookkeeping, and payroll services",white
+,141,5,139,"                Architectural, engineering, and related services",white
+,142,5,139,"                Management, scientific, and technical consulting services",white
+,143,5,139,                Scientific research and development services,white
+,144,5,139,"                Advertising, public relations, and related services",white
+,145,5,139,"                Specialized design services and other professional, scientific, and technical services",white
+55,146,3,135,        Management of companies and enterprises,white
+56,147,3,135,        Administrative and waste management services,white
+,148,4,147,            Administrative and support services,white
+,149,5,148,                    Employment services,white
+,150,5,148,                    Services to buildings and dwellings,white
+,151,5,148,                    Other administrative and support services,white
+,152,4,147,            Waste management and remediation services,white
+61-62,153,2,2,"    Educational services, health care, and social assistance",pink
+61,154,3,153,        Educational services,pink
+62,155,3,153,        Health care and social assistance,pink
+,156,4,155,            Ambulatory health care services,pink
+,157,5,156,                Offices of physicians,pink
+,158,5,156,                Offices of dentists,pink
+,159,5,156,                Offices of other health practitioners,pink
+,160,5,156,                Outpatient care centers,pink
+,161,5,156,                Other ambulatory health care services,pink
+,192,4,155,            Hospitals and nursing and residential care facilities,pink
+,162,5,192,                 Hospitals,pink
+,163,5,192,                 Nursing and residential care facilities,pink
+,164,4,155,            Social assistance,pink
+71-72,165,2,2,"    Arts, entertainment, recreation, accommodation, and food services",pink
+71,166,3,165,"        Arts, entertainment, and recreation",pink
+,167,4,166,"            Performing arts, spectator sports, museums, and related activities",pink
+,168,4,166,"            Amusements, gambling, and recreation industries",pink
+72,169,3,165,        Accommodation and food services,pink
+,170,4,169,            Accommodation,pink
+,171,4,169,            Food services and drinking places,pink
+81,172,2,2,"    Other services, except government",pink
+,173,3,172,        Repair and maintenance,pink
+,174,3,172,        Personal and laundry services,pink
+,175,3,172,"        Religious, grantmaking, civic, professional, and similar organizations",pink
+,176,3,172,        Private households,pink
+92,177,1,1,Government,
+,178,2,177,    Federal,
+,179,3,178,        Federal general government,
+,180,4,179,            National defense,
+,181,4,179,            Nondefense,
+,182,3,178,        Federal government enterprises,
+,183,2,177,    State and local,
+,184,3,183,        State and local general government,
+,185,4,184,            State and local government educational services,
+,186,4,184,            State and local government hospitals and health services,
+,187,4,184,            State and local government other services,
+,188,3,183,        State and local government enterprises,
+,189,-1,-1,        Private goods-producing industries 1,
+,190,-1,-1,        Private services-producing industries 2,
+,191,-1,-1,        Information-communications-technology-producing industries 3,
+,,-2,-2,Addenda:,

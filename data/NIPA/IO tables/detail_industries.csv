@@ -1,0 +1,596 @@
+industry,id,level,parent,type
+Oilseed farming,192,5,5,blue
+Grain farming,193,5,5,blue
+Vegetable and melon farming,194,5,5,blue
+Fruit and tree nut farming,195,5,5,blue
+"Greenhouse, nursery, and floriculture production",196,5,5,blue
+Other crop farming,197,5,5,blue
+Dairy cattle and milk production,198,5,6,blue
+"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",199,5,6,blue
+Poultry and egg production,200,5,6,blue
+"Animal production, except cattle and poultry and eggs",201,5,6,blue
+Forestry and logging,202,4,7,blue
+"Fishing, hunting and trapping",203,4,7,blue
+Support activities for agriculture and forestry,204,4,7,blue
+Oil and gas extraction,9,3,8,blue
+Coal mining,206,4,10,blue
+"Copper, nickel, lead, and zinc mining",207,4,10,blue
+"Iron, gold, silver, and other metal ore mining",208,4,10,blue
+Stone mining and quarrying,209,4,10,blue
+Other nonmetallic mineral mining and quarrying,210,4,10,blue
+Drilling oil and gas wells,211,4,11,blue
+Other support activities for mining,212,4,11,blue
+"Electric power generation, transmission, and distribution",13,3,12,blue
+Natural gas distribution,214,4,14,blue
+"Water, sewage and other systems",215,4,14,blue
+Health care structures,216,4,16,blue
+Educational and vocational structures,217,4,16,blue
+Nonresidential maintenance and repair,218,4,17,blue
+Residential maintenance and repair,219,4,17,blue
+Office and commercial structures,18,3,15,blue
+Multifamily residential structures,221,4,19,blue
+Other residential structures,222,4,19,blue
+Manufacturing structures,223,4,20,blue
+Other other nonresidential structures,224,4,20,blue
+Power and communication structures,21,3,15,blue
+Single-family residential structures,22,3,15,blue
+Transportation structures and highways and streets,23,3,15,blue
+Sawmills and wood preservation,228,5,26,blue
+"Veneer, plywood, and engineered wood product manufacturing",229,5,26,blue
+Millwork,230,5,26,blue
+All other wood product manufacturing,231,5,26,blue
+Clay product and refractory manufacturing,232,5,27,blue
+Glass and glass product manufacturing,233,5,27,blue
+Cement manufacturing,234,5,27,blue
+Ready-mix concrete manufacturing,235,5,27,blue
+"Concrete pipe, brick, and block manufacturing",236,5,27,blue
+Other concrete product manufacturing,237,5,27,blue
+Lime and gypsum product manufacturing,238,5,27,blue
+Abrasive product manufacturing,239,5,27,blue
+Cut stone and stone product manufacturing,240,5,27,blue
+Ground or treated mineral and earth manufacturing,241,5,27,blue
+Mineral wool manufacturing,242,5,27,blue
+Miscellaneous nonmetallic mineral products,243,5,27,blue
+Iron and steel mills and ferroalloy manufacturing,244,6,29,blue
+Steel product manufacturing from purchased steel,245,6,29,blue
+Alumina refining and primary aluminum production,246,6,30,blue
+Aluminum product manufacturing from purchased aluminum,247,6,30,blue
+Nonferrous metal (except aluminum) smelting and refining,248,6,30,blue
+"Copper rolling, drawing, extruding and alloying",249,5,31,blue
+"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",250,5,31,blue
+Ferrous metal foundries,251,5,31,blue
+Nonferrous metal foundries,252,5,31,blue
+Custom roll forming,253,5,31,blue
+"All other forging, stamping, and sintering",254,5,31,blue
+"Metal crown, closure, and other metal stamping (except automotive)",255,5,31,blue
+Cutlery and handtool manufacturing,256,5,31,blue
+Plate work and fabricated structural product manufacturing,257,5,31,blue
+Ornamental and architectural metal products manufacturing,258,5,31,blue
+Power boiler and heat exchanger manufacturing,259,5,31,blue
+Metal tank (heavy gauge) manufacturing,260,5,31,blue
+"Metal can, box, and other metal container (light gauge) manufacturing",261,5,31,blue
+Hardware manufacturing,262,5,31,blue
+Spring and wire product manufacturing,263,5,31,blue
+Machine shops,264,5,31,blue
+"Turned product and screw, nut, and bolt manufacturing",265,5,31,blue
+"Coating, engraving, heat treating and allied activities",266,5,31,blue
+Plumbing fixture fitting and trim manufacturing,267,5,31,blue
+Valve and fittings other than plumbing,268,5,31,blue
+Ball and roller bearing manufacturing,269,5,31,blue
+Fabricated pipe and pipe fitting manufacturing,270,5,31,blue
+"Ammunition, arms, ordnance, and accessories manufacturing",271,5,31,blue
+Other fabricated metal manufacturing,272,5,31,blue
+Farm machinery and equipment manufacturing,273,6,33,blue
+Lawn and garden equipment manufacturing,274,6,33,blue
+Construction machinery manufacturing,34,5,32,blue
+Mining and oil and gas field machinery manufacturing,35,5,32,blue
+Semiconductor machinery manufacturing,277,6,36,blue
+Other industrial machinery manufacturing,278,6,36,blue
+Optical instrument and lens manufacturing,279,6,36,blue
+Photographic and photocopying equipment manufacturing,280,6,36,blue
+Other commercial and service industry machinery manufacturing,281,6,36,blue
+Heating equipment (except warm air furnaces) manufacturing,282,6,36,blue
+"Air conditioning, refrigeration, and warm air heating equipment manufacturing",283,6,36,blue
+Industrial and commercial fan and blower and air purification equipment manufacturing,284,6,36,blue
+Industrial mold manufacturing,285,6,36,blue
+"Special tool, die, jig, and fixture manufacturing",286,6,36,blue
+Machine tool manufacturing,287,6,36,blue
+"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",288,6,36,blue
+Turbine and turbine generator set units manufacturing,289,6,36,blue
+"Speed changer, industrial high-speed drive, and gear manufacturing",290,6,36,blue
+Mechanical power transmission equipment manufacturing,291,6,36,blue
+Other engine equipment manufacturing,292,6,36,blue
+Air and gas compressor manufacturing,293,6,36,blue
+"Measuring, dispensing, and other pumping equipment manufacturing",294,6,36,blue
+Material handling equipment manufacturing,295,6,36,blue
+Power-driven handtool manufacturing,296,6,36,blue
+Packaging machinery manufacturing,297,6,36,blue
+Industrial process furnace and oven manufacturing,298,6,36,blue
+Other general purpose machinery manufacturing,299,6,36,blue
+Fluid power process machinery,300,6,36,blue
+Electronic computer manufacturing,301,6,38,blue
+Computer storage device manufacturing,302,6,38,blue
+Computer terminals and other computer peripheral equipment manufacturing,303,6,38,blue
+Telephone apparatus manufacturing,304,6,39,blue
+Broadcast and wireless communications equipment,305,6,39,blue
+Other communications equipment manufacturing,306,6,39,blue
+Semiconductor and related device manufacturing,307,6,40,blue
+Printed circuit assembly (electronic assembly) manufacturing,308,6,40,blue
+Other electronic component manufacturing,309,6,40,blue
+Electromedical and electrotherapeutic apparatus manufacturing,310,6,40,blue
+"Search, detection, and navigation instruments manufacturing",311,6,41,blue
+Automatic environmental control manufacturing,312,6,41,blue
+Industrial process variable instruments manufacturing,313,6,41,blue
+Totalizing fluid meter and counting device manufacturing,314,6,41,blue
+Electricity and signal testing instruments manufacturing,315,6,41,blue
+Analytical laboratory instrument manufacturing,316,6,41,blue
+Irradiation apparatus manufacturing,317,6,41,blue
+"Watch, clock, and other measuring and controlling device manufacturing",318,6,41,blue
+Audio and video equipment manufacturing,319,6,42,blue
+Manufacturing and reproducing magnetic and optical media,320,6,42,blue
+Electric lamp bulb and part manufacturing,321,5,43,blue
+Lighting fixture manufacturing,322,5,43,blue
+Small electrical appliance manufacturing,323,5,43,blue
+Major household appliance manufacturing,324,5,43,blue
+"Power, distribution, and specialty transformer manufacturing",325,5,43,blue
+Motor and generator manufacturing,326,5,43,blue
+Switchgear and switchboard apparatus manufacturing,327,5,43,blue
+Relay and industrial control manufacturing,328,5,43,blue
+Storage battery manufacturing,329,5,43,blue
+Primary battery manufacturing,330,5,43,blue
+Communication and energy wire and cable manufacturing,331,5,43,blue
+Wiring device manufacturing,332,5,43,blue
+Carbon and graphite product manufacturing,333,5,43,blue
+All other miscellaneous electrical equipment and component manufacturing,334,5,43,blue
+Automobile manufacturing,45,5,44,blue
+Light truck and utility vehicle manufacturing,46,5,44,blue
+Heavy duty truck manufacturing,47,5,44,blue
+Motor vehicle body manufacturing,338,6,48,blue
+Truck trailer manufacturing,339,6,48,blue
+Motor home manufacturing,340,6,48,blue
+Travel trailer and camper manufacturing,341,6,48,blue
+Motor vehicle gasoline engine and engine parts manufacturing,342,6,48,blue
+Motor vehicle electrical and electronic equipment manufacturing,343,6,48,blue
+Motor vehicle transmission and power train parts manufacturing,344,6,48,blue
+Motor vehicle seating and interior trim manufacturing,345,6,48,blue
+Motor vehicle metal stamping,346,6,48,blue
+Other motor vehicle parts manufacturing,347,6,48,blue
+"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",348,6,48,blue
+Aircraft manufacturing,349,6,50,blue
+Aircraft engine and engine parts manufacturing,350,6,50,blue
+Other aircraft parts and auxiliary equipment manufacturing,351,6,50,blue
+Guided missile and space vehicle manufacturing,352,6,50,blue
+Propulsion units and parts for space vehicles and guided missiles,353,6,50,blue
+Railroad rolling stock manufacturing,354,6,51,blue
+Ship building and repairing,355,6,51,blue
+Boat building,356,6,51,blue
+"Motorcycle, bicycle, and parts manufacturing",357,6,51,blue
+"Military armored vehicle, tank, and tank component manufacturing",358,6,51,blue
+Other all other transportation equipment manufacturing,359,6,51,blue
+Wood kitchen cabinet and countertop manufacturing,360,5,52,blue
+Upholstered household furniture manufacturing,361,5,52,blue
+Nonupholstered wood household furniture manufacturing,362,5,52,blue
+Institutional furniture manufacturing,363,5,52,blue
+Other household nonupholstered furniture,364,5,52,blue
+"Showcase, partition, shelving, and locker manufacturing",365,5,52,blue
+Office furniture and custom architectural woodwork and millwork manufacturing,366,5,52,blue
+Other furniture related product manufacturing,367,5,52,blue
+Surgical and medical instrument manufacturing,368,6,54,blue
+Surgical appliance and supplies manufacturing,369,6,54,blue
+Dental equipment and supplies manufacturing,370,6,54,blue
+Ophthalmic goods manufacturing,371,6,54,blue
+Dental laboratories,372,6,54,blue
+Jewelry and silverware manufacturing,373,6,55,blue
+Sporting and athletic goods manufacturing,374,6,55,blue
+"Doll, toy, and game manufacturing",375,6,55,blue
+Office supplies (except paper) manufacturing,376,6,55,blue
+Sign manufacturing,377,6,55,blue
+All other miscellaneous manufacturing,378,6,55,blue
+Dog and cat food manufacturing,379,6,58,blue
+Other animal food manufacturing,380,6,58,blue
+Flour milling and malt manufacturing,381,6,58,blue
+Wet corn milling,382,6,58,blue
+Fats and oils refining and blending,383,6,58,blue
+Soybean and other oilseed processing,384,6,58,blue
+Breakfast cereal manufacturing,385,6,58,blue
+Sugar and confectionery product manufacturing,386,6,58,blue
+Frozen food manufacturing,387,6,58,blue
+"Fruit and vegetable canning, pickling, and drying",388,6,58,blue
+Cheese manufacturing,389,6,58,blue
+"Dry, condensed, and evaporated dairy product manufacturing",390,6,58,blue
+Fluid milk and butter manufacturing,391,6,58,blue
+Ice cream and frozen dessert manufacturing,392,6,58,blue
+Poultry processing,393,6,58,blue
+"Animal (except poultry) slaughtering, rendering, and processing",394,6,58,blue
+Seafood product preparation and packaging,395,6,58,blue
+Bread and bakery product manufacturing,396,6,58,blue
+"Cookie, cracker, pasta, and tortilla manufacturing",397,6,58,blue
+Snack food manufacturing,398,6,58,blue
+Coffee and tea manufacturing,399,6,58,blue
+Flavoring syrup and concentrate manufacturing,400,6,58,blue
+Seasoning and dressing manufacturing,401,6,58,blue
+All other food manufacturing,402,6,58,blue
+Soft drink and ice manufacturing,403,6,59,blue
+Breweries,404,6,59,blue
+Wineries,405,6,59,blue
+Distilleries,406,6,59,blue
+Tobacco product manufacturing,60,5,57,blue
+"Fiber, yarn, and thread mills",408,5,61,blue
+Fabric mills,409,5,61,blue
+Textile and fabric finishing and fabric coating mills,410,5,61,blue
+Carpet and rug mills,411,5,61,blue
+Curtain and linen mills,412,5,61,blue
+Other textile product mills,413,5,61,blue
+Apparel manufacturing,414,5,62,blue
+Leather and allied product manufacturing,415,5,62,blue
+Pulp mills,416,5,63,blue
+Paper mills,417,5,63,blue
+Paperboard mills,418,5,63,blue
+Paperboard container manufacturing,419,5,63,blue
+Paper bag and coated and treated paper manufacturing,420,5,63,blue
+Stationery product manufacturing,421,5,63,blue
+Sanitary paper product manufacturing,422,5,63,blue
+All other converted paper product manufacturing,423,5,63,blue
+Printing,424,5,64,blue
+Support activities for printing,425,5,64,blue
+Petroleum refineries,426,5,65,blue
+Asphalt paving mixture and block manufacturing,427,5,65,blue
+Asphalt shingle and coating materials manufacturing,428,5,65,blue
+Other petroleum and coal products manufacturing,429,5,65,blue
+Petrochemical manufacturing,430,6,67,blue
+Industrial gas manufacturing,431,6,67,blue
+Synthetic dye and pigment manufacturing,432,6,67,blue
+Other basic inorganic chemical manufacturing,433,6,67,blue
+Other basic organic chemical manufacturing,434,6,67,blue
+Plastics material and resin manufacturing,435,6,68,blue
+Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,436,6,68,blue
+Medicinal and botanical manufacturing,437,6,69,blue
+Pharmaceutical preparation manufacturing,438,6,69,blue
+In-vitro diagnostic substance manufacturing,439,6,69,blue
+Biological product (except diagnostic) manufacturing,440,6,70,blue
+Fertilizer manufacturing,441,6,70,blue
+Pesticide and other agricultural chemical manufacturing,442,6,70,blue
+Paint and coating manufacturing,443,6,70,blue
+Adhesive manufacturing,444,6,70,blue
+Soap and cleaning compound manufacturing,445,6,70,blue
+Toilet preparation manufacturing,446,6,70,blue
+Printing ink manufacturing,447,6,70,blue
+All other chemical product and preparation manufacturing,448,6,70,blue
+Plastics packaging materials and unlaminated film and sheet manufacturing,449,5,71,blue
+"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",450,5,71,blue
+"Laminated plastics plate, sheet (except packaging), and shape manufacturing",451,5,71,blue
+Polystyrene foam product manufacturing,452,5,71,blue
+Urethane and other foam product (except polystyrene) manufacturing,453,5,71,blue
+Plastics bottle manufacturing,454,5,71,blue
+Other plastics product manufacturing,455,5,71,blue
+Tire manufacturing,456,5,71,blue
+Rubber and plastics hoses and belting manufacturing,457,5,71,blue
+Other rubber product manufacturing,458,5,71,blue
+Motor vehicle and motor vehicle parts and supplies,73,3,72,pink
+Professional and commercial equipment and supplies,74,3,72,pink
+Household appliances and electrical and electronic goods,75,3,72,pink
+"Machinery, equipment, and supplies",76,3,72,pink
+Other durable goods merchant wholesalers,77,3,72,pink
+Drugs and druggists' sundries,78,3,72,pink
+Grocery and related product wholesalers,79,3,72,pink
+Petroleum and petroleum products,80,3,72,pink
+Other nondurable goods merchant wholesalers,81,3,72,pink
+Wholesale electronic markets and agents and brokers,82,3,72,pink
+Customs duties,83,3,72,pink
+Motor vehicle and parts dealers,85,3,84,pink
+Food and beverage stores,86,3,84,pink
+General merchandise stores,87,3,84,pink
+Building material and garden equipment and supplies dealers,89,4,88,pink
+Health and personal care stores,90,4,88,pink
+Gasoline stations,91,4,88,pink
+Clothing and clothing accessories stores,92,4,88,pink
+Nonstore retailers,93,4,88,pink
+All other retail,94,4,88,pink
+Air transportation,96,3,95,blue
+Rail transportation,97,3,95,blue
+Water transportation,98,3,95,blue
+Truck transportation,99,3,95,blue
+Transit and ground passenger transportation,100,3,95,blue
+Pipeline transportation,101,3,95,blue
+Scenic and sightseeing transportation and support activities,103,4,102,blue
+Couriers and messengers,104,4,102,blue
+Warehousing and storage,105,3,95,blue
+Newspaper publishers,488,5,108,white
+Periodical Publishers,489,5,108,white
+Book publishers,490,5,108,white
+"Directory, mailing list, and other publishers",491,5,108,white
+Software publishers,109,4,107,white
+Motion picture and video industries,493,4,110,white
+Sound recording industries,494,4,110,white
+Radio and television broadcasting,495,5,112,white
+Cable and other subscription programming,496,5,112,white
+Wired telecommunications carriers,113,4,111,white
+Wireless telecommunications carriers (except satellite),114,4,111,white
+"Satellite, telecommunications resellers, and all other telecommunications",499,5,115,white
+"Data processing, hosting, and related services",117,4,116,white
+Internet publishing and broadcasting and Web search portals,501,5,118,white
+"News syndicates, libraries, archives and all other information services",502,5,118,white
+Nondepository credit intermediation and related activities,503,5,121,white
+Monetary authorities and depository credit intermediation,504,5,121,white
+Other financial investment activities,505,5,121,white
+Securities and commodity contracts intermediation and brokerage,122,4,120,white
+Direct life insurance carriers,124,5,123,white
+"Insurance carriers, except direct life",125,5,123,white
+"Insurance agencies, brokerages, and related activities",126,5,123,white
+"Funds, trusts, and other financial vehicles",127,4,120,white
+Owner-occupied housing,131,6,130,white
+Tenant-occupied housing,132,6,130,white
+Other real estate,133,5,129,white
+Automotive equipment rental and leasing,514,5,134,white
+Commercial and industrial machinery and equipment rental and leasing,515,5,134,white
+General and consumer goods rental,516,5,134,white
+Lessors of nonfinancial intangible assets,517,5,134,white
+Legal services,137,4,136,white
+Custom computer programming services,519,5,138,white
+Computer systems design services,520,5,138,white
+"Other computer related services, including facilities management",521,5,138,white
+"Accounting, tax preparation, bookkeeping, and payroll services",140,5,139,white
+"Architectural, engineering, and related services",141,5,139,white
+Management consulting services,524,6,142,white
+Environmental and other technical consulting services,525,6,142,white
+Scientific research and development services,143,5,139,white
+"Advertising, public relations, and related services",144,5,139,white
+Specialized design services,528,6,145,white
+Photographic services,529,6,145,white
+Veterinary services,530,6,145,white
+"All other miscellaneous professional, scientific, and technical services",531,6,145,white
+Management of companies and enterprises,146,3,135,white
+Employment services,149,5,148,white
+Services to buildings and dwellings,150,5,148,white
+Office administrative services,535,6,151,white
+Facilities support services,536,6,151,white
+Business support services,537,6,151,white
+Travel arrangement and reservation services,538,6,151,white
+Investigation and security services,539,6,151,white
+Other support services,540,6,151,white
+Waste management and remediation services,152,4,147,white
+Elementary and secondary schools,542,4,154,pink
+"Junior colleges, colleges, universities, and professional schools",543,4,154,pink
+Other educational services,544,4,154,pink
+Offices of physicians,157,5,156,pink
+Offices of dentists,158,5,156,pink
+Offices of other health practitioners,159,5,156,pink
+Outpatient care centers,160,5,156,pink
+Medical and diagnostic laboratories,549,6,161,pink
+Home health care services,550,6,161,pink
+Other other ambulatory health care services,551,6,161,pink
+Hospitals,162,4,155,pink
+Nursing and community care facilities,553,5,163,pink
+"Residential mental health, substance abuse, and other residential care facilities",554,5,163,pink
+Individual and family services,555,5,164,pink
+Child day care services,556,5,164,pink
+"Community food, housing, and other relief services, including vocational rehabilitation services",557,5,164,pink
+Performing arts companies,558,5,167,pink
+Spectator sports,559,5,167,pink
+"Independent artists, writers, and performers",560,5,167,pink
+Promoters of performing arts and sports and agents for public figures,561,5,167,pink
+"Museums, historical sites, zoos, and parks",562,5,167,pink
+Amusement parks and arcades,563,5,168,pink
+Gambling industries (except casino hotels),564,5,168,pink
+Other amusement and recreation industries,565,5,168,pink
+Accommodation,170,4,169,pink
+Full-service restaurants,567,5,171,pink
+Limited-service restaurants,568,5,171,pink
+All other food and drinking places,569,5,171,pink
+Automotive repair and maintenance,570,4,173,pink
+Electronic and precision equipment repair and maintenance,571,4,173,pink
+Commercial and industrial machinery and equipment repair and maintenance,572,4,173,pink
+Personal and household goods repair and maintenance,573,4,173,pink
+Personal care services,574,4,174,pink
+Death care services,575,4,174,pink
+Dry-cleaning and laundry services,576,4,174,pink
+Other personal services,577,4,174,pink
+Religious organizations,578,4,175,pink
+"Grantmaking, giving, and social advocacy organizations",579,4,175,pink
+"Civic, social, professional, and similar organizations",580,4,175,pink
+Private households,176,3,172,pink
+Federal general government (defense),180,4,179,
+Federal general government (nondefense),181,4,179,
+Postal service,584,4,182,
+Other federal government enterprises,585,4,182,
+State and local government (educational services),185,4,184,
+State and local government (hospitals and health services),186,4,184,
+State and local government (other services),187,4,184,
+Other state and local government enterprises,188,3,183,
+Scrap,590,1,1,
+Used and secondhand goods,591,1,1,
+Noncomparable imports,592,1,1,
+Rest of the world adjustment,593,1,1,
+        All industries,1,0,0,
+Private industries,2,1,1,
+"    Agriculture, forestry, fishing, and hunting",3,2,2,blue
+        Farms,4,3,3,blue
+            Crop production,5,4,4,blue
+            Animal production and aquaculture,6,4,4,blue
+"        Forestry, fishing, and related activities",7,3,3,blue
+    Mining,8,2,2,blue
+        Oil and gas extraction,9,3,8,blue
+"        Mining, except oil and gas",10,3,8,blue
+        Support activities for mining,11,3,8,blue
+    Utilities,12,2,2,blue
+"        Electric power generation, transmission, and distribution",13,3,12,blue
+"        Natural gas distribution and water, sewage and other systems",14,3,12,blue
+    Construction,15,2,2,blue
+"        Education, hospital, and health structures",16,3,15,blue
+        Maintenance and repair construction,17,3,15,blue
+        Office and commercial structures,18,3,15,blue
+        Other residential construction,19,3,15,blue
+        Other nonresidential structures,20,3,15,blue
+        Power and communication structures,21,3,15,blue
+        Single-family residential structures,22,3,15,blue
+        Transportation structures and highways and streets,23,3,15,blue
+    Manufacturing,24,2,2,blue
+        Durable goods,25,3,24,blue
+            Wood products,26,4,25,blue
+            Nonmetallic mineral products,27,4,25,blue
+            Primary metals,28,4,25,blue
+                    Iron and steel mills and manufacturing from purchased steel,29,5,28,blue
+                    Nonferrous metal production and processing and foundries,30,5,28,blue
+            Fabricated metal products,31,4,25,blue
+            Machinery,32,4,25,blue
+                    Agricultural implement manufacturing,33,5,32,blue
+                    Construction machinery manufacturing,34,5,32,blue
+                    Mining and oil and gas field machinery manufacturing,35,5,32,blue
+                    Other machinery,36,5,32,blue
+            Computer and electronic products,37,4,25,blue
+                    Computer and peripheral equipment manufacturing,38,5,37,blue
+                    Communications equipment manufacturing,39,5,37,blue
+                    Semiconductor and other electronic component manufacturing,40,5,37,blue
+"                    Navigational, measuring, electromedical, and control instruments manufacturing",41,5,37,blue
+                    Other computer and electronic product manufacturing,42,5,37,blue
+"            Electrical equipment, appliances, and components",43,4,25,blue
+"            Motor vehicles, bodies and trailers, and parts",44,4,25,blue
+                    Automobile manufacturing,45,5,44,blue
+                    Light truck and utility vehicle manufacturing,46,5,44,blue
+                    Heavy duty truck manufacturing,47,5,44,blue
+"                    Motor vehicle body, trailer, and parts manufacturing",48,5,44,blue
+            Other transportation equipment,49,4,25,blue
+                    Aerospace product and parts manufacturing,50,5,49,blue
+                    All other transportation equipment manufacturing,51,5,49,blue
+            Furniture and related products,52,4,25,blue
+            Miscellaneous manufacturing,53,4,25,blue
+                    Medical equipment and supplies manufacturing,54,5,49,blue
+                    Other miscellaneous manufacturing,55,5,49,blue
+        Nondurable goods,56,3,24,blue
+            Food and beverage and tobacco products,57,4,56,blue
+                    Food manufacturing,58,5,57,blue
+                    Beverage manufacturing,59,5,57,blue
+                    Tobacco product manufacturing,60,5,57,blue
+            Textile mills and textile product mills,61,4,56,blue
+            Apparel and leather and allied products,62,4,56,blue
+            Paper products,63,4,56,blue
+            Printing and related support activities,64,4,56,blue
+            Petroleum and coal products,65,4,56,blue
+            Chemical products,66,4,56,blue
+                    Basic chemical manufacturing,67,5,66,blue
+"                    Resin, rubber, and artificial fibers manufacturing",68,5,66,blue
+                    Pharmaceutical and medicine manufacturing,69,5,66,blue
+                    Other chemical manufacturing,70,5,66,blue
+            Plastics and rubber products,71,4,56,blue
+    Wholesale trade,72,2,2,pink
+        Motor vehicle and motor vehicle parts and supplies merchant wholesalers,73,3,72,pink
+        Professional and commercial equipment and supplies merchant wholesalers,74,3,72,pink
+        Household appliances and electrical and electronic goods merchant wholesalers,75,3,72,pink
+"        Machinery, equipment, and supplies merchant wholesalers",76,3,72,pink
+        Other durable goods merchant wholesalers,77,3,72,pink
+        Drugs and druggists sundries merchant wholesalers,78,3,72,pink
+        Grocery and related products merchant wholesalers,79,3,72,pink
+        Petroleum and petroleum products merchant wholesalers,80,3,72,pink
+        Other nondurable goods merchant wholesalers,81,3,72,pink
+        Wholesale electronic markets and agents and brokers,82,3,72,pink
+        Customs duties,83,3,72,pink
+    Retail trade,84,2,2,pink
+        Motor vehicle and parts dealers,85,3,84,pink
+        Food and beverage stores,86,3,84,pink
+        General merchandise stores,87,3,84,pink
+        Other retail,88,3,84,pink
+            Building material and garden equipment and supplies dealers,89,4,88,pink
+            Health and personal care stores,90,4,88,pink
+            Gasoline stations,91,4,88,pink
+            Clothing and clothing accessories stores,92,4,88,pink
+            Nonstore retailers,93,4,88,pink
+            All other retail,94,4,88,pink
+    Transportation and warehousing,95,2,2,blue
+        Air transportation,96,3,95,blue
+        Rail transportation,97,3,95,blue
+        Water transportation,98,3,95,blue
+        Truck transportation,99,3,95,blue
+        Transit and ground passenger transportation,100,3,95,blue
+        Pipeline transportation,101,3,95,blue
+        Other transportation and support activities,102,3,95,blue
+            Scenic and sightseeing transportation and support activities,103,4,102,blue
+            Couriers and messengers,104,4,102,blue
+        Warehousing and storage,105,3,95,blue
+    Information,106,2,2,white
+"        Publishing industries, except internet (includes software)",107,3,106,white
+"            Newspaper, periodical, book, and directory publishers",108,4,107,white
+            Software publishers,109,4,107,white
+        Motion picture and sound recording industries,110,3,106,white
+        Broadcasting and telecommunications,111,3,106,white
+            Broadcasting (except Internet),112,4,111,white
+            Wired telecommunications carriers,113,4,111,white
+            Wireless telecommunications carriers (except satellites),114,4,111,white
+"            Other telecommunications, including satellite",115,4,111,white
+"        Data processing, internet publishing, and other information services",116,3,106,white
+"            Data processing, hosting, and related services",117,4,116,white
+            Other information services,118,4,116,white
+"    Finance, insurance, real estate, rental, and leasing",119,2,2,white
+        Finance and insurance,120,3,119,white
+"            Federal Reserve banks, credit intermediation, and related activities",121,4,120,white
+"            Securities, commodity contracts, and investments",122,4,120,white
+            Insurance carriers and related activities,123,4,120,white
+                Direct life insurance carriers,124,5,123,white
+"                Insurance carriers, except direct life insurance",125,5,123,white
+"                Agencies, brokerages, and other insurance related activities",126,5,123,white
+"            Funds, trusts, and other financial vehicles",127,4,120,white
+        Real estate and rental and leasing,128,3,119,white
+            Real estate,129,4,128,white
+                Housing,130,5,129,white
+                    Owner-occupied housing,131,6,130,white
+                    Tenant-occupied housing,132,6,130,white
+                Other real estate,133,5,129,white
+            Rental and leasing services and lessors of intangible assets,134,4,128,white
+    Professional and business services,135,2,2,white
+"        Professional, scientific, and technical services",136,3,135,white
+            Legal services,137,4,136,white
+            Computer systems design and related services,138,4,136,white
+"            Miscellaneous professional, scientific, and technical services",139,4,136,white
+"                Accounting, tax preparation, bookkeeping, and payroll services",140,5,139,white
+"                Architectural, engineering, and related services",141,5,139,white
+"                Management, scientific, and technical consulting services",142,5,139,white
+                Scientific research and development services,143,5,139,white
+"                Advertising, public relations, and related services",144,5,139,white
+"                Specialized design services and other professional, scientific, and technical services",145,5,139,white
+        Management of companies and enterprises,146,3,135,white
+        Administrative and waste management services,147,3,135,white
+            Administrative and support services,148,4,147,white
+                    Employment services,149,5,148,white
+                    Services to buildings and dwellings,150,5,148,white
+                    Other administrative and support services,151,5,148,white
+            Waste management and remediation services,152,4,147,white
+"    Educational services, health care, and social assistance",153,2,2,pink
+        Educational services,154,3,153,pink
+        Health care and social assistance,155,3,153,pink
+            Ambulatory health care services,156,4,155,pink
+                Offices of physicians,157,5,156,pink
+                Offices of dentists,158,5,156,pink
+                Offices of other health practitioners,159,5,156,pink
+                Outpatient care centers,160,5,156,pink
+                Other ambulatory health care services,161,5,156,pink
+            Hospitals,162,4,155,pink
+            Nursing and residential care facilities,163,4,155,pink
+            Social assistance,164,4,155,pink
+"    Arts, entertainment, recreation, accommodation, and food services",165,2,2,pink
+"        Arts, entertainment, and recreation",166,3,165,pink
+"            Performing arts, spectator sports, museums, and related activities",167,4,166,pink
+"            Amusements, gambling, and recreation industries",168,4,166,pink
+        Accommodation and food services,169,3,165,pink
+            Accommodation,170,4,169,pink
+            Food services and drinking places,171,4,169,pink
+"    Other services, except government",172,2,2,pink
+        Repair and maintenance,173,3,172,pink
+        Personal and laundry services,174,3,172,pink
+"        Religious, grantmaking, civic, professional, and similar organizations",175,3,172,pink
+        Private households,176,3,172,pink
+Government,177,1,1,
+    Federal,178,2,177,
+        Federal general government,179,3,178,
+            National defense,180,4,179,
+            Nondefense,181,4,179,
+        Federal government enterprises,182,3,178,
+    State and local,183,2,177,
+        State and local general government,184,3,183,
+            State and local government educational services,185,4,184,
+            State and local government hospitals and health services,186,4,184,
+            State and local government other services,187,4,184,
+        State and localovernment enterprises,188,3,183,
+        Private goods-producing industries 1,189,-1,-1,
+        Private services-producing industries 2,190,-1,-1,
+        Information-communications-technology-producing industries 3,191,-1,-1,
+,,-2,-2,
+Hospitals and nursing and residential care facilities,594,4,155,pink

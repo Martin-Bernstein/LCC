@@ -1,0 +1,101 @@
+﻿row,industry,row,industry,row,industry,row,industry
+1,        All industries,1,            All industries,1,            All industries,1,All industries
+2,Domestic industries,2,Domestic industries,2,Domestic industries,2,Domestic industries
+3,    Private industries,3,    Private industries,3,    Private industries1,3,    Private industries
+4,"        Agriculture, forestry, and fisheries",4,"        Agriculture, forestry, and fishing",4,"        Agriculture, forestry, and fishing",4,"        Agriculture, forestry, fishing, and hunting"
+,"        Agriculture, forestry, and fishing",,,,,,
+,"        Agriculture, forestry, fishing, and hunting",,,,,,
+5,            Farms,5,            Farms,5,            Farms,5,            Farms1
+6,"            Agricultural services, forestry, and fisheries",6,"            Agricultural services, forestry, and fishing",6,"            Agricultural services, forestry, and fishing",6,"            Forestry, fishing, and related activities"
+,"            Forestry, fishing, and related activities",,,,,,
+7,        Mining,7,        Mining,7,        Mining,7,        Mining
+8,            Metal mining,8,            Metal mining,8,            Metal mining,8,            Oil and gas extraction
+9,            Anthracite mining,9,            Coal mining,9,            Coal mining,9,"            Mining, except oil and gas"
+10,            Bituminous and other soft coal mining,10,            Oil and gas extraction,10,            Oil and gas extraction,10,            Support activities for mining
+11,            Crude petroleum and natural gas,11,"            Nonmetallic minerals, except fuels",11,"            Nonmetallic minerals, except fuels",11,        Utilities
+12,            Nonmetallic mining and quarrying,12,        Construction,12,        Construction,12,        Construction
+13,        Contract construction,13,        Manufacturing,13,        Manufacturing,13,        Manufacturing
+14,        Manufacturing,14,            Durable goods,14,            Durable goods,14,            Durable goods
+15,            Durable goods,15,                Lumber and wood products,15,                Lumber and wood products,15,                Wood products
+16,                Lumber and basic timber products,16,                Furniture and fixtures,16,                Furniture and fixtures,16,                Nonmetallic mineral products
+17,                Furniture and finished lumber products2,17,"                Stone, clay, and glass products",17,"                Stone, clay, and glass products",17,                Primary metals
+18,"                Stone, clay, and glass products",18,                Primary metal industries,18,                Primary metal industries,18,                Fabricated metal products
+19,"                Iron and steel and their products, including ordnance",19,                Fabricated metal products,19,                Fabricated metal products,19,                Machinery
+20,                Nonferrous metals and their products3,20,"                Machinery, except electrical",20,                Industrial machinery and equipment,20,                Computer and electronic products
+21,"                Machinery, except electrical",21,                Electric and electronic equipment,21,                Electronic and other electric equipment,21,"                Electrical equipment, appliances, and components"
+22,                Electric and electronic equipment,22,                Motor vehicles and equipment,22,                Motor vehicles and equipment,22,"                Motor vehicles, bodies and trailers, and parts"
+23,                Motor vehicles and equipment,23,                Other transportation equipment,23,                Other transportation equipment,23,                Other transportation equipment
+24,                Other transportation equipment3,24,                Instruments and related products,24,                Instruments and related products,24,                Furniture and related products
+25,"                Miscellaneous manufacturing, including instruments and miscellaneous plastic products",25,                Miscellaneous manufacturing industries,25,                Miscellaneous manufacturing industries,25,                Miscellaneous manufacturing
+26,            Nondurable goods,26,            Nondurable goods,26,            Nondurable goods,26,            Nondurable goods
+27,                Food and kindred products,27,                Food and kindred products,27,                Food and kindred products,27,                Food and beverage and tobacco products
+28,                Tobacco manufactures,28,                Tobacco manufactures,28,                Tobacco products,28,                Textile mills and textile product mills
+29,                Textile mill products,29,                Textile mill products,29,                Textile mill products,29,                Apparel and leather and allied products
+30,                Apparel and other textile products,30,                Apparel and other textile products,30,                Apparel and other textile products,30,                Paper products
+31,                Paper and allied products,31,                Paper and allied products,31,                Paper and allied products,31,                Printing and related support activities
+32,                Printing and publishing,32,                Printing and publishing,32,                Printing and publishing,32,                Petroleum and coal products
+33,                Chemicals and allied products,33,                Chemicals and allied products,33,                Chemicals and allied products,33,                Chemical products
+34,                Petroleum and coal products,34,                Petroleum and coal products,34,                Petroleum and coal products,34,                Plastics and rubber products
+35,                Rubber products,35,                Rubber and miscellaneous plastics products,35,                Rubber and miscellaneous plastics products,35,        Wholesale trade
+36,                Leather and leather products,36,                Leather and leather products,36,                Leather and leather products,36,            Durable goods
+37,        Transportation and public utilities,37,        Transportation and public utilities,37,        Transportation and public utilities,37,            Nondurable goods
+38,            Transportation,38,            Transportation,38,            Transportation,38,        Retail trade
+39,                Railroad transportation,39,                Railroad transportation,39,                Railroad transportation,39,            Motor vehicle and parts dealers
+40,                Local and interurban passenger transit,40,                Local and interurban passenger transit,40,                Local and interurban passenger transit,40,            Food and beverage stores
+41,                Trucking and warehousing,41,                Trucking and warehousing1,41,                Trucking and warehousing2,41,            General merchandise stores
+42,                Water transportation,42,                Water transportation,42,                Water transportation,42,            Other retail2
+43,                Transportation by air,43,                Transportation by air1,43,                Transportation by air2,43,        Transportation and warehousing
+44,"                Pipelines, except natural gas",44,"                Pipelines, except natural gas",44,"                Pipelines, except natural gas",44,            Air transportation
+45,                Transportation services,45,                Transportation services,45,                Transportation services,45,            Rail transportation
+46,            Communication,46,            Communication,46,            Communications,46,            Water transportation
+47,                Telephone and telegraph,47,                Telephone and telegraph,47,                Telephone and telegraph,47,            Truck transportation
+48,                Radio and television broadcasting,48,                Radio and television,48,                Radio and television,48,            Transit and ground passenger transportation
+49,"            Electric, gas, and sanitary services",49,"            Electric, gas, and sanitary services",49,"            Electric, gas, and sanitary services",49,            Pipeline transportation
+50,                Utilities: electric and gas,50,        Wholesale trade,50,        Wholesale trade,50,            Other transportation and support activities3
+51,"                Local utilities and public services, n.e.c.",51,        Retail trade,51,        Retail trade,51,            Warehousing and storage
+52,        Wholesale trade,52,"        Finance, insurance, and real estate",52,"        Finance, insurance, and real estate",52,        Information
+53,        Retail trade and automobile services,53,            Banking,53,            Depository institutions,53,            Publishing industries (includes software)
+54,"        Finance, insurance, and real estate",54,            Credit agencies other than banks,54,            Nondepository institutions,54,            Motion picture and sound recording industries
+55,            Banking,55,            Security and commodity brokers,55,            Security and commodity brokers,55,            Broadcasting and telecommunications
+56,"            Security and commodity brokers, and services",56,            Insurance carriers,56,            Insurance carriers,56,            Information and data processing services
+57,            Credit agencies (other than banks) and holding and other investment companies,57,"            Insurance agents, brokers, and service",57,"            Insurance agents, brokers, and service",57,        Finance and insurance
+58,            Insurance carriers,58,            Real estate,58,            Real estate,58,"            Federal Reserve banks, credit intermediation, and related activities"
+59,"            Insurance agents, brokers, and service",59,            Holding and other investment offices,59,            Holding and other investment offices,59,"            Securities, commodity contracts, and investments"
+60,            Real estate,60,        Services,60,        Services,60,            Insurance carriers and related activities
+61,        Services,61,            Hotels and other lodging places,61,            Hotels and other lodging places,61,"            Funds, trusts, and other financial vehicles"
+62,            Hotels and other lodging places,62,            Personal services,62,            Personal services,62,        Real estate and rental and leasing
+63,            Personal services,63,            Business services,63,            Business services,63,            Real estate
+64,            Commercial and trade schools and employment agencies4,64,"            Auto repair, services, and parking",64,"            Auto repair, services, and parking",64,            Rental and leasing services and lessors of intangible assets4
+65,            Business services,65,            Miscellaneous repair services,65,            Miscellaneous repair services,65,"        Professional, scientific, and technical services"
+66,            Miscellaneous repair services,66,            Motion pictures,66,            Motion pictures,66,            Legal services
+67,            Motion pictures,67,            Amusement and recreation services,67,            Amusement and recreation services,67,            Computer systems design and related services
+68,            Amusement and recreation services,68,            Health services,68,            Health services,68,"            Miscellaneous professional, scientific, and technical services5"
+69,            Health services,69,            Legal services,69,            Legal services,69,        Management of companies and enterprises6
+70,            Legal services,70,            Educational services,70,            Educational services,70,        Administrative and waste management services
+71,"            Educational services, n.e.c.",71,            Social services and membership organizations,71,            Social services and membership organizations,71,            Administrative and support services
+72,            Membership organizations,72,                Social services,72,                Social services,72,            Waste management and remediation services
+73,            Miscellaneous professional services,73,                Membership organizations,73,                Membership organizations,73,        Educational services
+74,            Private households,74,            Miscellaneous professional services,74,            Other services3,74,        Health care and social assistance
+75,    Government,75,            Private households,75,            Private households,75,            Ambulatory health care services
+76,        Federal,76,    Government,76,    Government,76,            Hospitals
+77,            General government,77,        Federal,77,        Federal,77,            Nursing and residential care facilities
+78,"                Civilian, except work relief",78,            General government,78,            General government,78,            Social assistance
+79,                Military5,79,                Civilian,79,                Civilian,79,"        Arts, entertainment, and recreation"
+80,                Work relief,80,                Military2,80,                Military4,80,"            Performing arts, spectator sports, museums, and related activities"
+81,            Government enterprises,81,            Government enterprises,81,            Government enterprises,81,"            Amusements, gambling, and recreation industries"
+82,        State and local,82,        State and local,82,        State and local,82,        Accommodation and food services
+83,            General government,83,            General government,83,            General government,83,            Accommodation
+84,                Public education,84,                Education,84,                Education,84,            Food services and drinking places
+85,"                Nonschool, except work relief",85,                Other,85,                Other1,85,"        Other services, except government"
+86,                Work relief,86,            Government enterprises,86,            Government enterprises1,86,    Government
+87,            Government enterprises,87,Rest of the world,87,Rest of the world5,87,        Federal
+88,Rest of the world,,,,,88,            Federal general government
+,,,,,,89,                Civilian
+,,,,,,90,                Military
+,,,,,,91,            Federal government enterprises
+,,,,,,92,        State and local
+,,,,,,93,            State and local general government
+,,,,,,94,                Education
+,,,,,,95,                State and local general government other
+,,,,,,96,            State and local government enterprises
+,,,,,,97,Rest of the world9

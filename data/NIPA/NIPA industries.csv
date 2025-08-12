@@ -1,0 +1,193 @@
+﻿naics,id,level,parent,industry
+0,1,0,0,        All industries
+1,2,1,1,Private industries
+11,3,2,2,"    Agriculture, forestry, fishing, and hunting"
+111-112,4,3,3,        Farms
+111,5,4,4,            Crop production
+112,6,4,4,            Animal production and aquaculture
+113-115,7,3,3,"        Forestry, fishing, and related activities"
+21,8,2,2,    Mining
+,9,3,8,        Oil and gas extraction
+,10,3,8,"        Mining, except oil and gas"
+,11,3,8,        Support activities for mining
+22,12,2,2,    Utilities
+,13,3,12,"        Electric power generation, transmission, and distribution"
+,14,3,12,"        Natural gas distribution and water, sewage and other systems"
+23,15,2,2,    Construction
+,16,3,15,"        Education, hospital, and health structures"
+,17,3,15,        Maintenance and repair construction
+,18,3,15,        Office and commercial structures
+,19,3,15,        Other residential construction
+,20,3,15,        Other nonresidential structures
+,21,3,15,        Power and communication structures
+,22,3,15,        Single-family residential structures
+,23,3,15,        Transportation structures and highways and streets
+31-33,24,2,2,    Manufacturing
+,25,3,24,        Durable goods
+,26,4,25,            Wood products
+,27,4,25,            Nonmetallic mineral products
+,28,4,25,            Primary metals
+,29,5,28,                    Iron and steel mills and manufacturing from purchased steel
+,30,5,28,                    Nonferrous metal production and processing and foundries
+,31,4,25,            Fabricated metal products
+,32,4,25,            Machinery
+,33,5,32,                    Agricultural implement manufacturing
+,34,5,32,                    Construction machinery manufacturing
+,35,5,32,                    Mining and oil and gas field machinery manufacturing
+,36,5,32,                    Other machinery
+,37,4,25,            Computer and electronic products
+,38,5,37,                    Computer and peripheral equipment manufacturing
+,39,5,37,                    Communications equipment manufacturing
+,40,5,37,                    Semiconductor and other electronic component manufacturing
+,41,5,37,"                    Navigational, measuring, electromedical, and control instruments manufacturing"
+,42,5,37,                    Other computer and electronic product manufacturing
+,43,4,25,"            Electrical equipment, appliances, and components"
+,44,4,25,"            Motor vehicles, bodies and trailers, and parts"
+,45,5,44,                    Automobile manufacturing
+,46,5,44,                    Light truck and utility vehicle manufacturing
+,47,5,44,                    Heavy duty truck manufacturing
+,48,5,44,"                    Motor vehicle body, trailer, and parts manufacturing"
+,49,4,25,            Other transportation equipment
+,50,5,49,                    Aerospace product and parts manufacturing
+,51,5,49,                    All other transportation equipment manufacturing
+,52,4,25,            Furniture and related products
+,53,4,25,            Miscellaneous manufacturing
+,54,5,49,                    Medical equipment and supplies manufacturing
+,55,5,49,                    Other miscellaneous manufacturing
+,56,3,24,        Nondurable goods
+,57,4,56,            Food and beverage and tobacco products
+,58,5,57,                    Food manufacturing
+,59,5,57,                    Beverage manufacturing
+,60,5,57,                    Tobacco product manufacturing
+,61,4,56,            Textile mills and textile product mills
+,62,4,56,            Apparel and leather and allied products
+,63,4,56,            Paper products
+,64,4,56,            Printing and related support activities
+,65,4,56,            Petroleum and coal products
+,66,4,56,            Chemical products
+,67,5,66,                    Basic chemical manufacturing
+,68,5,66,"                    Resin, rubber, and artificial fibers manufacturing"
+,69,5,66,                    Pharmaceutical and medicine manufacturing
+,70,5,66,                    Other chemical manufacturing
+,71,4,56,            Plastics and rubber products
+42,72,2,2,    Wholesale trade
+,73,3,72,        Motor vehicle and motor vehicle parts and supplies merchant wholesalers
+,74,3,72,        Professional and commercial equipment and supplies merchant wholesalers
+,75,3,72,        Household appliances and electrical and electronic goods merchant wholesalers
+,76,3,72,"        Machinery, equipment, and supplies merchant wholesalers"
+,77,3,72,        Other durable goods merchant wholesalers
+,78,3,72,        Drugs and druggists sundries merchant wholesalers
+,79,3,72,        Grocery and related products merchant wholesalers
+,80,3,72,        Petroleum and petroleum products merchant wholesalers
+,81,3,72,        Other nondurable goods merchant wholesalers
+,82,3,72,        Wholesale electronic markets and agents and brokers
+,83,3,72,        Customs duties
+44-45,84,2,2,    Retail trade
+,85,3,84,        Motor vehicle and parts dealers
+,86,3,84,        Food and beverage stores
+,87,3,84,        General merchandise stores
+,88,3,84,        Other retail
+,89,4,88,            Building material and garden equipment and supplies dealers
+,90,4,88,            Health and personal care stores
+,91,4,88,            Gasoline stations
+,92,4,88,            Clothing and clothing accessories stores
+,93,4,88,            Nonstore retailers
+,94,4,88,            All other retail
+48-49,95,2,2,    Transportation and warehousing
+,96,3,95,        Air transportation
+,97,3,95,        Rail transportation
+,98,3,95,        Water transportation
+,99,3,95,        Truck transportation
+,100,3,95,        Transit and ground passenger transportation
+,101,3,95,        Pipeline transportation
+,102,3,95,        Other transportation and support activities
+,103,4,102,            Scenic and sightseeing transportation and support activities
+,104,4,102,            Couriers and messengers
+,105,3,95,        Warehousing and storage
+51,106,2,2,    Information
+,107,3,106,"        Publishing industries, except internet (includes software)"
+,108,4,107,"            Newspaper, periodical, book, and directory publishers"
+,109,4,107,            Software publishers
+,110,3,106,        Motion picture and sound recording industries
+,111,3,106,        Broadcasting and telecommunications
+,112,4,111,            Broadcasting (except Internet)
+,113,4,111,            Wired telecommunications carriers
+,114,4,111,            Wireless telecommunications carriers (except satellites)
+,115,4,111,"            Other telecommunications, including satellite"
+,116,3,106,"        Data processing, internet publishing, and other information services"
+,117,4,116,"            Data processing, hosting, and related services"
+,118,4,116,            Other information services
+52-53,119,2,2,"    Finance, insurance, real estate, rental, and leasing"
+52,120,3,119,        Finance and insurance
+,121,4,120,"            Federal Reserve banks, credit intermediation, and related activities"
+,122,4,120,"            Securities, commodity contracts, and investments"
+,123,4,120,            Insurance carriers and related activities
+,124,5,123,                Direct life insurance carriers
+,125,5,123,"                Insurance carriers, except direct life insurance"
+,126,5,123,"                Agencies, brokerages, and other insurance related activities"
+,127,4,120,"            Funds, trusts, and other financial vehicles"
+53,128,3,119,        Real estate and rental and leasing
+,129,4,128,            Real estate
+,130,5,129,                Housing
+,131,6,130,                    Owner-occupied housing
+,132,6,130,                    Tenant-occupied housing
+,133,5,129,                Other real estate
+,134,4,128,            Rental and leasing services and lessors of intangible assets
+54-56,135,2,2,    Professional and business services
+54,136,3,135,"        Professional, scientific, and technical services"
+,137,4,136,            Legal services
+,138,4,136,            Computer systems design and related services
+,139,4,136,"            Miscellaneous professional, scientific, and technical services"
+,140,5,139,"                Accounting, tax preparation, bookkeeping, and payroll services"
+,141,5,139,"                Architectural, engineering, and related services"
+,142,5,139,"                Management, scientific, and technical consulting services"
+,143,5,139,                Scientific research and development services
+,144,5,139,"                Advertising, public relations, and related services"
+,145,5,139,"                Specialized design services and other professional, scientific, and technical services"
+55,146,3,135,        Management of companies and enterprises
+56,147,3,135,        Administrative and waste management services
+,148,4,147,            Administrative and support services
+,149,5,148,                    Employment services
+,150,5,148,                    Services to buildings and dwellings
+,151,5,148,                    Other administrative and support services
+,152,4,147,            Waste management and remediation services
+61-62,153,2,2,"    Educational services, health care, and social assistance"
+61,154,3,153,        Educational services
+62,155,3,153,        Health care and social assistance
+,156,4,155,            Ambulatory health care services
+,157,5,156,                Offices of physicians
+,158,5,156,                Offices of dentists
+,159,5,156,                Offices of other health practitioners
+,160,5,156,                Outpatient care centers
+,161,5,156,                Other ambulatory health care services
+,162,4,155,            Hospitals
+,163,4,155,            Nursing and residential care facilities
+,164,4,155,            Social assistance
+71-72,165,2,2,"    Arts, entertainment, recreation, accommodation, and food services"
+71,166,3,165,"        Arts, entertainment, and recreation"
+,167,4,166,"            Performing arts, spectator sports, museums, and related activities"
+,168,4,166,"            Amusements, gambling, and recreation industries"
+72,169,3,165,        Accommodation and food services
+,170,4,169,            Accommodation
+,171,4,169,            Food services and drinking places
+81,172,2,2,"    Other services, except government"
+,173,3,172,        Repair and maintenance
+,174,3,172,        Personal and laundry services
+,175,3,172,"        Religious, grantmaking, civic, professional, and similar organizations"
+,176,3,172,        Private households
+92,177,1,1,Government
+,178,2,177,    Federal
+,179,3,178,        Federal general government
+,180,4,179,            National defense
+,181,4,179,            Nondefense
+,182,3,178,        Federal government enterprises
+,183,2,177,    State and local
+,184,3,183,        State and local general government
+,185,4,184,            State and local government educational services
+,186,4,184,            State and local government hospitals and health services
+,187,4,184,            State and local government other services
+,188,3,183,        State and localovernment enterprises
+,189,-1,-1,        Private goods-producing industries 1
+,190,-1,-1,        Private services-producing industries 2
+,191,-1,-1,        Information-communications-technology-producing industries 3
+,,-2,-2,Addenda:
