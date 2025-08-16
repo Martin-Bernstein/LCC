@@ -1,3 +1,8 @@
+setwd(file.path(
+  "~", "Dropbox-HarvardUniversity", "Martin Bernstein",
+  "Fall 2025", "Other", "LCC"
+))
+
 library(paletteer)
 library(patchwork)
 library(readxl)
@@ -10,11 +15,11 @@ library(plotly)
 library(zoo)
 library(docstring)
 
-backg<-theme(
+backg <- theme(
   plot.background = element_rect(fill = "transparent", colour = NA),
-  panel.background = element_rect(fill = "transparent", colour = NA), 
-  legend.background = element_rect(fill = "transparent",colour=NA),
-  legend.box.background = element_rect(fill='transparent',colour = NA),
+  panel.background = element_rect(fill = "transparent", colour = NA),
+  legend.background = element_rect(fill = "transparent", colour = NA),
+  legend.box.background = element_rect(fill = "transparent", colour = NA),
   legend.key = element_rect(fill = "transparent", colour = NA)
 )
 
