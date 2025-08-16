@@ -243,6 +243,7 @@ G,All government,GFG,Federal general government,GFGD,Federal general government 
 G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Coast Guard,951
 G,All government,GFG,Federal general government,GFGD,Federal general government (defense),"Armed Forces, branch not specified",952
 G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Military Reserves or National Guard,960
+G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),U.S. Postal Service,412
 G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),Executive and legislative offices,900
 G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),"General government, n.e.c.",901
 G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),"Justice, public order, and safety",910
