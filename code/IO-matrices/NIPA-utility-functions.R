@@ -84,3 +84,32 @@ join_NIPA <- function(dh,d,y1,y2,colname){
   
   d
 }
+
+
+verify_crosswalk <- function(cw){
+  ind <- fread(file.path("data", "codes and crosswalks",
+                         "IND1990_codes.csv"))
+  ind <- ind[Code != 0]
+  ind[, in_cw := Code %in% cw$IND1990_code]
+  check_cw_problems(cw, ind)
+  
+  io <- fread(file.path("data", "codes and crosswalks",
+                        "IO_pre1997_codes.csv"))
+  io[, in_cw := IO_pre1997_code %in% cw$IO_pre1997_code]
+  check_cw_problems(cw, io)
+  
+  io <- fread(file.path("data", "codes and crosswalks",
+                        "IO_post1997_codes.csv"))
+  io[, in_cw := IO_post1997_code %in% cw$IO_post1997_code]
+  check_cw_problems(cw, io)
+  
+  
+}
+
+check_cw_problems <- function(cw, ind, codename){
+  problems <- nrow(ind[in_cw == F])
+  if(problems > 0){
+    print(paste0("Warning: Unassigned ", codename, " codes"))
+  }
+  rm(ind, problems) 
+}

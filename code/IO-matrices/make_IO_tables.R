@@ -5,11 +5,19 @@ setwd(file.path(
 
 source(file.path("code", "IO-matrices", "NIPA-utility-functions.R"))
 
+#Load code crosswalks.
+cw <- fread(file.path("data", "codes and crosswalks",
+                      "NNA_codes_crosswalks.csv"))
+
+#Check comprehensive crosswalk
+verify_crosswalk(cw) #Prints if error, otherwise does nothing.
+
+
+
 years <- 1963:2023
-years <- 1997:2023
 #i<-38
 for (i in seq_along(years)) {
-  # Read data
+  # Read data (depending on year)
   year <- years[i]
   print(paste0("Building matrix for ", year))
   if (year <= 1996) {
@@ -36,12 +44,26 @@ for (i in seq_along(years)) {
     colcodes <- m[5, ]
   }
   
-  # Extract codes for industries (columns)
+  
+  
+  # Extract codes for industries (columns) and code with NNA codes
   colcodes <- pivot_longer(colcodes,
                            cols = seq_len(ncol(colcodes)),
                            names_to = "industry", values_to = "ind_code")
   setDT(colcodes)
   colcodes <- colcodes[!is.na(ind_code)]
+  
+  if(year <= 1996){
+    usecw <- unique(cw[, .(IO_pre1997_code, NNA_code)])
+    colcodes[, NNA_code := 
+               usecw[.SD, on = .(IO_pre1997_code = ind_code), x.NNA_code]]
+  }else{
+    usecw <- unique(cw[, .(IO_post1997_code, NNA_code)])
+    colcodes[, NNA_code :=
+               usecw[.SD, on = .(IO_post1997_code = ind_code), x.NNA_code]]
+  }
+  
+  
   
   # Clean
   m <- m[7:nrow(m), ]
@@ -64,8 +86,16 @@ for (i in seq_along(years)) {
 build_matrix <- function(m, colcodes, year){
   #Format long
   key <- m[!is.na(IOCode) & !is.na(Name), .(IOCode, Name)]
+  key[, NNA_code := colcodes[.SD, on = .(ind_code = IOCode), x.NNA_code]]
   
-  setnames(m, old = c("Name", "IOCode"), new = c("commodity", "code_commodity"))
+  #Make sure the rows and columns agree
+  unqcols <- sort(unique(colcodes[!is.na(NNA_code)]$ind_code))
+  unqrows <- sort(unique(key[!is.na(NNA_code)]$IOCode))
+  if (!sum(unqcols == unqrows) == length(unqrows)){
+    print("WARNING: Coded rows and columns of IO table don't agree")
+  }
+  
+  
   
   dt <- setDT(pivot_longer(m, cols = 3:(ncol(m)-2),
                            names_to = "industry", values_to = "value"))
