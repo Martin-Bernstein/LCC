@@ -1,0 +1,247 @@
+Label,Code
+NIU,0
+"Agricultural production, crops",10
+"Agricultural production, livestock",11
+Veterinary services,12
+Landscape and horticultural services,20
+"Agricultural services, n.e.c.",30
+Forestry,31
+"Fishing, hunting, and trapping",32
+Metal mining,40
+Coal mining,41
+Oil and gas extraction,42
+"Nonmetallic mining and quarrying, except fuels",50
+All construction,60
+Meat products,100
+Dairy products,101
+"Canned, frozen, and preserved fruits and vegetables",102
+Grain mill products,110
+Bakery products,111
+Sugar and confectionery products,112
+Beverage industries,120
+Misc. food preparations and kindred products,121
+"Food industries, n.s.",122
+Tobacco manufactures,130
+Knitting mills,132
+"Dyeing and finishing textiles, except wool and knit goods",140
+Carpets and rugs,141
+"Yarn, thread, and fabric mills",142
+Miscellaneous textile mill products,150
+"Apparel and accessories, except knit",151
+Miscellaneous fabricated textile products,152
+"Pulp, paper, and paperboard mills",160
+Miscellaneous paper and pulp products,161
+Paperboard containers and boxes,162
+Newspaper publishing and printing,171
+"Printing, publishing, and allied industries, except newspapers",172
+"Plastics, synthetics, and resins",180
+Drugs,181
+Soaps and cosmetics,182
+"Paints, varnishes, and related products",190
+Agricultural chemicals,191
+Industrial and miscellaneous chemicals,192
+Petroleum refining,200
+Miscellaneous petroleum and coal products,201
+Tires and inner tubes,210
+"Other rubber products, and plastics footwear and belting",211
+Miscellaneous plastics products,212
+Leather tanning and finishing,220
+"Footwear, except rubber and plastic",221
+"Leather products, except footwear",222
+"Manufacturing, non-durable - allocated",229
+Logging,230
+"Sawmills, planing mills, and millwork",231
+Wood buildings and mobile homes,232
+Miscellaneous wood products,241
+Furniture and fixtures,242
+Glass and glass products,250
+"Cement, concrete, gypsum, and plaster products",251
+Structural clay products,252
+Pottery and related products,261
+Misc. nonmetallic mineral and stone products,262
+"Blast furnaces, steelworks, rolling and finishing mills",270
+Iron and steel foundries,271
+Primary aluminum industries,272
+Other primary metal industries,280
+"Cutlery, handtools, and general hardware",281
+Fabricated structural metal products,282
+Screw machine products,290
+Metal forgings and stampings,291
+Ordnance,292
+Miscellaneous fabricated metal products,300
+"Metal industries, n.s.",301
+Engines and turbines,310
+Farm machinery and equipment,311
+Construction and material handling machines,312
+Metalworking machinery,320
+Office and accounting machines,321
+Computers and related equipment,322
+"Machinery, except electrical, n.e.c.",331
+"Machinery, n.s.",332
+Household appliances,340
+"Radio, TV, and communication equipment",341
+"Electrical machinery, equipment, and supplies, n.e.c.",342
+"Electrical machinery, equipment, and supplies, n.s.",350
+Motor vehicles and motor vehicle equipment,351
+Aircraft and parts,352
+Ship and boat building and repairing,360
+Railroad locomotives and equipment,361
+"Guided missiles, space vehicles, and parts",362
+Cycles and miscellaneous transportation equipment,370
+Scientific and controlling instruments,371
+"Medical, dental, and optical instruments and supplies",372
+Photographic equipment and supplies,380
+"Watches, clocks, and clockwork operated devices",381
+"Toys, amusement, and sporting goods",390
+Miscellaneous manufacturing industries,391
+"Manufacturing industries, n.s.",392
+Railroads,400
+Bus service and urban transit,401
+Taxicab service,402
+Trucking service,410
+Warehousing and storage,411
+U.S. Postal Service,412
+Water transportation,420
+Air transportation,421
+"Pipe lines, except natural gas",422
+Services incidental to transportation,432
+Radio and television broadcasting and cable,440
+Wired communications,441
+Telegraph and miscellaneous communications services,442
+Electric light and power,450
+Gas and steam supply systems,451
+"Electric and gas, and other combinations",452
+Water supply and irrigation,470
+Sanitary services,471
+"Utilities, n.s.",472
+Motor vehicles and equipment,500
+Furniture and home furnishings,501
+Lumber and construction materials,502
+Professional and commercial equipment and supplies,510
+"Metals and minerals, except petroleum",511
+Electrical goods,512
+"Hardware, plumbing and heating supplies",521
+"Machinery, equipment, and supplies",530
+Scrap and waste materials,531
+"Miscellaneous wholesale, durable goods",532
+Paper and paper products,540
+"Drugs, chemicals, and allied products",541
+"Apparel, fabrics, and notions",542
+Groceries and related products,550
+Farm-product raw materials,551
+Petroleum products,552
+Alcoholic beverages,560
+Farm supplies,561
+"Miscellaneous wholesale, nondurable goods",562
+"Wholesale trade, n.s.",571
+Lumber and building material retailing,580
+Hardware stores,581
+Retail nurseries and garden stores,582
+Mobile home dealers,590
+Department stores,591
+Variety stores,592
+Miscellaneous general merchandise stores,600
+Grocery stores,601
+Dairy products stores,602
+Retail bakeries,610
+"Food stores, n.e.c.",611
+Motor vehicle dealers,612
+Auto and home supply stores,620
+Gasoline service stations,621
+Miscellaneous vehicle dealers,622
+"Apparel and accessory stores, except shoe",623
+Shoe stores,630
+Furniture and home furnishings stores,631
+Household appliance stores,632
+"Radio, TV, and computer stores",633
+Music stores,640
+Eating and drinking places,641
+Drug stores,642
+Liquor stores,650
+"Sporting goods, bicycles, and hobby stores",651
+Book and stationery stores,652
+Jewelry stores,660
+"Gift, novelty, and souvenir shops",661
+"Sewing, needlework, and piece goods stores",662
+Catalog and mail order houses,663
+Vending machine operators,670
+Direct selling establishments,671
+Fuel dealers,672
+Retail florists,681
+Miscellaneous retail stores,682
+"Retail trade, n.s.",691
+Banking,700
+"Savings institutions, including credit unions",701
+"Credit agencies, n.e.c.",702
+"Security, commodity brokerage, and investment companies",710
+Insurance,711
+"Real estate, including real estate-insurance offices",712
+Advertising,721
+Services to dwellings and other buildings,722
+Personnel supply services,731
+Computer and data processing services,732
+Detective and protective services,740
+"Business services, n.e.c.",741
+"Automotive rental and leasing, without drivers",742
+Automobile parking and carwashes,750
+Automotive repair and related services,751
+Electrical repair shops,752
+Miscellaneous repair services,760
+Private households,761
+Hotels and motels,762
+"Lodging places, except hotels and motels",770
+"Laundry, cleaning, and garment services",771
+Beauty shops,772
+Barber shops,780
+Funeral service and crematories,781
+Shoe repair shops,782
+Dressmaking shops,790
+Miscellaneous personal services,791
+Theaters and motion pictures,800
+Video tape rental,801
+Bowling centers,802
+Miscellaneous entertainment and recreation services,810
+Offices and clinics of physicians,812
+Offices and clinics of dentists,820
+Offices and clinics of chiropractors,821
+Offices and clinics of optometrists,822
+"Offices and clinics of health practitioners, n.e.c.",830
+Hospitals,831
+Nursing and personal care facilities,832
+"Health services, n.e.c.",840
+Legal services,841
+Elementary and secondary schools,842
+Colleges and universities,850
+Vocational schools,851
+Libraries,852
+"Educational services, n.e.c.",860
+Job training and vocational rehabilitation services,861
+Child day care services,862
+Family child care homes,863
+"Residential care facilities, without nursing",870
+"Social services, n.e.c.",871
+"Museums, art galleries, and zoos",872
+Labor unions,873
+Religious organizations,880
+"Membership organizations, n.e.c.",881
+"Engineering, architectural, and surveying services",882
+"Accounting, auditing, and bookkeeping services",890
+"Research, development, and testing services",891
+Management and public relations services,892
+Miscellaneous professional and related services,893
+Executive and legislative offices,900
+"General government, n.e.c.",901
+"Justice, public order, and safety",910
+"Public finance, taxation, and monetary policy",921
+Administration of human resources programs,922
+Administration of environmental quality and housing programs,930
+Administration of economic programs,931
+National security and international affairs,932
+Army,940
+Air Force,941
+Navy,942
+Marines,950
+Coast Guard,951
+"Armed Forces, branch not specified",952
+Military Reserves or National Guard,960
+Unknown,998

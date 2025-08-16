@@ -1,253 +1,257 @@
-﻿NNA_code,NNA_industry,IO_pre1997_code,IO_pre1997_industry,IO_post1997_code,IO_post1997_industry,IND1990_industry,IND1990_code,,
-111CA,Farms,111CA,Farms,111CA,Farms,"Agricultural production, crops",010,,
-111CA,Farms,111CA,Farms,111CA,Farms,"Agricultural production, livestock",011,,
-111CA,Farms,111CA,Farms,111CA,Farms,Landscape and horticultural services,020,,
-111CA,Farms,111CA,Farms,111CA,Farms,"Agricultural services, n.e.c.",030,,
-113FF,"Forestry, fishing, and related activities",113FF,"Forestry, fishing, and related activities",113FF,"Forestry, fishing, and related activities",Forestry,031,,
-113FF,"Forestry, fishing, and related activities",113FF,"Forestry, fishing, and related activities",113FF,"Forestry, fishing, and related activities","Fishing, hunting, and trapping",032,,
-211,Oil and gas extraction,211,Oil and gas extraction,211,Oil and gas extraction,Oil and gas extraction,042,,
-212,"Mining, except oil and gas",212,"Mining, except oil and gas",212,"Mining, except oil and gas",Metal mining,040,,
-212,"Mining, except oil and gas",212,"Mining, except oil and gas",212,"Mining, except oil and gas",Coal mining,041,,
-212,"Mining, except oil and gas",212,"Mining, except oil and gas",212,"Mining, except oil and gas","Nonmetallic mining and quarrying, except fuels",050,,
-23,Construction,213,Support activities for mining,213,Support activities for mining,All construction,060,,
-22,Utilities,22,Utilities,22,Utilities,Electric light and power,450,,
-22,Utilities,22,Utilities,22,Utilities,Gas and steam supply systems,451,,
-22,Utilities,22,Utilities,22,Utilities,"Electric and gas, and other combinations",452,,
-22,Utilities,22,Utilities,22,Utilities,Water supply and irrigation,470,,
-22,Utilities,22,Utilities,22,Utilities,Sanitary services,471,,
-22,Utilities,22,Utilities,22,Utilities,"Utilities, n.s.",472,,
-23,Construction,23,Construction,23,Construction,All construction,060,,
-321,Wood products,321,Wood products,321,Wood products,Logging,230,,
-321,Wood products,321,Wood products,321,Wood products,"Sawmills, planing mills, and millwork",231,,
-321,Wood products,321,Wood products,321,Wood products,Wood buildings and mobile homes,232,,
-321,Wood products,321,Wood products,321,Wood products,Miscellaneous wood products,241,,
-327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,Glass and glass products,250,,
-327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,"Cement, concrete, gypsum, and plaster products",251,,
-327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,Structural clay products,252,,
-327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,Pottery and related products,261,,
-327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,Misc. nonmetallic mineral and stone products,262,,
-331,Primary metals,331,Primary metals,331,Primary metals,"Blast furnaces, steelworks, rolling and finishing mills",270,,
-331,Primary metals,331,Primary metals,331,Primary metals,Iron and steel foundries,271,,
-331,Primary metals,331,Primary metals,331,Primary metals,Primary aluminum industries,272,,
-331,Primary metals,331,Primary metals,331,Primary metals,Other primary metal industries,280,,
-332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,"Cutlery, handtools, and general hardware",281,,
-332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Fabricated structural metal products,282,,
-332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Screw machine products,290,,
-332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Metal forgings and stampings,291,,
-332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Ordnance,292,,
-332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Miscellaneous fabricated metal products,300,,
-332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,"Metal industries, n.s.",301,,
-333,Machinery,333,Machinery,333,Machinery,Engines and turbines,310,,
-333,Machinery,333,Machinery,333,Machinery,Farm machinery and equipment,311,,
-333,Machinery,333,Machinery,333,Machinery,Construction and material handling machines,312,,
-333,Machinery,333,Machinery,333,Machinery,Metalworking machinery,320,,
-333,Machinery,333,Machinery,333,Machinery,Office and accounting machines,321,,
-333,Machinery,333,Machinery,333,Machinery,"Machinery, except electrical, n.e.c.",331,,
-333,Machinery,333,Machinery,333,Machinery,"Machinery, n.s.",332,,
-334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,Computers and related equipment,322,,
-334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,"Radio, TV, and communication equipment",341,,
-334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,Scientific and controlling instruments,371,,
-334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,Photographic equipment and supplies,380,,
-334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,"Watches, clocks, and clockwork operated devices",381,,
-335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components",Household appliances,340,,
-335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components","Electrical machinery, equipment, and supplies, n.e.c.",342,,
-335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components","Electrical machinery, equipment, and supplies, n.s.",350,,
-3361MV,"Motor vehicles, bodies and trailers, and parts",3361MV,"Motor vehicles, bodies and trailers, and parts",3361MV,"Motor vehicles, bodies and trailers, and parts",Motor vehicles and motor vehicle equipment,351,,
-3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,Aircraft and parts,352,,
-3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,Ship and boat building and repairing,360,,
-3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,Railroad locomotives and equipment,361,,
-3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,"Guided missiles, space vehicles, and parts",362,,
-3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,Cycles and miscellaneous transportation equipment,370,,
-337,Furniture and related products,337,Furniture and related products,337,Furniture and related products,Furniture and fixtures,242,,
-339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,"Toys, amusement, and sporting goods",390,,
-339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,Miscellaneous manufacturing industries,391,,
-339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,"Manufacturing industries, n.s.",392,,
-339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,"Medical, dental, and optical instruments and supplies",372,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Meat products,100,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Dairy products,101,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,"Canned, frozen, and preserved fruits and vegetables",102,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Grain mill products,110,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Bakery products,111,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Sugar and confectionery products,112,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Beverage industries,120,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Misc. food preparations and kindred products,121,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,"Food industries, n.s.",122,,
-311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Tobacco manufactures,130,,
-313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,Knitting mills,132,,
-313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,"Dyeing and finishing textiles, except wool and knit goods",140,,
-313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,Carpets and rugs,141,,
-313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,"Yarm, thread, and fabric mills",142,,
-313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,Miscellaneous textile mill products,150,,
-315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,"Apparel and accessories, except knit",151,,
-315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,Miscellaneous fabricated textile products,152,,
-322,Paper products,322,Paper products,322,Paper products,"Pulp, paper, and paperboard mills",160,,
-322,Paper products,322,Paper products,322,Paper products,Miscellaneous paper and pulp products,161,,
-322,Paper products,322,Paper products,322,Paper products,Paperboard containers and boxes,162,,
-323PPI,"Printing, publishing, and related",323,Printing and related support activities,323,Printing and related support activities,Newpaper publishing and printing,171,,
-323PPI,"Printing, publishing, and related",323,Printing and related support activities,323,Printing and related support activities,"Printing, publishing, and allied industries, except newspapers",172,,
-324,Petroleum and coal products,324,Petroleum and coal products,324,Petroleum and coal products,Petroleum refining,200,,
-324,Petroleum and coal products,324,Petroleum and coal products,324,Petroleum and coal products,Miscellaneous petroleum and coal products,201,,
-325,Chemical products,325,Chemical products,325,Chemical products,"Plastics, synthetics, and resins",180,,
-325,Chemical products,325,Chemical products,325,Chemical products,Drugs,181,,
-325,Chemical products,325,Chemical products,325,Chemical products,Soaps and cosmetics,182,,
-325,Chemical products,325,Chemical products,325,Chemical products,"Paints, varnishes, and related products",190,,
-325,Chemical products,325,Chemical products,325,Chemical products,Agricultural chemicals,191,,
-325,Chemical products,325,Chemical products,325,Chemical products,Industrial and miscellaneous chemicals,192,,
-326,Plastics and rubber products,326,Plastics and rubber products,326,Plastics and rubber products,Tires and inner tubes,210,,
-326,Plastics and rubber products,326,Plastics and rubber products,326,Plastics and rubber products,"Other rubber products, and plastics footwear and belting",211,,
-326,Plastics and rubber products,326,Plastics and rubber products,326,Plastics and rubber products,Miscellaneous plastics products,212,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Motor vehicles and equipment,500,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Furniture and home furnishings,501,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Lumber and construction materials,502,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Professional and commercial equipment and supplies,510,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Metals and minerals, except petroleum",511,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Electrical goods,512,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Hardware, plumbing and heating supplies",521,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Machinery, equipment, and supplies",530,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Scrap and waste materials,531,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Miscellaneous wholesale, durable goods",532,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Paper and paper products,540,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Drugs, chemicals, and allied products",541,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Apparel, fabrics, and notions",542,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Groceries and related products,550,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Farm-product raw materials,551,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Petroleum products,552,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Alcoholic beverages,560,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Farm supplies,561,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Miscellaneous wholesale, nondurable goods",562,,
-42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Wholesale trade, n.s.",571,,
-44RT,Retail trade,44RT,Retail trade,441,Motor vehicle and parts dealers,Motor vehicle dealers,612,,
-44RT,Retail trade,44RT,Retail trade,441,Motor vehicle and parts dealers,Auto and home supply stores,620,,
-44RT,Retail trade,44RT,Retail trade,441,Motor vehicle and parts dealers,Gasoline service stations,621,,
-44RT,Retail trade,44RT,Retail trade,441,Motor vehicle and parts dealers,Miscellaneous vehicle dealers,622,,
-44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,Grocery stores,601,,
-44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,Dairy products stores,602,,
-44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,Retail bakeries,610,,
-44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,"Food stores, n.e.c.",611,,
-44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,Liquor stores,650,,
-44RT,Retail trade,44RT,Retail trade,452,General merchandise stores,Department stores,591,,
-44RT,Retail trade,44RT,Retail trade,452,General merchandise stores,Variety stores,592,,
-44RT,Retail trade,44RT,Retail trade,452,General merchandise stores,Miscellaneous general merchandise stores,600,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Lumber and building material retailing,580,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Hardware stores,581,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Retail nurseries and garden stores,582,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Mobile home dealers,590,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Apparel and accessory stores, except shoe",623,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Shoe stores,630,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Furniture and home furnishings stores,631,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Household appliance stores,632,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Radio, TV, and computer stores",633,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Music stores,640,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Drug stores,642,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Liquor stores,650,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Sporting goods, bicycles, and hobby stores",651,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Book and stationery stores,652,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Jewelry stores,660,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Gift, novelty, and souvenir shops",661,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Sewing, needlework, and piece goods stores",662,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Catalog and mail order houses,663,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Vending machine operators,670,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Direct selling establishments,671,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Fuel dealers,672,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Retail florists,681,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Miscellaneous retail stores,682,,
-44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Retail trade, n.s.",691,,
-481,Air transportation,481,Air transportation,481,Air transportation,Air transportation,421,,
-482,Rail transportation,482,Rail transportation,482,Rail transportation,Railroads,400,,
-483,Water transportation,483,Water transportation,483,Water transportation,Water transportation,420,,
-484,Truck transportation,484,Truck transportation,484,Truck transportation,Trucking service,410,,
-485,Transit and ground passenger transportation,485,Transit and ground passenger transportation,485,Transit and ground passenger transportation,Bus service and urban transit,401,,
-485,Transit and ground passenger transportation,485,Transit and ground passenger transportation,485,Transit and ground passenger transportation,Taxicab service,402,,
-486,Pipeline transportation,486,Pipeline transportation,486,Pipeline transportation,"Pipe lines, except natural gas",422,,
-487OS,Other transportation and support activities,487OS,Other transportation and support activities,487OS,Other transportation and support activities,Services incidental to transportation,432,,
-493,Warehousing and storage,493,Warehousing and storage,493,Warehousing and storage,Warehousing and storage,411,,
-323PPI,"Printing, publishing, and related",511,"Publishing industries, except internet (includes software)",511,"Publishing industries, except internet (includes software)",Newpaper publishing and printing,171,,
-323PPI,"Printing, publishing, and related",511,"Publishing industries, except internet (includes software)",511,"Publishing industries, except internet (includes software)","Printing, publishing, and allied industries, except newspapers",172,,
-512,"Theaters, motion pictures, and sound recording",512,Motion picture and sound recording industries,512,Motion picture and sound recording industries,Theaters and motion pictures,800,,
-513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,Radio and television broadcasting and cable,440,,
-513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,Wired communications,441,,
-513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,Telegraph and miscellaneous communications services,442,,
-51C54,"Computer, data processing, internet publishing, and other information services",514,"Data processing, internet publishing, and other information services",514,"Data processing, internet publishing, and other information services",Computer and data processing services,732,,
-521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities",Banking,700,,
-521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities","Savings institutions, including credit unions",701,,
-521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities","Credit agencies, n.e.c.",702,,
-523O,"Securities, commodity contracts, investments, funds, trusts, and other financial vehicles",523,"Securities, commodity contracts, and investments",523,"Securities, commodity contracts, and investments","Security, commodity brokerage, and investment companies",710,,
-524,Insurance carriers and related activities,524,Insurance carriers and related activities,524,Insurance carriers and related activities,Insurance,711,,
-523O,"Securities, commodity contracts, investments, funds, trusts, and other financial vehicles",525,"Funds, trusts, and other financial vehicles",525,"Funds, trusts, and other financial vehicles","Security, commodity brokerage, and investment companies",710,,
-531,Real estate,531,Real estate,HS,Housing,"Real estate, including real estate-insurance offices",712,,
-531,Real estate,531,Real estate,ORE,Other real estate,"Real estate, including real estate-insurance offices",712,,
-532RL,Rental and leasing services and lessors of intangible assets,532RL,Rental and leasing services and lessors of intangible assets,532RL,Rental and leasing services and lessors of intangible assets,"Automotive rental and leasing, without drivers",742,,
-532RL,Rental and leasing services and lessors of intangible assets,532RL,Rental and leasing services and lessors of intangible assets,532RL,Rental and leasing services and lessors of intangible assets,Video tape rental,801,,
-5411,Legal services,5411,Legal services,5411,Legal services,Legal services,841,,
-51C54,"Computer, data processing, internet publishing, and other information services",5415,Computer systems design and related services,5415,Computer systems design and related services,Computer and data processing services,732,,
-5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",Advertising,721,,
-5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services","Engineering, architectural, and surveying services",882,,
-5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services","Accounting, auditing, and bookkeeping services",890,,
-5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services","Research, development, and testing services",891,,
-5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",Miscellaneous professional and related services,893,,
-5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",Veterinary services,012,,
-55,Management of companies and public relations,55,Management of companies and enterprises,55,Management of companies and enterprises,Management and public relations services,892,,
-56,"Administrative, support, and other business services",561,Administrative and support services,561,Administrative and support services,Services to dwellings and other buildings,722,,
-56,"Administrative, support, and other business services",561,Administrative and support services,561,Administrative and support services,Personnel supply services,731,,
-56,"Administrative, support, and other business services",561,Administrative and support services,561,Administrative and support services,Detective and protective services,740,,
-56,"Administrative, support, and other business services",561,Administrative and support services,561,Administrative and support services,"Business services, n.e.c.",741,,
-56,"Administrative, support, and other business services",562,Waste management and remediation services,562,Waste management and remediation services,"Business services, n.e.c.",741,,
-61,Educational services,61,Educational services,61,Educational services,Elementary and secondary schools,842,,
-61,Educational services,61,Educational services,61,Educational services,Colleges and universities,850,,
-61,Educational services,61,Educational services,61,Educational services,Vocational schools,851,,
-61,Educational services,61,Educational services,61,Educational services,Libraries,852,,
-61,Educational services,61,Educational services,61,Educational services,"Educational services, n.e.c.",860,,
-621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,Offices and clinics of physicians,812,,
-621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,Offices and clinics of dentists,820,,
-621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,Offices and clinics of chiropractors,821,,
-621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,Offices and clinics of optometrists,822,,
-621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,"Offices and clinics of health practitioners, n.e.c.",830,,
-621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,"Health services, n.e.c.",840,,
-622HO,Hospitals and nursing and residential care facilities,622HO,Hospitals and nursing and residential care facilities,622,Hospitals,Hospitals,831,,
-622HO,Hospitals and nursing and residential care facilities,622HO,Hospitals and nursing and residential care facilities,623,Nursing and residential care facilities,Nursing and personal care facilities,832,,
-624,Social assistance,624,Social assistance,624,Social assistance,Job training and vocational rehabilitation services,861,,
-624,Social assistance,624,Social assistance,624,Social assistance,Child day care services,862,,
-624,Social assistance,624,Social assistance,624,Social assistance,Family child care homes,863,,
-624,Social assistance,624,Social assistance,624,Social assistance,"Residential care facilities, without nursing",870,,
-624,Social assistance,624,Social assistance,624,Social assistance,"Social services, n.e.c.",871,,
-71,All recreation industries,711AS,"Performing arts, spectator sports, museums, and related activities",711AS,"Performing arts, spectator sports, museums, and related activities","Museums, art galleries, and zoos",872,,
-71,All recreation industries,713,"Amusements, gambling, and recreation industries",713,"Amusements, gambling, and recreation industries",Bowling centers,802,,
-71,All recreation industries,713,"Amusements, gambling, and recreation industries",713,"Amusements, gambling, and recreation industries",Miscellaneous entertainment and recreation services,810,,
-721,Accomodation,721,Accommodation,721,Accommodation,Hotels and motels,762,,
-721,Accomodation,721,Accommodation,721,Accommodation,"Lodging places, except hotels and motels",770,,
-722,Food services and drinking places,722,Food services and drinking places,722,Food services and drinking places,Eating and drinking places,641,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Automobile parking and carwashes,750,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Automotive repair and related services,751,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Electrical repair shops,752,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Miscellaneous repair services,760,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Private households,761,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government","Laundry, cleaning, and garment services",771,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Beauty shops,772,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Barber shops,780,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Funeral service and crematories,781,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Shoe repair shops,782,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Dressmaking shops,790,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Miscellaneous personal services,791,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Labor unions,873,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Religious organizations,880,,
-81,"Other services, except government",81,"Other services, except government",81,"Other services, except government","Membership organizations, n.e.c.",881,,
-G,All government,GFG,Federal general government,GFGD,Federal general government (defense),National security and international affairs,932,,
-G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Army,940,,
-G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Air Force,941,,
-G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Navy,942,,
-G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Marines,950,,
-G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Coast Guard,951,,
-G,All government,GFG,Federal general government,GFGD,Federal general government (defense),"Armed Forces, branch not specified",952,,
-G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Military Reserves or National Guard,960,,
-G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),Executive and legislative offices,900,,
-G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),"General government, n.e.c.",901,,
-G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),"Justice, public order, and safety",910,,
-G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),"Public finance, taxation, and monetary policy",921,,
-G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),Administration of human resources programs,922,,
-G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),Administration of environmental quality and housing programs,930,,
-G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),Administration of economic programs,931,,
-G,All government,GFE,Federal government enterprises,GFE,Federal government enterprises,"General government, n.e.c.",901,,
-G,All government,GSLG,State and local general government,GSLG,State and local general government,"General government, n.e.c.",901,,
-G,All government,GSLE,State and local government enterprises,GSLE,State and local government enterprises,"General government, n.e.c.",901,,
-99,Unknown/residual,Used,"Scrap, used and secondhand goods",Used,"Scrap, used and secondhand goods",Unknown,998,,
-99,Unknown/residual,Other,Noncomparable imports and rest-of-the-world adjustment,Other,Noncomparable imports and rest-of-the-world adjustment [1],Unknown,998,,
+﻿NNA_code,NNA_industry,IO_pre1997_code,IO_pre1997_industry,IO_post1997_code,IO_post1997_industry,IND1990_industry,IND1990_code
+111CA,Farms,111CA,Farms,111CA,Farms,"Agricultural production, crops",10
+111CA,Farms,111CA,Farms,111CA,Farms,"Agricultural production, livestock",11
+111CA,Farms,111CA,Farms,111CA,Farms,Landscape and horticultural services,20
+111CA,Farms,111CA,Farms,111CA,Farms,"Agricultural services, n.e.c.",30
+113FF,"Forestry, fishing, and related activities",113FF,"Forestry, fishing, and related activities",113FF,"Forestry, fishing, and related activities",Forestry,31
+113FF,"Forestry, fishing, and related activities",113FF,"Forestry, fishing, and related activities",113FF,"Forestry, fishing, and related activities","Fishing, hunting, and trapping",32
+211,Oil and gas extraction,211,Oil and gas extraction,211,Oil and gas extraction,Oil and gas extraction,42
+212,"Mining, except oil and gas",212,"Mining, except oil and gas",212,"Mining, except oil and gas",Metal mining,40
+212,"Mining, except oil and gas",212,"Mining, except oil and gas",212,"Mining, except oil and gas",Coal mining,41
+212,"Mining, except oil and gas",212,"Mining, except oil and gas",212,"Mining, except oil and gas","Nonmetallic mining and quarrying, except fuels",50
+23,Construction,213,Support activities for mining,213,Support activities for mining,All construction,60
+22,Utilities,22,Utilities,22,Utilities,Electric light and power,450
+22,Utilities,22,Utilities,22,Utilities,Gas and steam supply systems,451
+22,Utilities,22,Utilities,22,Utilities,"Electric and gas, and other combinations",452
+22,Utilities,22,Utilities,22,Utilities,Water supply and irrigation,470
+22,Utilities,22,Utilities,22,Utilities,Sanitary services,471
+22,Utilities,22,Utilities,22,Utilities,"Utilities, n.s.",472
+23,Construction,23,Construction,23,Construction,All construction,60
+321,Wood products,321,Wood products,321,Wood products,Logging,230
+321,Wood products,321,Wood products,321,Wood products,"Sawmills, planing mills, and millwork",231
+321,Wood products,321,Wood products,321,Wood products,Wood buildings and mobile homes,232
+321,Wood products,321,Wood products,321,Wood products,Miscellaneous wood products,241
+327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,Glass and glass products,250
+327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,"Cement, concrete, gypsum, and plaster products",251
+327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,Structural clay products,252
+327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,Pottery and related products,261
+327,Nonmetallic mineral products,327,Nonmetallic mineral products,327,Nonmetallic mineral products,Misc. nonmetallic mineral and stone products,262
+331,Primary metals,331,Primary metals,331,Primary metals,"Blast furnaces, steelworks, rolling and finishing mills",270
+331,Primary metals,331,Primary metals,331,Primary metals,Iron and steel foundries,271
+331,Primary metals,331,Primary metals,331,Primary metals,Primary aluminum industries,272
+331,Primary metals,331,Primary metals,331,Primary metals,Other primary metal industries,280
+332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,"Cutlery, handtools, and general hardware",281
+332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Fabricated structural metal products,282
+332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Screw machine products,290
+332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Metal forgings and stampings,291
+332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Ordnance,292
+332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,Miscellaneous fabricated metal products,300
+332,Fabricated metal products,332,Fabricated metal products,332,Fabricated metal products,"Metal industries, n.s.",301
+333,Machinery,333,Machinery,333,Machinery,Engines and turbines,310
+333,Machinery,333,Machinery,333,Machinery,Farm machinery and equipment,311
+333,Machinery,333,Machinery,333,Machinery,Construction and material handling machines,312
+333,Machinery,333,Machinery,333,Machinery,Metalworking machinery,320
+333,Machinery,333,Machinery,333,Machinery,Office and accounting machines,321
+333,Machinery,333,Machinery,333,Machinery,"Machinery, except electrical, n.e.c.",331
+333,Machinery,333,Machinery,333,Machinery,"Machinery, n.s.",332
+334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,Computers and related equipment,322
+334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,"Radio, TV, and communication equipment",341
+334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,Scientific and controlling instruments,371
+334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,Photographic equipment and supplies,380
+334,Computer and electronic products,334,Computer and electronic products,334,Computer and electronic products,"Watches, clocks, and clockwork operated devices",381
+335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components",Household appliances,340
+335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components","Electrical machinery, equipment, and supplies, n.e.c.",342
+335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components",335,"Electrical equipment, appliances, and components","Electrical machinery, equipment, and supplies, n.s.",350
+3361MV,"Motor vehicles, bodies and trailers, and parts",3361MV,"Motor vehicles, bodies and trailers, and parts",3361MV,"Motor vehicles, bodies and trailers, and parts",Motor vehicles and motor vehicle equipment,351
+3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,Aircraft and parts,352
+3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,Ship and boat building and repairing,360
+3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,Railroad locomotives and equipment,361
+3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,"Guided missiles, space vehicles, and parts",362
+3364OT,Other transportation equipment,3364OT,Other transportation equipment,3364OT,Other transportation equipment,Cycles and miscellaneous transportation equipment,370
+337,Furniture and related products,337,Furniture and related products,337,Furniture and related products,Furniture and fixtures,242
+339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,"Toys, amusement, and sporting goods",390
+339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,Miscellaneous manufacturing industries,391
+339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,"Manufacturing industries, n.s.",392
+339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,"Medical, dental, and optical instruments and supplies",372
+339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,339,Miscellaneous manufacturing,"Manufacturing, non-durable - allocated",229
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Meat products,100
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Dairy products,101
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,"Canned, frozen, and preserved fruits and vegetables",102
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Grain mill products,110
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Bakery products,111
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Sugar and confectionery products,112
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Beverage industries,120
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Misc. food preparations and kindred products,121
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,"Food industries, n.s.",122
+311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,311FT,Food and beverage and tobacco products,Tobacco manufactures,130
+313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,Knitting mills,132
+313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,"Dyeing and finishing textiles, except wool and knit goods",140
+313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,Carpets and rugs,141
+313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,"Yarm, thread, and fabric mills",142
+313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,313TT,Textile mills and textile product mills,Miscellaneous textile mill products,150
+315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,"Apparel and accessories, except knit",151
+315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,Miscellaneous fabricated textile products,152
+315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,Leather tanning and finishing,220
+315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,"Footwear, except rubber and plastic",221
+315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,315AL,Apparel and leather and allied products,"Leather products, except footwear",222
+322,Paper products,322,Paper products,322,Paper products,"Pulp, paper, and paperboard mills",160
+322,Paper products,322,Paper products,322,Paper products,Miscellaneous paper and pulp products,161
+322,Paper products,322,Paper products,322,Paper products,Paperboard containers and boxes,162
+323PPI,"Printing, publishing, and related",323,Printing and related support activities,323,Printing and related support activities,Newpaper publishing and printing,171
+323PPI,"Printing, publishing, and related",323,Printing and related support activities,323,Printing and related support activities,"Printing, publishing, and allied industries, except newspapers",172
+324,Petroleum and coal products,324,Petroleum and coal products,324,Petroleum and coal products,Petroleum refining,200
+324,Petroleum and coal products,324,Petroleum and coal products,324,Petroleum and coal products,Miscellaneous petroleum and coal products,201
+325,Chemical products,325,Chemical products,325,Chemical products,"Plastics, synthetics, and resins",180
+325,Chemical products,325,Chemical products,325,Chemical products,Drugs,181
+325,Chemical products,325,Chemical products,325,Chemical products,Soaps and cosmetics,182
+325,Chemical products,325,Chemical products,325,Chemical products,"Paints, varnishes, and related products",190
+325,Chemical products,325,Chemical products,325,Chemical products,Agricultural chemicals,191
+325,Chemical products,325,Chemical products,325,Chemical products,Industrial and miscellaneous chemicals,192
+326,Plastics and rubber products,326,Plastics and rubber products,326,Plastics and rubber products,Tires and inner tubes,210
+326,Plastics and rubber products,326,Plastics and rubber products,326,Plastics and rubber products,"Other rubber products, and plastics footwear and belting",211
+326,Plastics and rubber products,326,Plastics and rubber products,326,Plastics and rubber products,Miscellaneous plastics products,212
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Motor vehicles and equipment,500
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Furniture and home furnishings,501
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Lumber and construction materials,502
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Professional and commercial equipment and supplies,510
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Metals and minerals, except petroleum",511
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Electrical goods,512
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Hardware, plumbing and heating supplies",521
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Machinery, equipment, and supplies",530
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Scrap and waste materials,531
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Miscellaneous wholesale, durable goods",532
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Paper and paper products,540
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Drugs, chemicals, and allied products",541
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Apparel, fabrics, and notions",542
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Groceries and related products,550
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Farm-product raw materials,551
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Petroleum products,552
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Alcoholic beverages,560
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,Farm supplies,561
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Miscellaneous wholesale, nondurable goods",562
+42,Wholesale trade,42,Wholesale trade,42,Wholesale trade,"Wholesale trade, n.s.",571
+44RT,Retail trade,44RT,Retail trade,441,Motor vehicle and parts dealers,Motor vehicle dealers,612
+44RT,Retail trade,44RT,Retail trade,441,Motor vehicle and parts dealers,Auto and home supply stores,620
+44RT,Retail trade,44RT,Retail trade,441,Motor vehicle and parts dealers,Gasoline service stations,621
+44RT,Retail trade,44RT,Retail trade,441,Motor vehicle and parts dealers,Miscellaneous vehicle dealers,622
+44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,Grocery stores,601
+44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,Dairy products stores,602
+44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,Retail bakeries,610
+44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,"Food stores, n.e.c.",611
+44RT,Retail trade,44RT,Retail trade,445,Food and beverage stores,Liquor stores,650
+44RT,Retail trade,44RT,Retail trade,452,General merchandise stores,Department stores,591
+44RT,Retail trade,44RT,Retail trade,452,General merchandise stores,Variety stores,592
+44RT,Retail trade,44RT,Retail trade,452,General merchandise stores,Miscellaneous general merchandise stores,600
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Lumber and building material retailing,580
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Hardware stores,581
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Retail nurseries and garden stores,582
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Mobile home dealers,590
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Apparel and accessory stores, except shoe",623
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Shoe stores,630
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Furniture and home furnishings stores,631
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Household appliance stores,632
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Radio, TV, and computer stores",633
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Music stores,640
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Drug stores,642
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Liquor stores,650
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Sporting goods, bicycles, and hobby stores",651
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Book and stationery stores,652
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Jewelry stores,660
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Gift, novelty, and souvenir shops",661
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Sewing, needlework, and piece goods stores",662
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Catalog and mail order houses,663
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Vending machine operators,670
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Direct selling establishments,671
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Fuel dealers,672
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Retail florists,681
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,Miscellaneous retail stores,682
+44RT,Retail trade,44RT,Retail trade,4A0,Other retail,"Retail trade, n.s.",691
+481,Air transportation,481,Air transportation,481,Air transportation,Air transportation,421
+482,Rail transportation,482,Rail transportation,482,Rail transportation,Railroads,400
+483,Water transportation,483,Water transportation,483,Water transportation,Water transportation,420
+484,Truck transportation,484,Truck transportation,484,Truck transportation,Trucking service,410
+485,Transit and ground passenger transportation,485,Transit and ground passenger transportation,485,Transit and ground passenger transportation,Bus service and urban transit,401
+485,Transit and ground passenger transportation,485,Transit and ground passenger transportation,485,Transit and ground passenger transportation,Taxicab service,402
+486,Pipeline transportation,486,Pipeline transportation,486,Pipeline transportation,"Pipe lines, except natural gas",422
+487OS,Other transportation and support activities,487OS,Other transportation and support activities,487OS,Other transportation and support activities,Services incidental to transportation,432
+493,Warehousing and storage,493,Warehousing and storage,493,Warehousing and storage,Warehousing and storage,411
+323PPI,"Printing, publishing, and related",511,"Publishing industries, except internet (includes software)",511,"Publishing industries, except internet (includes software)",Newpaper publishing and printing,171
+323PPI,"Printing, publishing, and related",511,"Publishing industries, except internet (includes software)",511,"Publishing industries, except internet (includes software)","Printing, publishing, and allied industries, except newspapers",172
+512,"Theaters, motion pictures, and sound recording",512,Motion picture and sound recording industries,512,Motion picture and sound recording industries,Theaters and motion pictures,800
+513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,Radio and television broadcasting and cable,440
+513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,Wired communications,441
+513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,513,Broadcasting and telecommunications,Telegraph and miscellaneous communications services,442
+51C54,"Computer, data processing, internet publishing, and other information services",514,"Data processing, internet publishing, and other information services",514,"Data processing, internet publishing, and other information services",Computer and data processing services,732
+521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities",Banking,700
+521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities","Savings institutions, including credit unions",701
+521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities",521CI,"Federal Reserve banks, credit intermediation, and related activities","Credit agencies, n.e.c.",702
+523O,"Securities, commodity contracts, investments, funds, trusts, and other financial vehicles",523,"Securities, commodity contracts, and investments",523,"Securities, commodity contracts, and investments","Security, commodity brokerage, and investment companies",710
+524,Insurance carriers and related activities,524,Insurance carriers and related activities,524,Insurance carriers and related activities,Insurance,711
+523O,"Securities, commodity contracts, investments, funds, trusts, and other financial vehicles",525,"Funds, trusts, and other financial vehicles",525,"Funds, trusts, and other financial vehicles","Security, commodity brokerage, and investment companies",710
+531,Real estate,531,Real estate,HS,Housing,"Real estate, including real estate-insurance offices",712
+531,Real estate,531,Real estate,ORE,Other real estate,"Real estate, including real estate-insurance offices",712
+532RL,Rental and leasing services and lessors of intangible assets,532RL,Rental and leasing services and lessors of intangible assets,532RL,Rental and leasing services and lessors of intangible assets,"Automotive rental and leasing, without drivers",742
+532RL,Rental and leasing services and lessors of intangible assets,532RL,Rental and leasing services and lessors of intangible assets,532RL,Rental and leasing services and lessors of intangible assets,Video tape rental,801
+5411,Legal services,5411,Legal services,5411,Legal services,Legal services,841
+51C54,"Computer, data processing, internet publishing, and other information services",5415,Computer systems design and related services,5415,Computer systems design and related services,Computer and data processing services,732
+5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",Advertising,721
+5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services","Engineering, architectural, and surveying services",882
+5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services","Accounting, auditing, and bookkeeping services",890
+5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services","Research, development, and testing services",891
+5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",Miscellaneous professional and related services,893
+5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",5412OP,"Miscellaneous professional, scientific, and technical services",Veterinary services,12
+55,Management of companies and public relations,55,Management of companies and enterprises,55,Management of companies and enterprises,Management and public relations services,892
+56,"Administrative, support, and other business services",561,Administrative and support services,561,Administrative and support services,Services to dwellings and other buildings,722
+56,"Administrative, support, and other business services",561,Administrative and support services,561,Administrative and support services,Personnel supply services,731
+56,"Administrative, support, and other business services",561,Administrative and support services,561,Administrative and support services,Detective and protective services,740
+56,"Administrative, support, and other business services",561,Administrative and support services,561,Administrative and support services,"Business services, n.e.c.",741
+56,"Administrative, support, and other business services",562,Waste management and remediation services,562,Waste management and remediation services,"Business services, n.e.c.",741
+61,Educational services,61,Educational services,61,Educational services,Elementary and secondary schools,842
+61,Educational services,61,Educational services,61,Educational services,Colleges and universities,850
+61,Educational services,61,Educational services,61,Educational services,Vocational schools,851
+61,Educational services,61,Educational services,61,Educational services,Libraries,852
+61,Educational services,61,Educational services,61,Educational services,"Educational services, n.e.c.",860
+621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,Offices and clinics of physicians,812
+621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,Offices and clinics of dentists,820
+621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,Offices and clinics of chiropractors,821
+621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,Offices and clinics of optometrists,822
+621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,"Offices and clinics of health practitioners, n.e.c.",830
+621,Ambulatory health care services,621,Ambulatory health care services,621,Ambulatory health care services,"Health services, n.e.c.",840
+622HO,Hospitals and nursing and residential care facilities,622HO,Hospitals and nursing and residential care facilities,622,Hospitals,Hospitals,831
+622HO,Hospitals and nursing and residential care facilities,622HO,Hospitals and nursing and residential care facilities,623,Nursing and residential care facilities,Nursing and personal care facilities,832
+624,Social assistance,624,Social assistance,624,Social assistance,Job training and vocational rehabilitation services,861
+624,Social assistance,624,Social assistance,624,Social assistance,Child day care services,862
+624,Social assistance,624,Social assistance,624,Social assistance,Family child care homes,863
+624,Social assistance,624,Social assistance,624,Social assistance,"Residential care facilities, without nursing",870
+624,Social assistance,624,Social assistance,624,Social assistance,"Social services, n.e.c.",871
+71,All recreation industries,711AS,"Performing arts, spectator sports, museums, and related activities",711AS,"Performing arts, spectator sports, museums, and related activities","Museums, art galleries, and zoos",872
+71,All recreation industries,713,"Amusements, gambling, and recreation industries",713,"Amusements, gambling, and recreation industries",Bowling centers,802
+71,All recreation industries,713,"Amusements, gambling, and recreation industries",713,"Amusements, gambling, and recreation industries",Miscellaneous entertainment and recreation services,810
+721,Accomodation,721,Accommodation,721,Accommodation,Hotels and motels,762
+721,Accomodation,721,Accommodation,721,Accommodation,"Lodging places, except hotels and motels",770
+722,Food services and drinking places,722,Food services and drinking places,722,Food services and drinking places,Eating and drinking places,641
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Automobile parking and carwashes,750
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Automotive repair and related services,751
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Electrical repair shops,752
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Miscellaneous repair services,760
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Private households,761
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government","Laundry, cleaning, and garment services",771
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Beauty shops,772
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Barber shops,780
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Funeral service and crematories,781
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Shoe repair shops,782
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Dressmaking shops,790
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Miscellaneous personal services,791
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Labor unions,873
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government",Religious organizations,880
+81,"Other services, except government",81,"Other services, except government",81,"Other services, except government","Membership organizations, n.e.c.",881
+G,All government,GFG,Federal general government,GFGD,Federal general government (defense),National security and international affairs,932
+G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Army,940
+G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Air Force,941
+G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Navy,942
+G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Marines,950
+G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Coast Guard,951
+G,All government,GFG,Federal general government,GFGD,Federal general government (defense),"Armed Forces, branch not specified",952
+G,All government,GFG,Federal general government,GFGD,Federal general government (defense),Military Reserves or National Guard,960
+G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),Executive and legislative offices,900
+G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),"General government, n.e.c.",901
+G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),"Justice, public order, and safety",910
+G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),"Public finance, taxation, and monetary policy",921
+G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),Administration of human resources programs,922
+G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),Administration of environmental quality and housing programs,930
+G,All government,GFG,Federal general government,GFGN,Federal general government (nondefense),Administration of economic programs,931
+G,All government,GFE,Federal government enterprises,GFE,Federal government enterprises,"General government, n.e.c.",901
+G,All government,GSLG,State and local general government,GSLG,State and local general government,"General government, n.e.c.",901
+G,All government,GSLE,State and local government enterprises,GSLE,State and local government enterprises,"General government, n.e.c.",901
+99,Unknown/residual,Used,"Scrap, used and secondhand goods",Used,"Scrap, used and secondhand goods",Unknown,998
+99,Unknown/residual,Other,Noncomparable imports and rest-of-the-world adjustment,Other,Noncomparable imports and rest-of-the-world adjustment [1],Unknown,998
