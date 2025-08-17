@@ -36,8 +36,16 @@ for(y in sort(unique(io$year))){
   }
   
   
-  # It's singular.
-  det(mat)
+  # Leontief inverse
+  L <- solve(diag(nrow(mat)) - mat)
+  L <- setDT(as.data.frame(L))
+  names(L) <- commods
+  L[, code_industry := inds]
+  L <- pivot_longer(L, cols = all_of(inds), names_to = "code_commodity",
+                    values_to = "value")%>%
+    setDT()
+  L[, year := y]
+
   # Eigenvalues, to identify strong linkages
   ev <- eigen(mat)
   vals <- ev$values
@@ -57,8 +65,10 @@ for(y in sort(unique(io$year))){
   # Assemble data
   if(y == min(sort(unique(io$year)))){
     alld <- thisnna
+    allL <- L
   }else{
     alld <- rbind(alld, thisnna)
+    allL <- rbind(allL, L)
   }
 }
 
@@ -81,3 +91,6 @@ write.csv(alld, file = file.path("data", "constructed data", "IO-matrices",
                                  "industry_eigenvalues.csv"),
           row.names = FALSE)
 
+write.csv(allL, file = file.path("data", "constructed data", "IO-matrices",
+                                 "leontief_inverse_long.csv"),
+          row.names = FALSE)
