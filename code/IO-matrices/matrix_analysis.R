@@ -91,6 +91,11 @@ write.csv(alld, file = file.path("data", "constructed data", "IO-matrices",
                                  "industry_eigenvalues.csv"),
           row.names = FALSE)
 
+
+allL[, industry := nna[.SD, on = .(NNA_code = code_industry), x.NNA_industry]]
+allL[, commodity := nna[.SD, on = .(NNA_code = code_commodity), x.NNA_industry]]
+allL <- allL[, .(year, code_industry, industry,
+                 code_commodity, commodity, value)]
 write.csv(allL, file = file.path("data", "constructed data", "IO-matrices",
                                  "leontief_inverse_long.csv"),
           row.names = FALSE)
