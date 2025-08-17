@@ -265,3 +265,23 @@ decompose_grossoutput <- function(g, years, userows, usecw){
   
   return(g)
 }
+
+format_total_intermediates <- function(g){
+  #' Extract just gross output and total intermediates for all sectors.
+  #' @param g data table. The raw KLEMS data.
+  #' @returns data table. Long-formatted aggregate data.
+  names(g) <- as.character(g[1, ])
+  # Take overlapping year out from historical data
+  if(max(suppressWarnings(as.numeric(names(g))), na.rm = TRUE) == 1997){
+    g[, `1997` := NULL]
+  }
+  g <- g[c(2, 7), ]
+  g[, Line := NULL]
+  g <- pivot_longer(g, cols = 2:ncol(g),
+                    names_to = "year",
+                    values_to = "value")%>%
+    setDT()
+  g[, year := as.numeric(year)]
+  g[, value := as.numeric(value)]
+  return(g)
+}

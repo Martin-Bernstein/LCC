@@ -1,0 +1,70 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{mathpazo}
+\usepackage{amsmath}
+\title{Inequality and the Labor Content of Consumption}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+\doublespacing
+
+
+We define three matrices to map consumption by income group to the labor incomes it generates across the income distribution.
+
+\paragraph{1. Consumption allocation matrix $A$}  
+Let $A \in \mathbb{R}^{I \times K}$ be given by
+\[
+A =
+\begin{bmatrix}
+a_{11} & a_{12} & \cdots & a_{1K} \\
+a_{21} & a_{22} & \cdots & a_{2K} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{I1} & a_{I2} & \cdots & a_{IK}
+\end{bmatrix},
+\]
+where rows $i=1,\dots,I$ index \emph{income percentile groups} of consumers and columns $k=1,\dots,K$ index \emph{industries producing goods and services}.  
+Element $a_{ik}$ denotes the share of consumption expenditure that group $i$ spends on industry $k$'s output.
+
+\paragraph{2. Input-Output matrix $L$}  
+Let $B \in \mathbb{R}^{K \times K}$ be the input–output ``use'' matrix (transposed from its standard format in National Accounts). In this matrix, $b_{kl}$ is the share of industry $k$'s gross output (i.e., total sales revenue) that they spend on inputs from industry $l$. Note that the rows will sum to less than one, because gross output is spent not only on intermediate inputs, but also on payments to labor, taxes, and net operating surplus (``payments to capital'').
+
+The Leontief inverse of this matrix, if it exists, is
+\[
+L = (I_K - B)^{-1} =
+\begin{bmatrix}
+\ell_{11} & \ell_{12} & \cdots & \ell_{1K} \\
+\ell_{21} & \ell_{22} & \cdots & \ell_{2K} \\
+\vdots & \vdots & \ddots & \vdots \\
+\ell_{K1} & \ell_{K2} & \cdots & \ell_{KK}
+\end{bmatrix},
+\]
+where both rows and columns index industries.  
+Element $\ell_{kl}$ gives the total (direct and indirect) inputs from industry $l$ purchased by industry $k$.
+
+\paragraph{3. Distributional labor share matrix $D$}  
+Let $D \in \mathbb{R}^{K \times I}$ be given by
+\[
+D =
+\begin{bmatrix}
+d_{11} & d_{12} & \cdots & d_{1I} \\
+d_{21} & d_{22} & \cdots & d_{2I} \\
+\vdots & \vdots & \ddots & \vdots \\
+d_{K1} & d_{K2} & \cdots & d_{KI}
+\end{bmatrix},
+\]
+where rows index industries and columns index income percentile groups of \emph{workers}.  
+Element $d_{kj}$ denotes the share of labor compensation in industry $k$ accruing to workers in income decile $j$.
+
+\paragraph{4. Mapping consumption to labor incomes}  
+Multiplying these matrices yields
+\[
+M = A \, L \, D,
+\]
+where $M \in \mathbb{R}^{I \times I}$ has element $m_{ij}$ equal to the share of consumption expenditure by income percentile group $i$ that ultimately accrues as labor income to income percentile group $j$, after accounting for inter-industry linkages and the distribution of labor compensation within industries.
+
+\section*{Input-output linkages over time}
+\end{document} 

@@ -66,6 +66,8 @@ write.csv(all_data, file = file.path("data", "constructed data", "IO-matrices",
                                      "IO_matrices_long.csv"),
           row.names = FALSE)
 
-write.csv(all_aggs, file = file.path("data", "constructed data", "IO-matrices",
-                                     "industry_GO=VA+intermediates.csv"),
-          row.names = FALSE)
+# Only used this to check that the IO table aggregates lined up with KLEMS.
+# They do (checked in decompose_gross_output.R)... BEA did their job.
+# write.csv(all_aggs, file = file.path("data", "constructed data", "IO-matrices",
+#                                      "industry_GO=VA+intermediates_fromIOtables.csv"),
+#           row.names = FALSE)
