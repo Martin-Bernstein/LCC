@@ -47,17 +47,25 @@ for (i in seq_along(years)) {
   setDT(m)
 
   # Use this to build matrix
-  dt <- build_matrix(m, colcodes, cw, year)
+  res <- build_matrix(m, colcodes, cw, year)
+  dt <- res[[1]]
+  aggs <- res[[2]]
 
   # Combine into one dataset
   if(i == 1){
     all_data <- dt
+    all_aggs <- aggs
   }else{
     all_data <- rbind(all_data, dt)
+    all_aggs <- rbind(all_aggs, aggs)
   }
 }
 
 
 write.csv(all_data, file = file.path("data", "constructed data", "IO-matrices",
                                      "IO_matrices_long.csv"),
+          row.names = FALSE)
+
+write.csv(all_aggs, file = file.path("data", "constructed data", "IO-matrices",
+                                     "industry_GO=VA+intermediates.csv"),
           row.names = FALSE)
