@@ -1,58 +1,58 @@
-"NNA_code","NNA_industry"
-"111CA","Farms"
-"113FF","Forestry, fishing, and related activities"
-"211","Oil and gas extraction"
-"212","Mining, except oil and gas"
-"23","Construction"
-"22","Utilities"
-"321","Wood products"
-"327","Nonmetallic mineral products"
-"331","Primary metals"
-"332","Fabricated metal products"
-"333","Machinery"
-"334","Computer and electronic products"
-"335","Electrical equipment, appliances, and components"
-"3361MV","Motor vehicles, bodies and trailers, and parts"
-"3364OT","Other transportation equipment"
-"337","Furniture and related products"
-"339","Miscellaneous manufacturing"
-"311FT","Food and beverage and tobacco products"
-"313TT","Textile mills and textile product mills"
-"315AL","Apparel and leather and allied products"
-"322","Paper products"
-"323PPI","Printing, publishing, and related"
-"324","Petroleum and coal products"
-"325","Chemical products"
-"326","Plastics and rubber products"
-"42","Wholesale trade"
-"44RT","Retail trade"
-"481","Air transportation"
-"482","Rail transportation"
-"483","Water transportation"
-"484","Truck transportation"
-"485","Transit and ground passenger transportation"
-"486","Pipeline transportation"
-"487OS","Other transportation and support activities"
-"493","Warehousing and storage"
-"512","Theaters, motion pictures, and sound recording"
-"513","Broadcasting and telecommunications"
-"51C54","Computer, data processing, internet publishing, and other information services"
-"521CI","Federal Reserve banks, credit intermediation, and related activities"
-"523O","Securities, commodity contracts, investments, funds, trusts, and other financial vehicles"
-"524","Insurance carriers and related activities"
-"531","Real estate"
-"532RL","Rental and leasing services and lessors of intangible assets"
-"5411","Legal services"
-"5412OP","Miscellaneous professional, scientific, and technical services"
-"55","Management of companies and public relations"
-"56","Administrative, support, and other business services"
-"61","Educational services"
-"621","Ambulatory health care services"
-"622HO","Hospitals and nursing and residential care facilities"
-"624","Social assistance"
-"71","All recreation industries"
-"721","Accomodation"
-"722","Food services and drinking places"
-"81","Other services, except government"
-"G","All government"
-"99","Unknown/residual"
+NNA_code,NNA_industry,short_name
+111CA,Farms,Farms
+113FF,"Forestry, fishing, and related activities",Forestry etc.
+211,Oil and gas extraction,Oil / gas extract.
+212,"Mining, except oil and gas",Other mining
+23,Construction,Construction
+22,Utilities,Utilities
+321,Wood products,Wood manuf.
+327,Nonmetallic mineral products,Nonmetals manuf.
+331,Primary metals,Primary metals
+332,Fabricated metal products,Fabricated metals
+333,Machinery,Machinery
+334,Computer and electronic products,Computers etc.
+335,"Electrical equipment, appliances, and components",Electrical manuf.
+3361MV,"Motor vehicles, bodies and trailers, and parts",Vehicles manuf.
+3364OT,Other transportation equipment,Other transport manuf.
+337,Furniture and related products,Furniture manuf.
+339,Miscellaneous manufacturing,Misc. manuf.
+311FT,Food and beverage and tobacco products,Food etc. manuf.
+313TT,Textile mills and textile product mills,Textile mills
+315AL,Apparel and leather and allied products,Apparel etc.
+322,Paper products,Paper
+323PPI,"Printing, publishing, and related",Printing etc.
+324,Petroleum and coal products,Petroleum products
+325,Chemical products,Chemical products
+326,Plastics and rubber products,Plastic products
+42,Wholesale trade,Wholesale
+44RT,Retail trade,Retail
+481,Air transportation,Air transport
+482,Rail transportation,Rail transport
+483,Water transportation,Water transport
+484,Truck transportation,Truck transport
+485,Transit and ground passenger transportation,Ground transit
+486,Pipeline transportation,Pipeline transport
+487OS,Other transportation and support activities,Other transport
+493,Warehousing and storage,Storage
+512,"Theaters, motion pictures, and sound recording",Theaters
+513,Broadcasting and telecommunications,Broadcasting
+51C54,"Computer, data processing, internet publishing, and other information services",Computer services
+521CI,"Federal Reserve banks, credit intermediation, and related activities",Banks
+523O,"Securities, commodity contracts, investments, funds, trusts, and other financial vehicles",Other finance
+524,Insurance carriers and related activities,Insurance
+531,Real estate,Real estate
+532RL,Rental and leasing services and lessors of intangible assets,Rental services
+5411,Legal services,Legal services
+5412OP,"Miscellaneous professional, scientific, and technical services",Prof. services
+55,Management of companies and public relations,Management
+56,"Administrative, support, and other business services",Admin
+61,Educational services,Education
+621,Ambulatory health care services,Health offices
+622HO,Hospitals and nursing and residential care facilities,Hospitals
+624,Social assistance,Soc. assistance
+71,All recreation industries,Recreation
+721,Accomodation,Accomodation
+722,Food services and drinking places,Food services
+81,"Other services, except government",Other services
+G,All government,All gov.
+99,Unknown/residual,Unknown/resid

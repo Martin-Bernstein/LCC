@@ -4,6 +4,9 @@ setwd(file.path(
 ))
 source(file.path("code", "IO-matrices", "NIPA-utility-functions.R"))
 
+yaxis_textsize <- 15
+legend_textsize <- 12
+
 nna <- fread(file.path("data", "codes and crosswalks",
                        "NNA_codes.csv"))
 cw <- fread(file.path("data", "codes and crosswalks",
@@ -54,17 +57,24 @@ g_historical <- decompose_grossoutput(g_historical, years, userows, usecw)
 
 # Combine and plot
 g <- rbind(g, g_historical)
+g[, short_name := nna[.SD, on = .(NNA_code = nna_code), x.short_name]]
+g[, short_name := factor(short_name, levels = nna$short_name)]
+
 setorder(g, year, industry, item)
 p <- ggplot(g, aes(year, share_in_output, fill = item))+
   geom_bar(position = "stack", stat = "identity")+
-  facet_wrap(~industry)+
+  facet_wrap(~short_name)+
   theme_bw()+
-  theme(legend.position = "bottom")+
+  theme(
+    legend.position = "bottom",
+    axis.title.y = element_text(size = yaxis_textsize),
+    legend.text = element_text(size = legend_textsize)
+  )+
   labs(x = NULL, y = "Share in gross output", fill = NULL)
 p
 ggsave(p, file = file.path("figures", "exploration", "IO-matrices",
                            "GO = wL + GOS + T + M.png"),
-       width = 15, height = 15, units = "in")
+       width = 10, height = 10, units = "in")
 
 
 # Compare KLEMS with IO aggregates:
@@ -97,14 +107,14 @@ toplot <- g[item != "Intermediate inputs"]
 p <- ggplot(toplot, aes(year, share_in_va, fill = item)) +
   geom_bar(stat = "identity", position = "stack") +
   coord_cartesian(ylim = c(-0.15, 1.3), clip = "on") +  # Don't lose bars entirely
-  facet_wrap(~industry) +
+  facet_wrap(~short_name) +
   theme_bw() +
   theme(legend.position = "bottom") +
   labs(x = NULL, y = "Share in value added", fill = NULL)
 
 ggsave(p, file = file.path("figures", "exploration", "IO-matrices",
                            "VA = wL + GOD + T.png"),
-       width = 15, height = 15, units = "in")
+       width = 10, height = 10, units = "in")
 
 # not too bad. So, take shares of value added in 1987
 shares <- g[year == 1987 & item != "Intermediate inputs"]
@@ -115,13 +125,17 @@ g[is.na(share_in_output),
 
 p <- ggplot(g, aes(year, share_in_output, fill = item))+
   geom_bar(position = "stack", stat = "identity")+
-  facet_wrap(~industry)+
+  facet_wrap(~short_name)+
   theme_bw()+
-  theme(legend.position = "bottom")+
+  theme(
+    legend.position = "bottom",
+    axis.title.y = element_text(size = yaxis_textsize),
+    legend.text = element_text(size = legend_textsize)
+  ) +
   labs(x = NULL, y = "Share in gross output", fill = NULL)
 ggsave(p, file = file.path("figures", "exploration", "IO-matrices",
                            "GO = wL + GOS + T + M_with_imputation.png"),
-       width = 15, height = 15, units = "in")
+       width = 10, height = 10, units = "in")
 
 g[, c("value_added", "share_in_va", "va_shares_1987") := NULL]
 g[item != "Intermediate inputs" & year < 1987, imputed_share := TRUE]
@@ -246,7 +260,7 @@ gdi[item %in% c("Net operating surplus (government)",
                 "Spending on fixed capital"),
     item := "Gross operating surplus"]
 gdi[item %in% c("Subsidies", "Taxes"),
-    item := "Taxes on production and imports less subsidies"]
+    item := "Taxes less subsidies"]
 gdi <- gdi[, .(share_in_output = sum(share_in_output)),
            by = .(year, item, gross_output)]
 

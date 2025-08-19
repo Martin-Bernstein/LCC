@@ -253,9 +253,14 @@ decompose_grossoutput <- function(g, years, userows, usecw){
   g <- g[, .(year, nna_code, industry, item, share_in_output, gross_output)]
   
   g[, industry := factor(industry, levels = nna$NNA_industry)] 
+  
+  g[item == "Taxes on production and imports less subsidies",
+    item := "Taxes less subsidies"]
+  
   itemlevels <- c("Compensation of employees",
                   "Gross operating surplus",
-                  "Taxes on production and imports less subsidies",
+                  #"Taxes on production and imports less subsidies",
+                  "Taxes less subsidies",
                   "Intermediate inputs")
   g[, item := factor(item, levels = itemlevels)]
   

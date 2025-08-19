@@ -1,4 +1,4 @@
-PWD /Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/Notes
+PWD /Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/notes
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -88,6 +88,18 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ppl.fd
@@ -106,6 +118,14 @@ INPUT build/notes.out
 INPUT build/notes.out
 OUTPUT build/notes.out
 OUTPUT build/notes.pdf
+INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
@@ -190,8 +210,51 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmbb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmbb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmbb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT ../figures/exploration/IO-matrices/industry_eigenvectors.png
+INPUT ../figures/exploration/IO-matrices/industry_eigenvectors.png
+INPUT ../figures/exploration/IO-matrices/industry_eigenvectors.png
+INPUT ../figures/exploration/IO-matrices/industry_eigenvectors.png
+INPUT ../figures/exploration/IO-matrices/industry_eigenvectors.png
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/mathpazo/zplmb7t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/mathpazo/zplmr7t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT ../figures/exploration/IO-matrices/aggregate_GO decomposition.png
+INPUT ../figures/exploration/IO-matrices/aggregate_GO decomposition.png
+INPUT ../figures/exploration/IO-matrices/aggregate_GO decomposition.png
+INPUT ../figures/exploration/IO-matrices/aggregate_GO decomposition.png
+INPUT ../figures/exploration/IO-matrices/aggregate_GO decomposition.png
+INPUT ../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png
+INPUT ../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png
+INPUT ../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png
+INPUT ../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png
+INPUT ../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png
 INPUT build/notes.aux
 INPUT build/notes.out
 INPUT build/notes.out
@@ -200,6 +263,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb
