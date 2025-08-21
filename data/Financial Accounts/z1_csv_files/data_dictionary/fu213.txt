@@ -1,0 +1,49 @@
+FU893163005.Q	All sectors; corporate and foreign bonds; liability	Line 1	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU103163005.Q	Nonfinancial corporate business; corporate bonds; liability	Line 2	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU793163005.Q	Domestic financial sectors; corporate and foreign bonds; liability	Line 3	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU763163005.Q	U.S.-chartered depository institutions; corporate and foreign bonds; liability	Line 4	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU673163005.Q	Issuers of asset-backed securities; corporate and foreign bonds; liability	Line 5	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU613163005.Q	Finance companies; corporate and foreign bonds; liability	Line 6	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU643163075.Q	Mortgage real estate investment trusts; corporate and foreign bonds, excluding FHLB advances; liability	Line 7	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU663163003.Q	Security brokers and dealers; corporate and foreign bonds; liability	Line 8	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU733163005.Q	Holding companies; corporate and foreign bonds; liability	Line 9	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU503163003.Q	Other financial business; corporate and foreign bonds where the proceeds are down-streamed to broker-dealer subsidiaries by investment banks that are holding-company parents; liability	Line 10	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU263163005.Q	Rest of the world; bonds; liability	Line 11	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU893063005.Q	All sectors; corporate and foreign bonds; asset	Line 12	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU153063005.Q	Households and nonprofit organizations; corporate and foreign bonds; asset	Line 13	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU123063003.Q	Equity real estate investment trusts; corporate and foreign bonds; asset	Line 14	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU313063005.Q	Federal government; corporate and foreign bonds; asset	Line 15	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU213063003.Q	State and local governments; corporate and foreign bonds; asset	Line 16	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU713011525.Q	Federal government; other U.S. reserves, foreign securities; asset	Line 17	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU763063005.Q	U.S.-chartered depository institutions, including IBFs; corporate and foreign bonds; asset	Line 18	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU763063605.Q	U.S.-chartered depository institutions; private MBS and CMOs; asset	Line 19	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU763063095.Q	U.S.-chartered depository institutions, including IBFs; corporate and foreign bonds, excluding private MBS and CMOs; asset	Line 20	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU753063005.Q	Foreign banking offices in the U.S., including IBFs; corporate and foreign bonds; asset	Line 21	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU743063005.Q	Banks in U.S.-affiliated areas; corporate and foreign bonds; asset	Line 22	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU473063005.Q	Credit unions; corporate and foreign bonds; asset	Line 23	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU473063605.Q	Credit unions; mortgage-backed securities and other asset-backed bonds; asset	Line 24	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU473063095.Q	Credit unions; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 25	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU513063005.Q	Property-casualty insurance companies; corporate and foreign bonds, including those held by U.S. residual market reinsurers; asset	Line 26	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU513063605.Q	Property-casualty insurance companies; mortgage-backed securities and other asset-backed bonds, including those held by U.S. residual market reinsurers; asset	Line 27	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU513063095.Q	Property-casualty insurance companies; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 28	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU543063005.Q	Life insurance companies; corporate and foreign bonds; asset	Line 29	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU543063675.Q	Life insurance companies, general accounts; mortgage-backed securities and other asset-backed bonds, including those held by U.S. captive reinsurers; asset	Line 30	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU543063095.Q	Life insurance companies; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 31	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU573063005.Q	Private pension funds; corporate and foreign bonds; asset	Line 32	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU343063005.Q	Federal government retirement funds; corporate and foreign bonds; asset	Line 33	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU223063045.Q	State and local government employee defined benefit retirement funds; corporate and foreign bonds; asset	Line 34	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU633063005.Q	Money market funds; corporate and foreign bonds; asset	Line 35	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU653063005.Q	Mutual funds; corporate and foreign bonds; asset (market value)	Line 36	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU553063003.Q	Closed-end funds; corporate and foreign bonds; asset	Line 37	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU563063003.Q	Exchange-traded funds; corporate and foreign bonds; asset	Line 38	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU403063005.Q	Government-sponsored enterprises; corporate and foreign bonds; asset	Line 39	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU403063605.Q	Government-sponsored enterprises; mortgage-backed securities and other asset-backed bonds; asset	Line 40	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU403063095.Q	Government-sponsored enterprises; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 41	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU613063003.Q	Finance companies; corporate and foreign bonds; asset	Line 42	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU643063073.Q	Mortgage real estate investment trusts; corporate and foreign bonds; asset	Line 43	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU663063005.Q	Security brokers and dealers; corporate and foreign bonds (net); asset	Line 44	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU733063003.Q	Holding companies; corporate and foreign bonds; asset	Line 45	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU503063005.Q	Other financial business; corporate and foreign bonds, including financial stabilization programs; asset	Line 46	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU263063005.Q	Rest of the world; corporate bonds; asset 	Line 47	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU263063603.Q	Rest of the world; U.S. mortgage-backed securities and other U.S. asset-backed bonds; asset	Line 48	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted
+FU263063095.Q	Rest of the world: U.S. corporate bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 49	F.213 Corporate and Foreign Bonds	Millions of dollars; transactions, not seasonally adjusted

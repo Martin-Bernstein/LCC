@@ -1,0 +1,44 @@
+FU883120005.Q	All domestic sectors; checkable deposits and currency; liability	Line 1	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU313125003.Q	Federal government; Treasury currency; liability	Line 2	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU713120005.Q	Monetary authority; checkable deposits and currency; liability	Line 3	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU713123005.Q	Monetary authority; checkable deposits due to the federal government; liability	Line 4	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU713124005.Q	Monetary authority; checkable deposits due to government-sponsored enterprises, including FHLB deposits; liability	Line 5	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU713129005.Q	Monetary authority; total checkable deposits due to other financial business; liability	Line 6	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU713122605.Q	Monetary authority; checkable deposits due to rest of the world; liability	Line 7	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU713125005.Q	Monetary authority; currency outside banks; liability	Line 8	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU703025005.Q	Private depository institutions; vault cash; asset	Line 9	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU763127005.Q	U.S.-chartered depository institutions; checkable deposits; liability	Line 10	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU763123005.Q	U.S.-chartered depository institutions; checkable deposits due to the federal government, including demand notes issued to U.S. Treasury and tax and loan accounts; liability	Line 11	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU763128000.Q	U.S.-chartered depository institutions; transaction deposits due to state and local governments (including mail float); liability	Line 12	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU763122605.Q	U.S.-chartered depository institutions; checkable deposits due to rest of the world; liability	Line 13	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU763129205.Q	U.S.-chartered depository institutions; checkable deposits due to private domestic sectors; liability	Line 14	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU753127005.Q	Foreign banking offices in the U.S.; checkable deposits; liability	Line 15	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU753122603.Q	Foreign banking offices in the U.S.; checkable deposits due to rest of the world; liability	Line 16	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU753129205.Q	Foreign banking offices in the U.S.; checkable deposits due to private domestic sectors; liability	Line 17	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU743127003.Q	Banks in U.S.-affiliated areas; checkable deposits; liability	Line 18	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU473127003.Q	Credit unions; checkable deposits; liability	Line 19	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU883120005.Q	All domestic sectors; checkable deposits and currency; liability	Line 20	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU153020005.Q	Households and nonprofit organizations; checkable deposits and currency; asset	Line 21	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU143020005.Q	Nonfinancial business; checkable deposits and currency; asset	Line 22	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU103020005.Q	Nonfinancial corporate business; checkable deposits and currency; asset	Line 23	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU113020005.Q	Nonfinancial noncorporate business; checkable deposits and currency; asset 	Line 24	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU313020005.Q	Federal government; checkable deposits and currency; asset	Line 25	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU213020005.Q	State and local governments; checkable deposits and currency; asset	Line 26	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU793020005.Q	Domestic financial sectors; checkable deposits and currency; asset	Line 27	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU713012003.Q	Monetary authority; coin; asset	Line 28	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU763025000.Q	U.S.-chartered depository institutions; vault cash; asset	Line 29	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU753025003.Q	Foreign banking offices in the U.S.; vault cash; asset	Line 30	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU513020005.Q	Property-casualty insurance companies; checkable deposits and currency, including those held by U.S. residual market reinsurers; asset	Line 31	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU543020005.Q	Life insurance companies; checkable deposits and currency; asset	Line 32	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU573020005.Q	Private pension funds; checkable deposits and currency; asset	Line 33	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU343020033.Q	Federal government retirement funds; checkable deposits and currency held by National Railroad Retirement Investment Trust; asset	Line 34	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU223020043.Q	State and local government employee defined benefit retirement funds; checkable deposits and currency; asset	Line 35	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU403020005.Q	Government-sponsored enterprises; checkable deposits and currency; asset	Line 36	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU613020003.Q	Finance companies; checkable deposits and currency; asset	Line 37	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU643020073.Q	Mortgage real estate investment trusts; checkable deposits and currency; asset	Line 38	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU663020003.Q	Security brokers and dealers; checkable deposits and currency; asset	Line 39	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU503020005.Q	Other financial business; checkable deposits and currency; asset	Line 40	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU263020005.Q	Rest of the world; U.S. checkable deposits and currency; asset	Line 41	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU263027003.Q	Rest of the world; checkable deposits; assets	Line 42	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU263025003.Q	Rest of the world; currency; asset	Line 43	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted
+FU903020005.Q	Instrument discrepancies; checkable deposits and currency (total mail float)	Line 44	F.203 Checkable Deposits and Currency	Millions of dollars; transactions, not seasonally adjusted

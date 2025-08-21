@@ -1,0 +1,66 @@
+FU893169005.Q	All sectors; other loans and advances; liability	Line 1	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU163069005.Q	Nonprofit organizations; other loans and advances receivable; asset 	Line 2	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU153169055.Q	Households and nonprofit organizations; other loans and advances from nonprofit organizations; liability 	Line 3	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU163069043.Q	Nonprofit organizations; other loans and advances to businesses receivable held by 501c3-9 organizations; asset	Line 4	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU313069205.Q	Federal government; U.S. government loans; asset	Line 5	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU153169203.Q	Households and nonprofit organizations; U.S. government loans; liability	Line 6	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU103169205.Q	Nonfinancial corporate business; U.S. government loans, including loans to automakers; liability	Line 7	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU113169205.Q	Nonfinancial noncorporate business; U.S. government loans; liability	Line 8	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU213169203.Q	State and local governments; U.S. government loans; liability	Line 9	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU403169283.Q	Government-sponsored enterprises; U.S. government loans to Sallie Mae; liability	Line 10	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU313069223.Q	Federal government; loans to finance companies (Chrysler Financial); asset	Line 11	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503169205.Q	Other financial business; U.S. government loans to TALF I LLC and loans made under PPIP; liability	Line 12	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU263169203.Q	Rest of the world; U.S. government loans excluding capital subscriptions and contributions to international financial institutions and the IMF; liability	Line 13	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU153169405.Q	Households and nonprofit organizations; policy loans; liability	Line 14	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU313069403.Q	Federal government; policy loans; asset	Line 15	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU543069405.Q	Life insurance companies; policy loans; asset	Line 16	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU313169005.Q	Federal government; other loans and advances; liability	Line 17	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU153069205.Q	Households and nonprofit organizations; total nonmarketable Treasury securities; liability	Line 18	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU213069200.Q	State and local governments; State and local government series securities (MSPD); asset	Line 19	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU343069055.Q	Federal government defined benefit retirement funds; other loans and advances; asset 	Line 20	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU343069245.Q	Federal government defined benefit retirement funds; nonmarketable Treasury securities; asset	Line 21	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503069203.Q	Other financial business; nonmarketable Treasury securities held by Federal Reserve credit facility LLCs (MSPD); asset 	Line 22	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU403069330.Q	Government-sponsored enterprises; FHLB advances; asset	Line 23	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU763169335.Q	U.S.-chartered depository institutions; FHLB advances (residual); liability	Line 24	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU473169333.Q	Credit unions; FHLB advances; liability	Line 25	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU513169333.Q	Property-casualty insurance companies; FHLB advances; liability	Line 26	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU543169373.Q	Life insurance companies, general accounts; FHLB advances; liability	Line 27	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU613169333.Q	Finance companies; FHLB advances; liability	Line 28	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU643169373.Q	Mortgage real estate investment trusts; FHLB advances; liability	Line 29	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU403069395.Q	Government-sponsored enterprises; Farm Credit System and Sallie Mae loans and advances; asset	Line 30	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU153169305.Q	Households and nonprofit organizations; Sallie Mae loans; liability	Line 31	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU183169303.Q	Corporate farm business; Farm Credit System loans; liability	Line 32	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU113169305.Q	Nonfinancial noncorporate business; Farm Credit System loans; liability	Line 33	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU763169383.Q	U.S.-chartered depository institutions; Sallie Mae warehousing advances; liability	Line 34	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU663067005.Q	Security brokers and dealers; receivables due from customers and noncustomers (margin loans and other receivables); asset	Line 35	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU663067003.Q	Security brokers and dealers; receivables due from customers (margin loans and other receivables); asset	Line 36	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU663067063.Q	Security brokers and dealers; receivables due from noncustomers (margin loans and other receivables); asset	Line 37	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU663167015.Q	Security brokers and dealers; payables to customer and rest of the world noncustomers (free credit, margin deposits, and other payables); liability	Line 38	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU153067005.Q	Households and nonprofit organizations; cash accounts at brokers and dealers	Line 39	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU263067005.Q	Rest of the world; cash accounts at broker and dealers; asset (net)	Line 40	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503169023.Q	Other financial business; clearing and participant fund contributions of central clearing counterparties; liability	Line 41	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU763069023.Q	U.S.-chartered depository institutions; clearing and participant fund contributions at central clearing parties; asset	Line 42	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU663069025.Q	Security brokers and dealers; clearing and participant fund contributions at central clearing parties (net); asset	Line 43	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503069025.Q	Other financial business; clearing and participant fund contributions of central clearing counterparties; asset	Line 44	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU103169803.Q	Nonfinancial corporate business; syndicated loans; liability	Line 45	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU153069803.Q	Households and nonprofit organizations; syndicated loans to nonfinancial corporate business; asset 	Line 46	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU543069873.Q	Life insurance companies, general accounts; syndicated loans to nonfinancial corporate business; asset	Line 47	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU653069803.Q	Mutual funds; syndicated loans to nonfinancial corporate business; asset	Line 48	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU673069803.Q	Issuers of asset-backed securities; syndicated loans to nonfinancial corporate business; asset	Line 49	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU663069803.Q	Security brokers and dealers; syndicated loans to nonfinancial corporate business; asset 	Line 50	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503069805.Q	Other financial business; syndicated loans to nonfinancial corporate business; asset	Line 51	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU673069505.Q	Issuers of asset-backed securities; securitized nonfinancial business loans; asset	Line 52	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU673069505.Q	Issuers of asset-backed securities; securitized nonfinancial business loans; asset	Line 53	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU613069505.Q	Finance companies; nonfinancial business loans, including Paycheck Protection Program loans; asset	Line 54	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU103169535.Q	Nonfinancial corporate business; finance companies loans; liability	Line 55	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU113169535.Q	Nonfinancial noncorporate business; finance companies loans; liability	Line 56	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU733069005.Q	Holding companies; other loans and advances; asset	Line 57	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU733069013.Q	Holding companies; other loans and advances due from U.S. addressees; asset	Line 58	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU733069023.Q	Holding companies; other loans and advances due from foreign addressees; asset	Line 59	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503069075.Q	Other financial business; loans from Federal Reserve funding, credit and liquidity facility special purpose vehicles; asset	Line 60	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503069003.Q	Other financial business; loans to hedge funds and private domestic equity funds from the Term Asset-Backed Securities Loan Facility LLC (TALF II); asset	Line 61	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503069013.Q	Other financial business; loans to nonfinancial corporate business from the Main Street Facilities LLC; asset	Line 62	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503069023.Q	Other financial business; loans to nonfinancial noncorporate business from the Main Street Facilities LLC; asset	Line 63	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU503069033.Q	Other financial business; loans to nonprofit organizations from the Main Street Facilities LLC; asset	Line 64	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU263069500.Q	Rest of the world; U.S. nonfinancial business loans; asset	Line 65	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted
+FU263069500.Q	Rest of the world; U.S. nonfinancial business loans; asset	Line 66	F.216 Other Loans and Advances	Millions of dollars; transactions, not seasonally adjusted

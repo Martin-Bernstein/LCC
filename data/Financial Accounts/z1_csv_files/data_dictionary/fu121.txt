@@ -1,0 +1,18 @@
+FU634090005.Q	Money market funds; total financial assets	Line 1	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU633030000.Q	Money market funds; total time and savings deposits; asset	Line 2	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU633091003.Q	Money market funds; private foreign deposits; asset	Line 3	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU632051000.Q	Money market funds; security repurchase agreements; asset	Line 4	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU634022005.Q	Money market funds; debt securities; asset	Line 5	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU633069175.Q	Money market funds; open market paper; asset	Line 6	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU633061105.Q	Money market funds; Treasury securities; asset	Line 7	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU633061700.Q	Money market funds; agency- and GSE-backed securities; asset	Line 8	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU633062000.Q	Money market funds; municipal securities; asset	Line 9	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU633063005.Q	Money market funds; corporate and foreign bonds; asset	Line 10	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU633093005.Q	Money market funds; unidentified miscellaneous assets (net)	Line 11	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU634090005.Q	Money market funds; total financial assets	Line 12	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU634090010.Q	Money market funds; constant NAV total financial assets	Line 13	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU634090020.Q	Money market funds; floating NAV total financial assets	Line 14	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU634090033.Q	Money market funds; total financial assets of government funds	Line 15	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU634090043.Q	Money market funds; total financial assets of prime funds	Line 16	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU634090053.Q	Money market funds; total financial assets of tax-exempt funds	Line 17	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted
+FU634090503.Q	Variable annuity money market funds; total financial assets	Line 18	F.121 Money Market Funds	Millions of dollars; transactions, not seasonally adjusted

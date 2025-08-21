@@ -1,0 +1,55 @@
+FA894123005.Q	All sectors; total loans; liability	Line 1	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA793068005.Q	Domestic financial sectors; depository institution loans n.e.c.; asset	Line 2	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA893169005.Q	All sectors; other loans and advances; liability	Line 3	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA893065005.Q	All sectors; total mortgages; asset	Line 4	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA893065105.Q	All sectors; one-to-four-family residential mortgages; asset	Line 5	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA893065405.Q	All sectors; multifamily residential mortgages; asset	Line 6	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA893065505.Q	All sectors; commercial mortgages; asset	Line 7	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA893065603.Q	All sectors; farm mortgages; asset	Line 8	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA153166000.Q	Households and nonprofit organizations; consumer credit; liability	Line 9	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA894123005.Q	All sectors; total loans; liability	Line 10	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA384123005.Q	Domestic nonfinancial sectors; loans; liability	Line 11	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA154123005.Q	Households and nonprofit organizations; loans; liability	Line 12	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA104123005.Q	Nonfinancial corporate business; loans; liability	Line 13	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA114123005.Q	Nonfinancial noncorporate business; loans; liability	Line 14	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA314123005.Q	Federal government; loans; liability	Line 15	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA213169203.Q	State and local governments; U.S. government loans; liability	Line 16	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA794123005.Q	Domestic financial sectors; loans; liability 	Line 17	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA763169305.Q	U.S.-chartered depository institutions; FHLB advances and Sallie Mae loans; liability	Line 18	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA473169333.Q	Credit unions; FHLB advances; liability	Line 19	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA513169333.Q	Property-casualty insurance companies; FHLB advances; liability	Line 20	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543169373.Q	Life insurance companies, general accounts; FHLB advances; liability	Line 21	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA403169283.Q	Government-sponsored enterprises; U.S. government loans to Sallie Mae; liability	Line 22	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA614123005.Q	Finance companies; loans; liability	Line 23	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA644123075.Q	Mortgage real estate investment trusts; loans; liability	Line 24	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA664123005.Q	Security brokers and dealers; loans; liability	Line 25	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA504123005.Q	Other financial business; loans; liability	Line 26	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA264123005.Q	Rest of the world; loans; liability	Line 27	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA894123005.Q	All sectors; total loans; liability	Line 28	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA384023005.Q	Domestic nonfinancial sectors; loans; asset	Line 29	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA154023005.Q	Households and nonprofit organizations; loans; asset	Line 30	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA104023005.Q	Nonfinancial corporate business; loans; asset	Line 31	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA114023005.Q	Nonfinancial noncorporate business; loans; asset	Line 32	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA314023005.Q	Federal government; loans; asset	Line 33	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA214023005.Q	State and local governments; loans; asset	Line 34	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA794023005.Q	Domestic financial sectors; loans; asset	Line 35	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA713068005.Q	Monetary authority; depository institution loans n.e.c.; asset	Line 36	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA764023005.Q	U.S.-chartered depository institutions; loans; asset	Line 37	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA754023005.Q	Foreign banking offices in the U.S.; loans; asset	Line 38	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA744023003.Q	Banks in U.S.-affiliated areas; loans; asset	Line 39	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA474023000.Q	Credit unions; loans; asset	Line 40	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA513065505.Q	Property-casualty insurance companies; commercial mortgages, including those held by U.S. residual market reinsurers; asset	Line 41	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA544023005.Q	Life insurance companies; loans; asset	Line 42	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA573065005.Q	Private pension funds; total mortgages; asset	Line 43	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA343069005.Q	Federal government retirement funds; other loans and advances; asset 	Line 44	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA223065043.Q	State and local government employee defined benefit retirement funds; total mortgages; asset	Line 45	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA653069803.Q	Mutual funds; syndicated loans to nonfinancial corporate business; asset	Line 46	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA404023005.Q	Government-sponsored enterprises; loans; asset	Line 47	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA413065005.Q	Agency-and GSE-backed mortgage pools; total mortgages; asset	Line 48	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA674023005.Q	Issuers of asset-backed securities; loans; asset	Line 49	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA614023005.Q	Finance companies; loans; asset	Line 50	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA643065075.Q	Mortgage real estate investment trusts; total mortgages; asset	Line 51	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA663069005.Q	Security brokers and dealers; other loans and advances; asset 	Line 52	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA733069005.Q	Holding companies; other loans and advances; asset	Line 53	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA503069005.Q	Other financial business; other loans and advances; asset	Line 54	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263069005.Q	Rest of the world; other loans and advances; asset	Line 55	F.214 Loans	Millions of dollars; transactions at a seasonally adjusted annual rate

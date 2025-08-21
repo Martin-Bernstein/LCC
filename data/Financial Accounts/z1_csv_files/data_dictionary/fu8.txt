@@ -1,0 +1,14 @@
+FU907005005.Q	Instrument discrepancies; total discrepancy	Line 1	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU903091005.Q	Instrument discrepancies; private foreign deposits	Line 2	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU904010005.Q	Instrument discrepancies; interbank transactions	Line 3	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU902050005.Q	Instrument discrepancies; federal funds and security repurchase agreements 	Line 4	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU903020005.Q	Instrument discrepancies; checkable deposits and currency (total mail float)	Line 5	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU903023005.Q	Instrument discrepancies; federal government mail float	Line 6	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU903028003.Q	Instrument discrepancies; state and local governments mail float	Line 7	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU903029200.Q	Instrument discrepancies; private domestic mail float	Line 8	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU903070005.Q	Instrument discrepancies; trade receivables	Line 9	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU903078005.Q	Instrument discrepancies; taxes receivable	Line 10	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU903090005.Q	Instrument discrepancies; total miscellaneous assets	Line 11	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU906000105.Q	Instrument discrepancies; gross saving including foreign earnings retained abroad less net capital transfers paid less capital expenditures	Line 12	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU087005005.Q	Gross domestic product (GDP); statistical discrepancy (calculated from components)	Line 13	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted
+FU156600075.Q	Households and nonprofit organizations; adjustment to contributions for government social insurance paid for U.S. affiliated areas	Line 14	F.8 Instrument Discrepancies	Millions of dollars; transactions, not seasonally adjusted

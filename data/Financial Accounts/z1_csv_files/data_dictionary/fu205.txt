@@ -1,0 +1,27 @@
+FU893130505.Q	All sectors; other deposits; liability	Line 1	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU313131003.Q	Federal government; postal savings system deposits; liability	Line 2	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 3	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU263130505.Q	Rest of the world; other deposits; liability	Line 4	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU893030505.Q	All sectors; other deposits; asset	Line 5	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU153030505.Q	Households and nonprofit organizations; other deposits; asset	Line 6	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU103091003.Q	Nonfinancial corporate business; private foreign deposits; asset	Line 7	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU313030505.Q	Federal government; other deposits; asset	Line 8	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU713011405.Q	Monetary authority; reserve position in IMF (net); asset	Line 9	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 10	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU633091003.Q	Money market funds; private foreign deposits; asset	Line 11	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU733091003.Q	Holding companies; private foreign deposits at affiliates; asset	Line 12	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU903091005.Q	Instrument discrepancies; private foreign deposits	Line 13	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU263111403.Q	Rest of the world; reserve position in IMF (net); liability	Line 14	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU313011405.Q	Federal government; reserve position in IMF (net); asset	Line 15	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU713011405.Q	Monetary authority; reserve position in IMF (net); asset	Line 16	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU313131003.Q	Federal government; postal savings system deposits; liability	Line 17	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU313131003.Q	Federal government; postal savings system deposits; liability	Line 18	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 19	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 20	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU263191005.Q	Rest of the world; U.S. private deposits, including negotiable certificates of deposit; liability	Line 21	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU153091003.Q	Households and nonprofit organizations; private foreign deposits; asset	Line 22	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU103091003.Q	Nonfinancial corporate business; private foreign deposits; asset	Line 23	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU313091005.Q	Federal government; foreign deposits; asset	Line 24	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU633091003.Q	Money market funds; private foreign deposits; asset	Line 25	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU733091003.Q	Holding companies; private foreign deposits at affiliates; asset	Line 26	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU903091005.Q	Instrument discrepancies; private foreign deposits	Line 27	F.205 Other Deposits	Millions of dollars; transactions, not seasonally adjusted

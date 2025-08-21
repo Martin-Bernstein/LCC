@@ -1,0 +1,27 @@
+FA383162005.Q	Domestic nonfinancial sectors; municipal securities; liability	Line 1	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA213162005.Q	State and local governments; municipal securities; liability	Line 2	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA213162400.Q	State and local governments; short-term municipal securities; liability	Line 3	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA213162200.Q	State and local governments; long-term municipal securities; liability	Line 4	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA163162003.Q	Nonprofit organizations; municipal securities; liability	Line 5	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103162000.Q	Nonfinancial corporate business; municipal securities; liability	Line 6	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA893062005.Q	All sectors; municipal securities; asset	Line 7	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA153062005.Q	Households and nonprofit organizations; municipal securities; asset	Line 8	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103062003.Q	Nonfinancial corporate business; municipal securities; asset	Line 9	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA113062003.Q	Nonfinancial noncorporate business; municipal securities; asset	Line 10	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA213062003.Q	State and local governments; municipal securities; asset	Line 11	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA763062000.Q	U.S.-chartered depository institutions; municipal securities; asset	Line 12	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA753062003.Q	Foreign banking offices in the U.S.; municipal securities; asset	Line 13	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA743062003.Q	Banks in U.S.-affiliated areas; municipal securities; asset	Line 14	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA473062005.Q	Credit unions; municipal securities; asset	Line 15	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA513062005.Q	Property-casualty insurance companies; municipal securities, including those held by U.S. residual market reinsurers; asset	Line 16	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543062005.Q	Life insurance companies; municipal securities; asset	Line 17	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA343062033.Q	Federal government retirement funds; municipal securities held by National Railroad Retirement Investment Trust; asset	Line 18	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA223062043.Q	State and local government employee defined benefit retirement funds; municipal securities; asset	Line 19	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA633062000.Q	Money market funds; municipal securities; asset	Line 20	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA653062003.Q	Mutual funds; municipal securities; asset (market value)	Line 21	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA553062003.Q	Closed-end funds; municipal securities; asset	Line 22	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA563062003.Q	Exchange-traded funds; municipal securities; asset	Line 23	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA403062005.Q	Government-sponsored enterprises; municipal securities and Sallie Mae public academic facilities financing and Sallie Mae public warehousing advances; asset	Line 24	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA663062005.Q	Security brokers and dealers; municipal securities (net) ; asset	Line 25	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA503062003.Q	Other financial business; municipal securities held by COVID-19 Municipal Liquidity Facility (MLF); asset	Line 26	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263062003.Q	Rest of the world; municipal securities; asset	Line 27	F.212 Municipal Securities	Millions of dollars; transactions at a seasonally adjusted annual rate

@@ -1,0 +1,38 @@
+FU894100005.Q	All sectors; total currency and deposits; liability	Line 1	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU314100005.Q	Federal government; total currency and deposits; liability	Line 2	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU714100005.Q	Monetary authority; total currency and deposits; liability	Line 3	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU704100005.Q	Private depository institutions; total currency and deposits; liability	Line 4	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU764100005.Q	U.S.-chartered depository institutions; total currency and deposits; liability	Line 5	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU754100005.Q	Foreign banking offices in the U.S.; total currency and deposits; liability	Line 6	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU744100005.Q	Banks in U.S.-affiliated areas; total currency and deposits; liability	Line 7	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU474100005.Q	Credit unions; total currency and deposits; liability	Line 8	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 9	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU264100005.Q	Rest of the world; total currency and deposits; liability 	Line 10	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU894000005.Q	All sectors; total currency and deposits; asset	Line 11	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU154000005.Q	Households and nonprofit organizations; total currency and deposits; asset	Line 12	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU144000005.Q	Nonfinancial business; total currency and deposits; asset	Line 13	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU104000005.Q	Nonfinancial corporate business; total currency and deposits; asset	Line 14	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU114000005.Q	Nonfinancial noncorporate business; total currency and deposits; asset	Line 15	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU314000005.Q	Federal government; total currency and deposits; asset	Line 16	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU214000005.Q	State and local governments; total currency and deposits; asset	Line 17	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU794000005.Q	Domestic financial sectors; total currency and deposits; asset 	Line 18	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU714000005.Q	Monetary authority; total currency and deposits; asset	Line 19	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU704000005.Q	Private depository institutions; total currency and deposits; asset	Line 20	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU764000005.Q	U.S.-chartered depository institutions; total currency and deposits; asset	Line 21	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU754000005.Q	Foreign banking offices in the U.S.; total currency and deposits; asset	Line 22	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU743020003.Q	Banks in U.S.-affiliated areas; checkable deposits and currency and reserves at the Federal Reserve; asset	Line 23	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU474010005.Q	Credit unions; interbank transactions; asset	Line 24	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU513020005.Q	Property-casualty insurance companies; checkable deposits and currency, including those held by U.S. residual market reinsurers; asset	Line 25	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU543020005.Q	Life insurance companies; checkable deposits and currency; asset	Line 26	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU574000005.Q	Private pension funds; total currency and deposits; asset	Line 27	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU343020033.Q	Federal government retirement funds; checkable deposits and currency held by National Railroad Retirement Investment Trust; asset	Line 28	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU224000045.Q	State and local government employee retirement funds; total currency and deposits; asset	Line 29	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU633030205.Q	Money market funds; other deposits including time and savings deposits; asset 	Line 30	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU404000005.Q	Government-sponsored enterprises; total currency and deposits; asset 	Line 31	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU614000005.Q	Finance companies; total currency and deposits; asset 	Line 32	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU643020073.Q	Mortgage real estate investment trusts; checkable deposits and currency; asset	Line 33	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU663020003.Q	Security brokers and dealers; checkable deposits and currency; asset	Line 34	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU733030003.Q	Holding companies; time and savings deposits, including private foreign deposits; asset	Line 35	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU503020005.Q	Other financial business; checkable deposits and currency; asset	Line 36	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU264000005.Q	Rest of the world; total currency and deposits; asset	Line 37	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted
+FU904000005.Q	Instrument discrepancies; total currency and deposits; asset	Line 38	F.201 Currency and Deposits	Millions of dollars; transactions, not seasonally adjusted

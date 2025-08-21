@@ -1,0 +1,32 @@
+FU893194905.Q	All sectors; miscellaneous other equity; liability	Line 1	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU112090205.Q	Nonfinancial noncorporate business; proprietors' equity in noncorporate business	Line 2	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU662090003.Q	Security brokers and dealers; proprietors' equity in noncorporate business	Line 3	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU152090205.Q	Households and nonprofit organizations; proprietors' equity in noncorporate business	Line 4	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU313092803.Q	Federal government; U.S. equity in International Bank for Reconstruction and Development (IBRD), etc.; asset	Line 5	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU313092803.Q	Federal government; U.S. equity in International Bank for Reconstruction and Development (IBRD), etc.; asset	Line 6	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU713164003.Q	Monetary authority; Federal Reserve bank stock; liability	Line 7	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU713164003.Q	Monetary authority; Federal Reserve bank stock; liability	Line 8	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU403192405.Q	Government-sponsored enterprises; equity in government-sponsored enterprises (GSEs); liability	Line 9	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU103092405.Q	Nonfinancial corporate business; equity in Fannie Mae and Farm Credit System; asset 	Line 10	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU113092405.Q	Nonfinancial noncorporate business; equity in Farm Credit System; asset	Line 11	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU313092403.Q	Federal government; equity in government-sponsored enterprises (GSEs); asset	Line 12	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU763092405.Q	U.S.-chartered depository institutions; equity in FHLB; asset	Line 13	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU473092403.Q	Credit unions; equity in FHLB; asset	Line 14	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU513092403.Q	Property-casualty insurance companies; equity in FHLB; asset	Line 15	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU543092473.Q	Life insurance companies, general accounts; equity in FHLB; asset	Line 16	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU613092403.Q	Finance companies; equity in FHLB; asset	Line 17	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU643092473.Q	Mortgage real estate investment trusts; equity in FHLB; asset	Line 18	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU763194603.Q	U.S.-chartered depository institutions; equity investment by parent holding company; liability	Line 19	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU513194603.Q	Property-casualty insurance companies; equity investment by parent holding company; liability	Line 20	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU543194603.Q	Life insurance companies; equity investment by parent holding company; liability	Line 21	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU663194605.Q	Security brokers and dealers; equity investment by holding company parent; liability	Line 22	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU733094635.Q	Holding companies; equity investment in affiliates; asset	Line 23	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU753194503.Q	Foreign banking offices in the U.S.; equity investment by funding corporations; liability	Line 24	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU663194505.Q	Security brokers and dealers; investment by funding corporations; liability	Line 25	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU503094505.Q	Other financial business; equity investment in own subsidiaries; asset	Line 26	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU313094213.Q	Federal government; Exchange Stabilization Fund Economic Recovery Programs investment in Money Market Mutual Fund Liquidity Facility (MMLF); asset	Line 27	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU503194205.Q	Other financial business; Exchange Stabilization Fund Economic Recovery Programs Equity Investment in Federal Reserve credit facility LLCs; liability	Line 28	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU313094205.Q	Federal government; Total Exchange Stabilization Fund Economic Recovery Programs investments in Federal Reserve credit facilities; asset	Line 29	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU503194305.Q	Other financial business; equity investment in funds associated with PPIP; liability	Line 30	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU153094305.Q	Households and nonprofit organizations; equity investment in funding corporations under PPIP; asset	Line 31	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted
+FU313094303.Q	Federal government; equity investment in funding corporations under PPIP; asset	Line 32	F.225.b Miscellaneous Other Equity	Millions of dollars; transactions, not seasonally adjusted

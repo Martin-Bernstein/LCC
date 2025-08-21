@@ -1,0 +1,27 @@
+FL893130505.Q	All sectors; other deposits; liability	Line 1	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313131003.Q	Federal government; postal savings system deposits; liability	Line 2	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 3	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263130505.Q	Rest of the world; other deposits; liability	Line 4	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL893030505.Q	All sectors; other deposits; asset	Line 5	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM153030505.Q	Households and nonprofit organizations; other deposits; asset	Line 6	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL103091003.Q	Nonfinancial corporate business; private foreign deposits; asset	Line 7	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313030505.Q	Federal government; other deposits; asset	Line 8	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL713011405.Q	Monetary authority; reserve position in IMF (net); asset	Line 9	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 10	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL633091003.Q	Money market funds; private foreign deposits; asset	Line 11	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733091003.Q	Holding companies; private foreign deposits at affiliates; asset	Line 12	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL903091005.Q	Instrument discrepancies; private foreign deposits	Line 13	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263111403.Q	Rest of the world; reserve position in IMF (net); liability	Line 14	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313011405.Q	Federal government; reserve position in IMF (net); asset	Line 15	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL713011405.Q	Monetary authority; reserve position in IMF (net); asset	Line 16	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313131003.Q	Federal government; postal savings system deposits; liability	Line 17	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313131003.Q	Federal government; postal savings system deposits; liability	Line 18	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 19	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 20	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263191005.Q	Rest of the world; U.S. private deposits, including negotiable certificates of deposit; liability	Line 21	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM153091003.Q	Households and nonprofit organizations; private foreign deposits; asset	Line 22	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL103091003.Q	Nonfinancial corporate business; private foreign deposits; asset	Line 23	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313091005.Q	Federal government; foreign deposits; asset	Line 24	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL633091003.Q	Money market funds; private foreign deposits; asset	Line 25	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733091003.Q	Holding companies; private foreign deposits at affiliates; asset	Line 26	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL903091005.Q	Instrument discrepancies; private foreign deposits	Line 27	L.205 Other Deposits	Millions of dollars; amounts outstanding end of period, not seasonally adjusted

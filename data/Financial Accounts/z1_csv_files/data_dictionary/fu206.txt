@@ -1,0 +1,14 @@
+FU634090005.Q	Money market funds; total financial assets	Line 1	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU634090005.Q	Money market funds; total financial assets	Line 2	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU153034005.Q	Households and nonprofit organizations; money market fund shares; asset	Line 3	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU103034000.Q	Nonfinancial corporate business; money market fund shares; asset	Line 4	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU113034003.Q	Nonfinancial noncorporate business; money market fund shares; asset	Line 5	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU213034003.Q	State and local governments; money market fund shares; asset	Line 6	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU513034005.Q	Property-casualty insurance companies; money market fund shares, including those held by U.S. residual market reinsurers; asset	Line 7	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU543034005.Q	Life insurance companies; money market fund shares; asset	Line 8	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU573034005.Q	Private pension funds; money market fund shares; asset	Line 9	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU223034005.Q	State and local government employee retirement funds; money market fund shares; asset	Line 10	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU653034003.Q	Mutual funds; money market fund shares; asset	Line 11	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU563034003.Q	Exchange-traded funds; money market fund shares; asset	Line 12	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU503034005.Q	Other financial business; money market fund shares; asset	Line 13	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU263034003.Q	Rest of the world; U.S. money market fund shares; asset	Line 14	F.206 Money Market Fund Shares	Millions of dollars; transactions, not seasonally adjusted

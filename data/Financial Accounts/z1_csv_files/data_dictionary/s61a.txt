@@ -1,0 +1,86 @@
+FU716902505.A	Monetary authority; gross value added (IMA) 	Line 1	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716330085.A	Monetary authority; consumption of fixed capital, nonresidential structures, equipment, and intellectual property products, current cost basis (IMA)	Line 2	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716902605.A	Monetary authority; net value added (IMA)	Line 3	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716025005.A	Monetary authority; compensation of employees paid (IMA)	Line 4	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716020001.A	Monetary authority; wages and salaries paid (IMA) 	Line 5	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716401001.A	Monetary authority; employers' social contributions paid (IMA)	Line 6	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716240101.A	Monetary authority; taxes on production and imports less subsidies, payable (IMA) 	Line 7	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716402101.A	Monetary authority; operating surplus, net (IMA) 	Line 8	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716140005.A	Monetary authority; net national income/balance of primary incomes, net (IMA)	Line 9	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716402101.A	Monetary authority; operating surplus, net (IMA) 	Line 10	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716150105.A	Monetary authority; property income (received) (IMA)	Line 11	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716130101.A	Monetary authority; interest received (IMA) 	Line 12	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716121101.A	Monetary authority; dividends received (IMA) 	Line 13	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713092281.A	Monetary authority; reinvested earnings on U.S. direct investment abroad; received (IMA)	Line 14	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716150005.A	Monetary authority; uses of property income (paid) (IMA)	Line 15	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716130001.A	Monetary authority; interest paid (IMA)  	Line 16	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716120005.A	Monetary authority; distributed income of corporations, paid (IMA)	Line 17	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716121001.A	Monetary authority; dividends paid (IMA) 	Line 18	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716122001.A	Monetary authority; withdrawals from income of quasi-corporations, paid (IMA) 	Line 19	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713192281.A	Monetary authority; reinvested earnings on foreign direct investment in U.S.; paid (IMA)	Line 20	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716112001.A	Monetary authority; rents on land and natural resources paid (IMA) 	Line 21	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716140005.A	Monetary authority; net national income/balance of primary incomes, net (IMA)	Line 22	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716220001.A	Monetary authority; current taxes on income, wealth, etc. paid (IMA) 	Line 23	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716403001.A	Monetary authority; other current transfers paid (IMA)	Line 24	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716012005.A	Monetary authority; disposable income, net; net saving including foreign earnings retained abroad and CCAdj (IMA)	Line 25	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716012005.A	Monetary authority; disposable income, net; net saving including foreign earnings retained abroad and CCAdj (IMA)	Line 26	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716006385.A	Monetary authority; net saving including foreign earnings retained abroad and CCAdj less net capital transfers paid	Line 27	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716012005.A	Monetary authority; disposable income, net; net saving including foreign earnings retained abroad and CCAdj (IMA)	Line 28	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU715440083.A	Monetary authority; net capital transfers paid (IMA)	Line 29	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU715015085.A	Monetary authority; capital formation, net (IMA)	Line 30	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU715013085.A	Monetary authority; gross fixed investment, nonresidential structures, equipment, and intellectual property products (IMA)	Line 31	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU716330085.A	Monetary authority; consumption of fixed capital, nonresidential structures, equipment, and intellectual property products, current cost basis (IMA)	Line 32	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU715000995.A	Monetary authority; net lending (+) or borrowing (-) (capital account) (IMA)	Line 33	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU715000995.A	Monetary authority; net lending (+) or borrowing (-) (capital account) (IMA)	Line 34	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU714090005.A	Monetary authority; total financial assets	Line 35	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU714000005.A	Monetary authority; total currency and deposits; asset	Line 36	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU714022005.A	Monetary authority; debt securities; asset	Line 37	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713069603.A	Monetary authority; bankers' acceptances; asset	Line 38	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713061103.A	Monetary authority; total Treasury securities; asset	Line 39	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713061705.A	Monetary authority; agency- and GSE-backed securities; asset	Line 40	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713011525.A	Federal government; other U.S. reserves, foreign securities; asset	Line 41	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU714041005.A	Monetary authority; loans including security repurchase agreements, excluding mortgages; asset	Line 42	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713064103.A	Monetary authority; corporate equities; asset	Line 43	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713090005.A	Monetary authority; total miscellaneous assets	Line 44	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU714194005.A	Monetary authority; total liabilities and equity	Line 45	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU714100005.A	Monetary authority; total currency and deposits; liability	Line 46	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU712151003.A	Monetary authority; security repurchase agreements; liability	Line 47	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713164005.A	Monetary authority; equity and investment fund shares; liability (SBS)	Line 48	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU713193005.A	Monetary authority; unidentified miscellaneous liabilities	Line 49	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FU715000005.A	Monetary authority; net lending (+) or borrowing (-) (financial account)	Line 50	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FV718090185.A	Monetary authority; total other volume changes (IMA)	Line 51	S.61.a Central Bank	Millions of dollars; other changes in volume of assets
+FV712010095.A	Monetary authority; nonfinancial assets (does not include land) 	Line 52	S.61.a Central Bank	Millions of dollars; other changes in volume of assets
+FV718090085.A	Monetary authority; other volume changes (IMA)	Line 53	S.61.a Central Bank	Millions of dollars; other changes in volume of assets
+FU717005045.A	Monetary authority; statistical discrepancy (IMA)	Line 54	S.61.a Central Bank	Millions of dollars; transactions, not seasonally adjusted
+FR712010095.A	Monetary authority; nonfinancial assets (does not include land) 	Line 55	S.61.a Central Bank	Millions of dollars; revaluation
+FR715013665.A	Monetary authority; nonresidential structures, current cost basis	Line 56	S.61.a Central Bank	Millions of dollars; revaluation
+FR715013265.A	Monetary authority; nonresidential equipment, current cost basis	Line 57	S.61.a Central Bank	Millions of dollars; revaluation
+FR715013765.A	Monetary authority; nonresidential intellectual property products, current cost basis	Line 58	S.61.a Central Bank	Millions of dollars; revaluation
+FR714090005.A	Monetary authority; total financial assets	Line 59	S.61.a Central Bank	Millions of dollars; revaluation
+FR714000005.A	Monetary authority; total currency and deposits; asset	Line 60	S.61.a Central Bank	Millions of dollars; revaluation
+FR714022005.A	Monetary authority; debt securities; asset	Line 61	S.61.a Central Bank	Millions of dollars; revaluation
+FR714041005.A	Monetary authority; loans including security repurchase agreements, excluding mortgages; asset	Line 62	S.61.a Central Bank	Millions of dollars; revaluation
+FR712000095.A	Monetary authority; total assets (does not include land)	Line 63	S.61.a Central Bank	Millions of dollars; revaluation
+FC712090095.A	Monetary authority; net worth (IMA)	Line 64	S.61.a Central Bank	Millions of dollars; change in unadjusted amounts outstanding end of period
+FL712000095.A	Monetary authority; total assets (does not include land)	Line 65	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM712010095.A	Monetary authority; nonfinancial assets (does not include land) 	Line 66	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM715013665.A	Monetary authority; nonresidential structures, current cost basis	Line 67	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM715013265.A	Monetary authority; nonresidential equipment, current cost basis	Line 68	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM715013765.A	Monetary authority; nonresidential intellectual property products, current cost basis	Line 69	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL714090005.A	Monetary authority; total financial assets	Line 70	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL714000005.A	Monetary authority; total currency and deposits; asset	Line 71	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM714022005.A	Monetary authority; debt securities; asset	Line 72	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL713069603.A	Monetary authority; bankers' acceptances; asset	Line 73	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM713061103.A	Monetary authority; total Treasury securities; asset	Line 74	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM713061705.A	Monetary authority; agency- and GSE-backed securities; asset	Line 75	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM713011525.A	Federal government; other U.S. reserves, foreign securities; asset	Line 76	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL714041005.A	Monetary authority; loans including security repurchase agreements, excluding mortgages; asset	Line 77	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL713064103.A	Monetary authority; corporate equities; asset	Line 78	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL713090005.A	Monetary authority; total miscellaneous assets	Line 79	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL712100005.A	Monetary authority; total liabilities and net worth (IMA)	Line 80	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL714194005.A	Monetary authority; total liabilities and equity	Line 81	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL714100005.A	Monetary authority; total currency and deposits; liability	Line 82	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL712151003.A	Monetary authority; security repurchase agreements; liability	Line 83	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL713164005.A	Monetary authority; equity and investment fund shares; liability (SBS)	Line 84	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL713193005.A	Monetary authority; unidentified miscellaneous liabilities	Line 85	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL712090095.A	Monetary authority; net worth (IMA)	Line 86	S.61.a Central Bank	Millions of dollars; amounts outstanding end of period, not seasonally adjusted

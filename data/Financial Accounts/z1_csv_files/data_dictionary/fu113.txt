@@ -1,0 +1,20 @@
+FU746330005.Q	Banks in U.S.-affiliated areas; consumption of fixed capital, nonresidential structures, equipment, and intellectual property products, current cost basis (gross saving)	Line 1	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU745013005.Q	Banks in U.S.-affiliated areas; gross fixed investment, nonresidential structures, equipment, and intellectual property products	Line 2	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU744090005.Q	Banks in U.S.-affiliated areas; total financial assets	Line 3	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743020003.Q	Banks in U.S.-affiliated areas; checkable deposits and currency and reserves at the Federal Reserve; asset	Line 4	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU744022003.Q	Banks in U.S.-affiliated areas; debt securities; asset	Line 5	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743061103.Q	Banks in U.S.-affiliated areas; Treasury securities; asset	Line 6	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743061703.Q	Banks in U.S.-affiliated areas; agency- and GSE-backed securities; asset	Line 7	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743062003.Q	Banks in U.S.-affiliated areas; municipal securities; asset	Line 8	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743063005.Q	Banks in U.S.-affiliated areas; corporate and foreign bonds; asset	Line 9	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU744023003.Q	Banks in U.S.-affiliated areas; loans; asset	Line 10	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743068005.Q	Banks in U.S.-affiliated areas; depository institution loans n.e.c.; asset	Line 11	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743065103.Q	Banks in U.S.-affiliated areas; one-to-four-family residential mortgages; asset	Line 12	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743065505.Q	Banks in U.S.-affiliated areas; commercial mortgages; asset	Line 13	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743093005.Q	Banks in U.S.-affiliated areas; unidentified miscellaneous assets	Line 14	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU744190005.Q	Banks in U.S.-affiliated areas; total liabilities	Line 15	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743127003.Q	Banks in U.S.-affiliated areas; checkable deposits; liability	Line 16	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743130003.Q	Banks in U.S.-affiliated areas; total time and savings deposits; liability	Line 17	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743193005.Q	Banks in U.S.-affiliated areas; unidentified miscellaneous liabilities	Line 18	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU747005005.Q	Banks in U.S.-affiliated areas; sector discrepancy	Line 19	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted
+FU743139105.Q	Banks in U.S.-affiliated areas; uninsured checkable and time and savings deposits; liability	Line 20	F.113 Banks in U.S.-Affiliated Areas	Millions of dollars; transactions, not seasonally adjusted

@@ -1,0 +1,51 @@
+FU146110005.Q	Nonfinancial business; income before taxes	Line 1	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU146000105.Q	Nonfinancial business; gross saving less net capital transfers paid	Line 2	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU145090005.Q	Nonfinancial business; gross investment	Line 3	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU145050005.Q	Nonfinancial business; total capital expenditures	Line 4	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU145019005.Q	Nonfinancial business; gross fixed investment	Line 5	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU145012005.Q	Nonfinancial business; gross fixed investment, residential equipment and structures	Line 6	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU145013005.Q	Nonfinancial business; gross fixed investment, nonresidential structures, equipment, and intellectual property products	Line 7	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU145020005.Q	Nonfinancial business; inventories	Line 8	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU105420005.Q	Nonfinancial corporate business; acquisition of nonproduced nonfinancial assets (net)	Line 9	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU145000005.Q	Nonfinancial business; net lending (+) or borrowing (-) (financial account)	Line 10	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU144090005.Q	Nonfinancial business; total financial assets	Line 11	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143020005.Q	Nonfinancial business; checkable deposits and currency; asset	Line 12	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143030005.Q	Nonfinancial business; total time and savings deposits; asset	Line 13	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103091003.Q	Nonfinancial corporate business; private foreign deposits; asset	Line 14	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143034005.Q	Nonfinancial business; money market fund shares; asset	Line 15	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU102051003.Q	Nonfinancial corporate business; security repurchase agreements; asset	Line 16	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU144022005.Q	Nonfinancial business; debt securities; asset	Line 17	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103069100.Q	Nonfinancial corporate business; commercial paper; asset	Line 18	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143061105.Q	Nonfinancial business; Treasury securities; asset	Line 19	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103061703.Q	Nonfinancial corporate business; agency- and GSE-backed securities; asset	Line 20	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143062005.Q	Nonfinancial business; municipal securities; asset	Line 21	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU123063003.Q	Equity real estate investment trusts; corporate and foreign bonds; asset	Line 22	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU144023005.Q	Nonfinancial business; loans; asset	Line 23	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143065005.Q	Nonfinancial business; total mortgages; asset	Line 24	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143066005.Q	Nonfinancial business; consumer credit; asset	Line 25	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103092305.Q	Nonfinancial corporate business; U.S. direct investment abroad: intercompany debt (market value)	Line 26	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103064103.Q	Nonfinancial corporate business; corporate equities; asset	Line 27	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103092105.Q	Nonfinancial corporate business; U.S. direct investment abroad: equity; asset (market value)	Line 28	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143092405.Q	Nonfinancial business; equity in government-sponsored enterprises (GSEs); asset	Line 29	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103064203.Q	Nonfinancial corporate business; mutual fund shares; asset	Line 30	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143070005.Q	Nonfinancial business; trade receivables; asset	Line 31	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143090005.Q	Nonfinancial business; total miscellaneous assets	Line 32	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU144194005.Q	Nonfinancial business; total liabilities and equity	Line 33	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU144190005.Q	Nonfinancial business; total liabilities 	Line 34	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU104122005.Q	Nonfinancial corporate business; debt securities; liability	Line 35	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103169100.Q	Nonfinancial corporate business; commercial paper; liability	Line 36	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103162000.Q	Nonfinancial corporate business; municipal securities; liability	Line 37	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103163005.Q	Nonfinancial corporate business; corporate bonds; liability	Line 38	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU144123005.Q	Nonfinancial business; loans; liability	Line 39	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143168005.Q	Nonfinancial business; depository institution loans n.e.c.; liability	Line 40	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143169005.Q	Nonfinancial business; other loans and advances; liability	Line 41	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143165005.Q	Nonfinancial business; total mortgages; liability	Line 42	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143192305.Q	Nonfinancial business; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 43	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143170005.Q	Nonfinancial business; trade payables; liability	Line 44	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143178005.Q	Nonfinancial business; taxes payable; liability	Line 45	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143190005.Q	Nonfinancial business; total miscellaneous liabilities	Line 46	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143181105.Q	Nonfinancial business; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA)	Line 47	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU103164105.Q	Nonfinancial corporate business; corporate equities; liability	Line 48	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU143192105.Q	Nonfinancial business; foreign direct investment in U.S.; liability (market value)	Line 49	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU112090205.Q	Nonfinancial noncorporate business; proprietors' equity in noncorporate business	Line 50	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted
+FU107005005.Q	Nonfinancial corporate business; sector discrepancy	Line 51	F.102 Nonfinancial Business	Millions of dollars; transactions, not seasonally adjusted

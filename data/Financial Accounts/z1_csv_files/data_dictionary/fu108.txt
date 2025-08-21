@@ -1,0 +1,57 @@
+FU796000105.Q	Domestic financial sectors; gross saving including foreign earnings retained abroad and CCAdj less net capital transfers paid (other than for financial stabilization program)	Line 1	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU795090005.Q	Domestic financial sectors; gross investment	Line 2	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU795013005.Q	Domestic financial sectors; gross fixed investment, nonresidential structures, equipment, and intellectual property products	Line 3	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU795013005.Q	Domestic financial sectors; gross fixed investment, nonresidential structures, equipment, and intellectual property products	Line 4	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU795000005.Q	Domestic financial sectors; net lending (+) or borrowing (-) (financial account)	Line 5	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU794090005.Q	Domestic financial sectors; total financial assets 	Line 6	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU794010005.Q	Domestic financial sectors; interbank transactions; asset	Line 7	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793020005.Q	Domestic financial sectors; checkable deposits and currency; asset	Line 8	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793030005.Q	Domestic financial sectors; total time and savings deposits; asset	Line 9	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793030505.Q	Domestic financial sectors; other deposits; asset	Line 10	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793034005.Q	Domestic financial sectors; money market fund shares; asset	Line 11	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU792050005.Q	Domestic financial sectors; federal funds and security repurchase agreements; asset	Line 12	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU794022005.Q	Domestic financial sectors; debt securities; asset	Line 13	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793069175.Q	Domestic financial sectors; open market paper; asset	Line 14	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793061105.Q	Domestic financial sectors; Treasury securities; asset	Line 15	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793061705.Q	Domestic financial sectors; agency- and GSE-backed securities; asset	Line 16	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793062005.Q	Domestic financial sectors; municipal securities; asset	Line 17	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793063005.Q	Domestic financial sectors; corporate and foreign bonds; asset	Line 18	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU794023005.Q	Domestic financial sectors; loans; asset	Line 19	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793068005.Q	Domestic financial sectors; depository institution loans n.e.c.; asset	Line 20	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793069005.Q	Domestic financial sectors; other loans and advances; asset	Line 21	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793065005.Q	Domestic financial sectors; total mortgages; asset	Line 22	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793066005.Q	Domestic financial sectors; consumer credit; asset	Line 23	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793092305.Q	Domestic financial sectors; U.S. direct investment abroad: intercompany debt; asset (market value)	Line 24	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793064105.Q	Domestic financial sectors; corporate equities; asset	Line 25	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793081115.Q	Domestic financial sectors; other equity; asset (IMA)	Line 26	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793064205.Q	Domestic financial sectors; mutual fund shares; asset	Line 27	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793040005.Q	Domestic financial sectors; life insurance reserves; asset	Line 28	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU543050005.Q	Life insurance companies; pension entitlements reserve credit from reinsurers; asset	Line 29	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793070005.Q	Domestic financial sectors; trade receivables; asset	Line 30	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793090005.Q	Domestic financial sectors; total miscellaneous assets	Line 31	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU794194005.Q	Domestic financial sectors; total liabilities and equity	Line 32	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU794190005.Q	Domestic financial sectors; total liabilities 	Line 33	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU794110005.Q	Domestic financial sectors; interbank transactions; liability	Line 34	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793120005.Q	Domestic financial sectors; checkable deposits and currency; liability	Line 35	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU703130005.Q	Private depository institutions; total time and savings deposits; liability	Line 36	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 37	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU634090005.Q	Money market funds; total financial assets	Line 38	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU792150005.Q	Domestic financial sectors; federal funds and security repurchase agreements; liability	Line 39	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU794122005.Q	Domestic financial sectors; debt securities; liability 	Line 40	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793169175.Q	Domestic financial sectors; open market paper; liability	Line 41	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU423161705.Q	GSEs and agency- and GSE-backed mortgage pools; U.S. government agency securities; liability	Line 42	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793163005.Q	Domestic financial sectors; corporate and foreign bonds; liability	Line 43	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU794123005.Q	Domestic financial sectors; loans; liability 	Line 44	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793168005.Q	Domestic financial sectors; depository institution loans n.e.c.; liability	Line 45	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793169005.Q	Domestic financial sectors; other loans and advances; liability	Line 46	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793192305.Q	Domestic financial sectors; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 47	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU653164205.Q	Mutual funds; mutual fund shares; liability	Line 48	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU543140005.Q	Life insurance companies; life insurance reserves; liability	Line 49	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU583150005.Q	Insurance companies and pension funds; pension entitlements; liability	Line 50	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793170005.Q	Domestic financial sectors; trade payables; liability	Line 51	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793178005.Q	Domestic financial sectors; taxes payable (net); liability	Line 52	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793190005.Q	Domestic financial sectors; total miscellaneous liabilities	Line 53	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793181105.Q	Domestic financial sectors; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA)	Line 54	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793164105.Q	Domestic financial sectors; corporate equities; liability	Line 55	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU793181115.Q	Domestic financial sectors; other equity; liability (IMA)	Line 56	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted
+FU797005005.Q	Domestic financial sectors; sector discrepancy	Line 57	F.108 Domestic Financial Sectors	Millions of dollars; transactions, not seasonally adjusted

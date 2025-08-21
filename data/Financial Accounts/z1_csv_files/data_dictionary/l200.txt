@@ -1,0 +1,9 @@
+LM893111305.Q	All sectors; SDRs; liability	Line 1	L.200 Monetary Gold and Special Drawing Rights (SDRs)	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM313111303.Q	Federal government; special drawing rights (SDRs) allocations; liability	Line 2	L.200 Monetary Gold and Special Drawing Rights (SDRs)	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM313011303.Q	Federal government; special drawing rights (SDRs) holdings; asset	Line 3	L.200 Monetary Gold and Special Drawing Rights (SDRs)	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL893011105.Q	All sectors; monetary gold and SDRs; assets	Line 4	L.200 Monetary Gold and Special Drawing Rights (SDRs)	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313011105.Q	Federal government; monetary gold and SDRs; asset	Line 5	L.200 Monetary Gold and Special Drawing Rights (SDRs)	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM313011203.Q	Federal government; monetary gold; asset	Line 6	L.200 Monetary Gold and Special Drawing Rights (SDRs)	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM313011303.Q	Federal government; special drawing rights (SDRs) holdings; asset	Line 7	L.200 Monetary Gold and Special Drawing Rights (SDRs)	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM313111303.Q	Federal government; special drawing rights (SDRs) allocations; liability	Line 8	L.200 Monetary Gold and Special Drawing Rights (SDRs)	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL903011105.Q	Instrument discrepancies; monetary gold and SDRs	Line 9	L.200 Monetary Gold and Special Drawing Rights (SDRs)	Millions of dollars; amounts outstanding end of period, not seasonally adjusted

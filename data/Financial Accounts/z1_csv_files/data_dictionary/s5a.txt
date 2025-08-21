@@ -1,0 +1,168 @@
+FU106902501.A	Nonfinancial corporate business; gross value added 	Line 1	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106300003.A	Nonfinancial corporate business; consumption of fixed capital, structures, equipment, and intellectual property products, including equity REIT residential structures (NIPA basis)	Line 2	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106902605.A	Nonfinancial corporate business; net value added 	Line 3	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106025005.A	Nonfinancial corporate business; compensation of employees paid 	Line 4	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106020001.A	Nonfinancial corporate business; wages and salaries paid 	Line 5	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106401001.A	Nonfinancial corporate business; employers' social contributions paid	Line 6	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106240101.A	Nonfinancial corporate business; taxes on production and imports less subsidies, payable 	Line 7	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106402101.A	Nonfinancial corporate business; operating surplus, net 	Line 8	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106140005.A	Nonfinancial corporate business; net national income/balance of primary incomes, net 	Line 9	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106402101.A	Nonfinancial corporate business; operating surplus, net 	Line 10	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106150105.A	Nonfinancial corporate business; property income (received) 	Line 11	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106130101.A	Nonfinancial corporate business; interest received 	Line 12	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106121101.A	Nonfinancial corporate business; dividends received	Line 13	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103092201.A	Nonfinancial corporate business; reinvested earnings on U.S. direct investment abroad; received	Line 14	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106150005.A	Nonfinancial corporate business; uses of property income (paid) 	Line 15	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106130001.A	Nonfinancial corporate business; interest paid 	Line 16	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106121001.A	Nonfinancial corporate business; dividends paid	Line 17	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103192201.A	Nonfinancial corporate business; reinvested earnings on foreign direct investment in U.S.; paid 	Line 18	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106112001.A	Nonfinancial corporate business; rents paid	Line 19	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106140005.A	Nonfinancial corporate business; net national income/balance of primary incomes, net 	Line 20	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106220001.A	Nonfinancial corporate business; current taxes on income, wealth, etc. paid 	Line 21	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106403001.A	Nonfinancial corporate business; other current transfers paid	Line 22	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106012095.A	Nonfinancial corporate business; disposable income, net; net saving (IMA)	Line 23	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106012095.A	Nonfinancial corporate business; disposable income, net; net saving (IMA)	Line 24	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106006385.A	Nonfinancial corporate business; net saving excluding foreign earnings retained abroad less net capital transfers paid	Line 25	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106012095.A	Nonfinancial corporate business; disposable income, net; net saving (IMA)	Line 26	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105440005.A	Nonfinancial corporate business; net capital transfers paid 	Line 27	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105050985.A	Nonfinancial corporate business; capital formation, net (includes equity REIT residential structures) (IMA)	Line 28	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105019085.A	Nonfinancial corporate business; gross fixed capital formation with equity REIT residential structures (IMA)	Line 29	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU106300003.A	Nonfinancial corporate business; consumption of fixed capital, structures, equipment, and intellectual property products, including equity REIT residential structures (NIPA basis)	Line 30	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105420095.A	Nonfinancial corporate business; acquisition of nonproduced nonfinancial assets (net) (IMA)	Line 31	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105020005.A	Nonfinancial corporate business; inventories including IVA 	Line 32	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105000905.A	Nonfinancial corporate business; net lending (+) or borrowing (-) (capital account), includes statistical discrepancy	Line 33	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105000905.A	Nonfinancial corporate business; net lending (+) or borrowing (-) (capital account), includes statistical discrepancy	Line 34	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104090005.A	Nonfinancial corporate business; total financial assets	Line 35	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104000005.A	Nonfinancial corporate business; total currency and deposits; asset	Line 36	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103020005.A	Nonfinancial corporate business; checkable deposits and currency; asset	Line 37	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103030003.A	Nonfinancial corporate business; total time and savings deposits; asset	Line 38	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103091003.A	Nonfinancial corporate business; private foreign deposits; asset	Line 39	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104022005.A	Nonfinancial corporate business; debt securities; asset	Line 40	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103069100.A	Nonfinancial corporate business; commercial paper; asset	Line 41	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103061103.A	Nonfinancial corporate business; Treasury securities; asset	Line 42	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103061703.A	Nonfinancial corporate business; agency- and GSE-backed securities; asset	Line 43	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103062003.A	Nonfinancial corporate business; municipal securities; asset	Line 44	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU123063003.A	Equity real estate investment trusts; corporate and foreign bonds; asset	Line 45	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104035005.A	Nonfinancial corporate business; total loans including security repurchase agreements; asset 	Line 46	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104041005.A	Nonfinancial corporate business; short-term loans including security repurchase agreements; asset	Line 47	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104042005.A	Nonfinancial corporate business; long-term loans; asset	Line 48	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103081005.A	Nonfinancial corporate business; equity and investment fund shares; asset 	Line 49	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103034000.A	Nonfinancial corporate business; money market fund shares; asset	Line 50	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103064103.A	Nonfinancial corporate business; corporate equities; asset	Line 51	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103064203.A	Nonfinancial corporate business; mutual fund shares; asset	Line 52	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103092105.A	Nonfinancial corporate business; U.S. direct investment abroad: equity; asset (market value)	Line 53	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103092405.A	Nonfinancial corporate business; equity in Fannie Mae and Farm Credit System; asset 	Line 54	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103076005.A	Nonfinancial corporate business; insurance receivables due from property-casualty insurance companies; asset	Line 55	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103096005.A	Nonfinancial corporate business; other accounts receivable; asset 	Line 56	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103070005.A	Nonfinancial corporate business; trade receivables; asset	Line 57	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103072005.A	Nonfinancial corporate business; Paycheck Protection Program receivables due from federal government; asset	Line 58	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103094705.A	Nonfinancial corporate business; other investment in finance company subsidiaries; asset	Line 59	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103093005.A	Nonfinancial corporate business; unidentified miscellaneous assets	Line 60	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104194005.A	Nonfinancial corporate business; total liabilities and equity	Line 61	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104122005.A	Nonfinancial corporate business; debt securities; liability	Line 62	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103169100.A	Nonfinancial corporate business; commercial paper; liability	Line 63	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103162000.A	Nonfinancial corporate business; municipal securities; liability	Line 64	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103163005.A	Nonfinancial corporate business; corporate bonds; liability	Line 65	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104135005.A	Nonfinancial corporate business; loans including foreign direct investment intercompany debt; liability	Line 66	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104141005.A	Nonfinancial corporate business; short-term loans; liability 	Line 67	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103168005.A	Nonfinancial corporate business; depository institution loans n.e.c.; liability	Line 68	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103169005.A	Nonfinancial corporate business; other loans and advances; liability	Line 69	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104142005.A	Nonfinancial corporate business; long-term loans; liability 	Line 70	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103165005.A	Nonfinancial corporate business; total mortgages; liability	Line 71	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103192305.A	Nonfinancial corporate business; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 72	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103181005.A	Nonfinancial corporate business; equity and investment fund shares; liability 	Line 73	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103164105.A	Nonfinancial corporate business; corporate equities; liability	Line 74	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103192105.A	Nonfinancial corporate business; foreign direct investment in U.S.; liability (market value)	Line 75	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103152025.A	Nonfinancial corporate business; retirement entitlements; liability (IMA)	Line 76	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU573074005.A	Private pension funds; pension fund contributions receivable; asset	Line 77	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU573073005.A	Private defined benefit pension funds; claims of pension fund on sponsor; asset	Line 78	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103196005.A	Nonfinancial corporate business; other accounts payable; liability	Line 79	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103170005.A	Nonfinancial corporate business; trade payables; liability	Line 80	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103178005.A	Nonfinancial corporate business; total taxes payable; liability	Line 81	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU103193005.A	Nonfinancial corporate business; unidentified miscellaneous liabilities	Line 82	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105000005.A	Nonfinancial corporate business; net lending (+) or borrowing (-) (financial account)	Line 83	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FV108090105.A	Nonfinancial corporate business; total other volume changes (IMA)	Line 84	S.5.a Nonfinancial Corporate Business	Millions of dollars; other changes in volume of assets
+FV102010005.A	Nonfinancial corporate business; nonfinancial assets	Line 85	S.5.a Nonfinancial Corporate Business	Millions of dollars; other changes in volume of assets
+FV108090085.A	Nonfinancial corporate business; other volume changes, excluding disaster losses (IMA)	Line 86	S.5.a Nonfinancial Corporate Business	Millions of dollars; other changes in volume of assets
+FU107005045.A	Nonfinancial corporate business; statistical discrepancy (IMA)	Line 87	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105020601.A	Nonfinancial corporate business; inventory valuation adjustment (IVA)	Line 88	S.5.a Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FR102010005.A	Nonfinancial corporate business; nonfinancial assets	Line 89	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR105035005.A	Nonfinancial corporate business; real estate at market value	Line 90	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR105015205.A	Nonfinancial corporate business; equipment, current cost basis 	Line 91	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR105013765.A	Nonfinancial corporate business; nonresidential intellectual property products, current cost basis	Line 92	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR105020015.A	Nonfinancial corporate business; inventories excluding IVA, current cost basis	Line 93	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR104090005.A	Nonfinancial corporate business; total financial assets	Line 94	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR104022005.A	Nonfinancial corporate business; debt securities; asset	Line 95	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103092305.A	Nonfinancial corporate business; U.S. direct investment abroad: intercompany debt (market value)	Line 96	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103064103.A	Nonfinancial corporate business; corporate equities; asset	Line 97	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103064203.A	Nonfinancial corporate business; mutual fund shares; asset	Line 98	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103092105.A	Nonfinancial corporate business; U.S. direct investment abroad: equity; asset (market value)	Line 99	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103093005.A	Nonfinancial corporate business; unidentified miscellaneous assets	Line 100	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR104194005.A	Nonfinancial corporate business; total liabilities and equity	Line 101	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103192305.A	Nonfinancial corporate business; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 102	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103164105.A	Nonfinancial corporate business; corporate equities; liability	Line 103	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103192105.A	Nonfinancial corporate business; foreign direct investment in U.S.; liability (market value)	Line 104	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103152025.A	Nonfinancial corporate business; retirement entitlements; liability (IMA)	Line 105	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103193005.A	Nonfinancial corporate business; unidentified miscellaneous liabilities	Line 106	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR102090095.A	Nonfinancial corporate business; net worth (IMA)	Line 107	S.5.a Nonfinancial Corporate Business	Millions of dollars; revaluation
+FC102090095.A	Nonfinancial corporate business; net worth (IMA)	Line 108	S.5.a Nonfinancial Corporate Business	Millions of dollars; change in unadjusted amounts outstanding end of period
+FL102000005.A	Nonfinancial corporate business; total assets	Line 109	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM102010005.A	Nonfinancial corporate business; nonfinancial assets	Line 110	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM105035005.A	Nonfinancial corporate business; real estate at market value	Line 111	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM105015205.A	Nonfinancial corporate business; equipment, current cost basis 	Line 112	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM105013765.A	Nonfinancial corporate business; nonresidential intellectual property products, current cost basis	Line 113	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM105020015.A	Nonfinancial corporate business; inventories excluding IVA, current cost basis	Line 114	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL104090005.A	Nonfinancial corporate business; total financial assets	Line 115	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL104000005.A	Nonfinancial corporate business; total currency and deposits; asset	Line 116	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103020005.A	Nonfinancial corporate business; checkable deposits and currency; asset	Line 117	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103030003.A	Nonfinancial corporate business; total time and savings deposits; asset	Line 118	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103091003.A	Nonfinancial corporate business; private foreign deposits; asset	Line 119	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM104022005.A	Nonfinancial corporate business; debt securities; asset	Line 120	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL103069100.A	Nonfinancial corporate business; commercial paper; asset	Line 121	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM103061103.A	Nonfinancial corporate business; Treasury securities; asset	Line 122	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM103061703.A	Nonfinancial corporate business; agency- and GSE-backed securities; asset	Line 123	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM103062003.A	Nonfinancial corporate business; municipal securities; asset	Line 124	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM123063003.A	Equity real estate investment trusts; corporate and foreign bonds; asset	Line 125	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL104035005.A	Nonfinancial corporate business; total loans including security repurchase agreements; asset 	Line 126	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL104041005.A	Nonfinancial corporate business; short-term loans including security repurchase agreements; asset	Line 127	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL102051003.A	Nonfinancial corporate business; security repurchase agreements; asset	Line 128	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103066005.A	Nonfinancial corporate business; consumer credit; asset	Line 129	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL104042005.A	Nonfinancial corporate business; long-term loans; asset	Line 130	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103065005.A	Nonfinancial corporate business; total mortgages; asset	Line 131	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103092305.A	Nonfinancial corporate business; U.S. direct investment abroad: intercompany debt (market value)	Line 132	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103081005.A	Nonfinancial corporate business; equity and investment fund shares; asset 	Line 133	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103034000.A	Nonfinancial corporate business; money market fund shares; asset	Line 134	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM103064103.A	Nonfinancial corporate business; corporate equities; asset	Line 135	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM103064203.A	Nonfinancial corporate business; mutual fund shares; asset	Line 136	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM103092105.A	Nonfinancial corporate business; U.S. direct investment abroad: equity; asset (market value)	Line 137	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL103092405.A	Nonfinancial corporate business; equity in Fannie Mae and Farm Credit System; asset 	Line 138	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103076005.A	Nonfinancial corporate business; insurance receivables due from property-casualty insurance companies; asset	Line 139	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103096005.A	Nonfinancial corporate business; other accounts receivable; asset 	Line 140	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103070005.A	Nonfinancial corporate business; trade receivables; asset	Line 141	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103072005.A	Nonfinancial corporate business; Paycheck Protection Program receivables due from federal government; asset	Line 142	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103094705.A	Nonfinancial corporate business; other investment in finance company subsidiaries; asset	Line 143	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103093005.A	Nonfinancial corporate business; unidentified miscellaneous assets	Line 144	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL102100085.A	Nonfinancial corporate business; total liabilities and net worth (IMA)	Line 145	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL104194005.A	Nonfinancial corporate business; total liabilities and equity	Line 146	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL104122005.A	Nonfinancial corporate business; debt securities; liability	Line 147	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103169100.A	Nonfinancial corporate business; commercial paper; liability	Line 148	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103162000.A	Nonfinancial corporate business; municipal securities; liability	Line 149	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103163005.A	Nonfinancial corporate business; corporate bonds; liability	Line 150	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL104135005.A	Nonfinancial corporate business; loans including foreign direct investment intercompany debt; liability	Line 151	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL104141005.A	Nonfinancial corporate business; short-term loans; liability 	Line 152	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103168005.A	Nonfinancial corporate business; depository institution loans n.e.c.; liability	Line 153	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103169005.A	Nonfinancial corporate business; other loans and advances; liability	Line 154	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL104142005.A	Nonfinancial corporate business; long-term loans; liability 	Line 155	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103165005.A	Nonfinancial corporate business; total mortgages; liability	Line 156	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM103192305.A	Nonfinancial corporate business; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 157	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL103181005.A	Nonfinancial corporate business; equity and investment fund shares; liability 	Line 158	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM103164105.A	Nonfinancial corporate business; corporate equities; liability	Line 159	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL103192105.A	Nonfinancial corporate business; foreign direct investment in U.S.; liability (market value)	Line 160	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103152025.A	Nonfinancial corporate business; retirement entitlements; liability (IMA)	Line 161	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL573074005.A	Private pension funds; pension fund contributions receivable; asset	Line 162	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL573073005.A	Private defined benefit pension funds; claims of pension fund on sponsor; asset	Line 163	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103196005.A	Nonfinancial corporate business; other accounts payable; liability	Line 164	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103170005.A	Nonfinancial corporate business; trade payables; liability	Line 165	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103178005.A	Nonfinancial corporate business; total taxes payable; liability	Line 166	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL103193005.A	Nonfinancial corporate business; unidentified miscellaneous liabilities	Line 167	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL102090095.A	Nonfinancial corporate business; net worth (IMA)	Line 168	S.5.a Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, not seasonally adjusted

@@ -1,0 +1,30 @@
+FU616000105.Q	Finance companies; gross saving including foreign earnings retained abroad and CCAdj less net capital transfers paid	Line 1	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU615013005.Q	Finance companies; gross fixed investment, nonresidential structures, equipment, and intellectual property products excluding securitized equipment 	Line 2	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU614090005.Q	Finance companies; total financial assets	Line 3	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613020003.Q	Finance companies; checkable deposits and currency; asset	Line 4	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613030003.Q	Finance companies; total time and savings deposits; asset	Line 5	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613063003.Q	Finance companies; corporate and foreign bonds; asset	Line 6	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU614023005.Q	Finance companies; loans; asset	Line 7	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613069505.Q	Finance companies; nonfinancial business loans, including Paycheck Protection Program loans; asset	Line 8	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613065000.Q	Finance companies; total mortgages; asset	Line 9	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613066005.Q	Finance companies; consumer credit; asset	Line 10	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613092305.Q	Finance companies; U.S. direct investment abroad: intercompany debt (market value)	Line 11	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613092103.Q	Finance companies; U.S. direct investment abroad: equity (market value)	Line 12	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613092403.Q	Finance companies; equity in FHLB; asset	Line 13	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613090005.Q	Finance companies; total miscellaneous assets	Line 14	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU614194005.Q	Finance companies; total liabilities and equity	Line 15	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU614190005.Q	Finance companies; total liabilities 	Line 16	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU614122005.Q	Finance companies; debt securities; liability	Line 17	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613169100.Q	Finance companies; commercial paper; liability	Line 18	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613163005.Q	Finance companies; corporate and foreign bonds; liability	Line 19	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU614123005.Q	Finance companies; loans; liability	Line 20	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613168005.Q	Finance companies; depository institution loans n.e.c., including loans through the Paycheck Protection Program Liquidity Facility (PPPLF); liability	Line 21	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613169005.Q	Finance companies; other loans and advances; liability	Line 22	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613192305.Q	Finance companies; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 23	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613178005.Q	Finance companies; total taxes payable; liability	Line 24	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613190005.Q	Finance companies; total miscellaneous liabilities	Line 25	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613194703.Q	Finance companies; other investment by parent companies; liability	Line 26	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613193005.Q	Finance companies; unidentified miscellaneous liabilities	Line 27	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613192103.Q	Finance companies; foreign direct investment in U.S.: equity; liability (market value)	Line 28	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU617005005.Q	Finance companies; sector discrepancy	Line 29	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted
+FU613066303.Q	Finance companies; consumer leases; asset	Line 30	F.128 Finance Companies	Millions of dollars; transactions, not seasonally adjusted

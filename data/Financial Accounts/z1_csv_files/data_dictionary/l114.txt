@@ -1,0 +1,28 @@
+FL474090005.Q	Credit unions; total financial assets	Line 1	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL474010005.Q	Credit unions; interbank transactions; asset	Line 2	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL472050053.Q	Credit unions; federal funds and security repurchase agreements held by Corporate Credit Unions (net of liabilities before 2002:Q4); asset	Line 3	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM474022005.Q	Credit unions; debt securities; asset	Line 4	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL473069153.Q	Credit unions; commercial paper held by Corporate Credit Unions; asset	Line 5	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM473061105.Q	Credit unions; Treasury securities; asset	Line 6	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM473061705.Q	Credit unions; agency- and GSE-backed securities; asset	Line 7	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM473062005.Q	Credit unions; municipal securities; asset	Line 8	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM473063005.Q	Credit unions; corporate and foreign bonds; asset	Line 9	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL474023000.Q	Credit unions; loans; asset	Line 10	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473068005.Q	Credit unions; depository institution loans n.e.c.; asset	Line 11	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473065005.Q	Credit unions; total mortgages; asset	Line 12	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473065100.Q	Credit unions; one-to-four-family residential mortgages; asset	Line 13	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473065403.Q	Credit unions; multifamily mortgages; asset	Line 14	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473065503.Q	Credit unions; commercial mortgages; asset	Line 15	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473065603.Q	Credit unions; farm mortgages; asset	Line 16	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473066000.Q	Credit unions; consumer credit; asset	Line 17	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473092403.Q	Credit unions; equity in FHLB; asset	Line 18	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM473064205.Q	Credit unions; mutual fund shares; asset	Line 19	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL473093005.Q	Credit unions; unidentified miscellaneous assets	Line 20	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL474190005.Q	Credit unions; total liabilities	Line 21	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL713068743.Q	Monetary authority; loans to credit unions under the Paycheck Protection Program Liquidity Facility (PPPLF), assets	Line 22	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473127003.Q	Credit unions; checkable deposits; liability	Line 23	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473130005.Q	Credit unions; total time and savings deposits; liability	Line 24	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL472150053.Q	Credit unions; federal funds and security repurchase agreements held by Corporate Credit Unions; liability	Line 25	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473169333.Q	Credit unions; FHLB advances; liability	Line 26	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473193005.Q	Credit unions; unidentified miscellaneous liabilities	Line 27	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL473139103.Q	Credit unions; uninsured checkable and time and savings deposits; liability	Line 28	L.114 Credit Unions	Millions of dollars; amounts outstanding end of period, not seasonally adjusted

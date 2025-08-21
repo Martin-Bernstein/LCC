@@ -1,0 +1,37 @@
+FL192000005.A	Households; total assets	Line 1	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM192010005.A	Households; nonfinancial assets	Line 2	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM155035015.A	Households; owner-occupied real estate including vacant land and mobile homes at market value	Line 3	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM155111005.A	Households and nonprofit organizations; consumer durable goods, current cost basis	Line 4	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL194090005.A	Households; total financial assets 	Line 5	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL193020005.A	Households; checkable deposits and currency; asset	Line 6	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL193030205.A	Households; other deposits including time and savings deposits; asset (IMA)	Line 7	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL193034005.A	Households; money market fund shares; asset	Line 8	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM194022005.A	Households; debt securities; asset	Line 9	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM193061005.A	Households; total U.S. government securities and municipal securities; asset	Line 10	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM193063005.A	Households; corporate and foreign bonds; asset	Line 11	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL194023005.A	Households; loans; asset	Line 12	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL193069005.A	Households; other loans and advances; asset	Line 13	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL193065005.A	Households; total mortgages; asset	Line 14	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM193064005.A	Households; corporate equities and mutual fund shares; asset	Line 15	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM153081115.A	Households and nonprofit organizations; other equity; asset (IMA) 	Line 16	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL153040005.A	Households and nonprofit organizations; life insurance reserves; asset	Line 17	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL153050005.A	Households and nonprofit organizations; pension entitlements; asset	Line 18	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL193090005.A	Households; total miscellaneous assets	Line 19	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL194190005.A	Households; total liabilities	Line 20	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL194123005.A	Households; loans; liability	Line 21	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL153165105.A	Households and nonprofit organizations; one-to-four-family residential mortgages; liability	Line 22	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL153166000.A	Households and nonprofit organizations; consumer credit; liability	Line 23	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL193168005.A	Households; depository institution loans n.e.c.; liability 	Line 24	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL193169005.A	Households; other loans and advances; liability	Line 25	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL543077073.A	Life insurance companies, general accounts; deferred and unpaid life insurance premiums; asset	Line 26	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL192090005.A	Households; net worth	Line 27	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL152090005.A	Households and nonprofit organizations; net worth 	Line 28	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL152000005.A	Households and nonprofit organizations; total assets	Line 29	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL192000005.A	Households; total assets	Line 30	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL162000005.A	Nonprofit organizations; total assets	Line 31	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL163093005.A	Nonprofit organizations; unidentified miscellaneous assets	Line 32	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL153069803.A	Households and nonprofit organizations; syndicated loans to nonfinancial corporate business; asset 	Line 33	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL154190005.A	Households and nonprofit organizations; total liabilities	Line 34	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL194190005.A	Households; total liabilities	Line 35	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL164190005.A	Nonprofit organizations; total liabilities 	Line 36	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL163193005.A	Nonprofit organizations; unidentified miscellaneous liabilities	Line 37	B.101.h Balance Sheet of Households	Millions of dollars; amounts outstanding end of period, not seasonally adjusted

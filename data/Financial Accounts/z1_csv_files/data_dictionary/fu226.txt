@@ -1,0 +1,12 @@
+FU653164205.Q	Mutual funds; mutual fund shares; liability	Line 1	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU653164205.Q	Mutual funds; mutual fund shares; liability	Line 2	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU153064205.Q	Households and nonprofit organizations; mutual fund shares; asset	Line 3	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU103064203.Q	Nonfinancial corporate business; mutual fund shares; asset	Line 4	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU213064203.Q	State and local governments; mutual fund shares; asset	Line 5	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU763064203.Q	U.S.-chartered depository institutions; mutual fund shares; asset	Line 6	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU473064205.Q	Credit unions; mutual fund shares; asset	Line 7	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU513064205.Q	Property-casualty insurance companies; mutual fund shares, including those held by U.S. residual market reinsurers; asset	Line 8	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU543064205.Q	Life insurance companies; mutual fund shares; asset	Line 9	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU573064205.Q	Private pension funds; mutual fund shares; asset	Line 10	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU223064205.Q	State and local government employee retirement funds; mutual fund shares; asset	Line 11	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted
+FU263064203.Q	Rest of the world; U.S. mutual fund shares; asset	Line 12	F.226 Mutual Fund Shares	Millions of dollars; transactions, not seasonally adjusted

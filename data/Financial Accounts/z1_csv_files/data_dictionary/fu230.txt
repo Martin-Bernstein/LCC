@@ -1,0 +1,21 @@
+FU893170005.Q	All sectors; trade payables; liability	Line 1	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU163170005.Q	Nonprofit organizations; trade payables; liability	Line 2	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU103170005.Q	Nonfinancial corporate business; trade payables; liability	Line 3	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU113170005.Q	Nonfinancial noncorporate business; trade payables; liability	Line 4	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU313170005.Q	Federal government; trade payables; liability	Line 5	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU213170003.Q	State and local governments; trade payables; liability	Line 6	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU513170005.Q	Property-casualty insurance companies; trade payables to reinsurers; liability	Line 7	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU543170005.Q	Life insurance companies; trade payables to insurers; liability	Line 8	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU663170003.Q	Security brokers and dealers; trade payables; liability	Line 9	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU263170005.Q	Rest of the world; trade credit and advances; liability	Line 10	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU893070005.Q	All sectors; trade receivables; asset	Line 11	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU163070005.Q	Nonprofit organizations; grants and trade receivables; asset	Line 12	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU103070005.Q	Nonfinancial corporate business; trade receivables; asset	Line 13	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU113070003.Q	Nonfinancial noncorporate business; trade receivables; asset	Line 14	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU313070000.Q	Federal government; trade receivables; asset	Line 15	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU213070003.Q	State and local governments; trade receivables; asset	Line 16	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU513070005.Q	Property-casualty insurance companies; trade receivables, including receivables for claims from reinsurers; asset	Line 17	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU543070005.Q	Life insurance companies; trade receivables from insurers; liability	Line 18	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU673070003.Q	Issuers of asset-backed securities; trade receivables; asset	Line 19	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU263070005.Q	Rest of the world; trade receivables; asset	Line 20	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted
+FU903070005.Q	Instrument discrepancies; trade receivables	Line 21	F.230 Trade Credit	Millions of dollars; transactions, not seasonally adjusted

@@ -1,0 +1,149 @@
+FU316902505.A	Federal government; gross value added (IMA)	Line 1	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316300001.A	Federal government; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis (NIPA basis)	Line 2	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316902605.A	Federal government; net value added (IMA)	Line 3	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316025001.A	Federal government; compensation of employees paid (IMA)	Line 4	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316020001.A	Federal government; wages and salaries paid (IMA)	Line 5	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316401005.A	Federal government; employers' social contributions paid (IMA)	Line 6	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316402101.A	Federal government; operating surplus, net	Line 7	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316140005.A	Federal government; net national income/balance of primary incomes, net (IMA)	Line 8	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316402101.A	Federal government; operating surplus, net	Line 9	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316240001.A	Federal government; taxes on production and imports, receivable (IMA)	Line 10	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316402015.A	Federal government; subsidies paid (with negative sign) (IMA)	Line 11	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316150195.A	Federal government; property income (received)	Line 12	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316130101.A	Federal government; interest received (IMA) 	Line 13	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316121185.A	Federal government; dividends received (IMA)	Line 14	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316112101.A	Federal government; rents on land and natural resources received (IMA)	Line 15	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316130095.A	Federal government; interest paid (IMA)	Line 16	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316140005.A	Federal government; net national income/balance of primary incomes, net (IMA)	Line 17	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316220001.A	Federal government; current taxes on income, wealth, etc. received (IMA)	Line 18	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316601001.A	Federal government; contributions for government social insurance received 	Line 19	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316404001.A	Federal government; social contributions paid 	Line 20	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316403105.A	Federal government; other current transfers received	Line 21	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316403001.A	Federal government; other current transfers paid (IMA)	Line 22	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316012005.A	Federal government; disposable income, net (IMA)	Line 23	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316901001.A	Federal government; consumption expenditures	Line 24	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316006085.A	Federal government; net saving including net capital transfers paid, insurance and pension fund reserves adjustment and contributions for government social insurance for U.S. affiliated areas (IMA)	Line 25	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316006385.A	Federal government; net saving less net capital transfers paid and including insurance and pension fund reserves adjustment and contributions for government social insurance for U.S. affiliated areas (IMA)	Line 26	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316006085.A	Federal government; net saving including net capital transfers paid, insurance and pension fund reserves adjustment and contributions for government social insurance for U.S. affiliated areas (IMA)	Line 27	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU315440005.A	Federal government; net capital transfers paid 	Line 28	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU315050905.A	Federal government; capital formation, net (IMA)	Line 29	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU315019001.A	Federal government; gross fixed investment (NIPA basis)	Line 30	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU316300001.A	Federal government; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis (NIPA basis)	Line 31	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU315420003.A	Federal government; acquisition of nonproduced nonfinancial assets (net)	Line 32	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU315000995.A	Federal government; net lending (+) or borrowing (-) (capital account)	Line 33	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU315000995.A	Federal government; net lending (+) or borrowing (-) (capital account)	Line 34	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU314090005.A	Federal government; total financial assets	Line 35	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313011105.A	Federal government; monetary gold and SDRs; asset	Line 36	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313011203.A	Federal government; monetary gold; asset	Line 37	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313011303.A	Federal government; special drawing rights (SDRs) holdings; asset	Line 38	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU314000005.A	Federal government; total currency and deposits; asset	Line 39	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313020005.A	Federal government; checkable deposits and currency; asset	Line 40	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313030003.A	Federal government; total time and savings deposits; asset	Line 41	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313030505.A	Federal government; other deposits; asset	Line 42	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU314022005.A	Federal government; debt securities; asset	Line 43	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313061703.A	Federal government; agency- and GSE-backed securities; asset	Line 44	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313063005.A	Federal government; corporate and foreign bonds; asset	Line 45	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU314035005.A	Federal government; total loans including security repurchase agreements; asset	Line 46	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU314041005.A	Federal government; loans, excluding mortgages; asset 	Line 47	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313011545.A	Federal government; other U.S. reserves, other claims (repurchase agreements); asset	Line 48	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313066220.A	Federal government; consumer credit, student loans; asset	Line 49	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313069005.A	Federal government; other loans and advances; asset	Line 50	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313065005.A	Federal government; total mortgages; asset	Line 51	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313081105.A	Federal government; equity and investment fund shares excluding mutual fund shares and money market fund shares; asset (IMA)	Line 52	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313064105.A	Federal government; corporate equities; asset	Line 53	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313092803.A	Federal government; U.S. equity in International Bank for Reconstruction and Development (IBRD), etc.; asset	Line 54	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313092403.A	Federal government; equity in government-sponsored enterprises (GSEs); asset	Line 55	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313094303.A	Federal government; equity investment in funding corporations under PPIP; asset	Line 56	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313094205.A	Federal government; Total Exchange Stabilization Fund Economic Recovery Programs investments in Federal Reserve credit facilities; asset	Line 57	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313096005.A	Federal government; other accounts receivable; asset (IMA)	Line 58	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313070000.A	Federal government; trade receivables; asset	Line 59	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313078000.A	Federal government; total taxes receivable; asset	Line 60	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU314190005.A	Federal government; total liabilities	Line 61	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313111303.A	Federal government; special drawing rights (SDRs) allocations; liability	Line 62	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU314100005.A	Federal government; total currency and deposits; liability	Line 63	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU314122005.A	Federal government; debt securities; liability	Line 64	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313161105.A	Federal government; Treasury securities; liability	Line 65	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313161705.A	Federal government; budget agency securities; liability	Line 66	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU314123005.A	Federal government; loans; liability	Line 67	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313152005.A	Federal government; insurance, pension and standardized guarantee schemes; liability (IMA)	Line 68	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313140003.A	Federal government; life insurance reserves; liability	Line 69	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313195105.A	Federal government; retiree health care funds; liability	Line 70	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU343073045.A	Federal government defined benefit retirement funds; claims of pension funds on sponsor; asset	Line 71	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313196005.A	Federal government; other accounts payable; liability (IMA)	Line 72	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU713011203.A	Monetary authority; monetary gold certificates; asset	Line 73	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU713014003.A	Monetary authority; SDR certificates issued by federal government; asset	Line 74	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313170005.A	Federal government; trade payables; liability	Line 75	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313172003.A	Federal government; Paycheck Protection Program payables; liability	Line 76	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU313193005.A	Federal government; unidentified miscellaneous liabilities, including liability due to FICO	Line 77	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FU315000005.A	Federal government; net lending (+) or borrowing (-) (financial account)	Line 78	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FV318090185.A	Federal government; total other volume changes (IMA)	Line 79	S.7.a Federal Government	Millions of dollars; other changes in volume of assets
+FV312010095.A	Federal government; nonfinancial assets (does not include land)	Line 80	S.7.a Federal Government	Millions of dollars; other changes in volume of assets
+FV318090085.A	Federal government; other volume changes (IMA)	Line 81	S.7.a Federal Government	Millions of dollars; other changes in volume of assets
+FU317005045.A	Federal government; statistical discrepancy (IMA)	Line 82	S.7.a Federal Government	Millions of dollars; transactions, not seasonally adjusted
+FR312010095.A	Federal government; nonfinancial assets (does not include land)	Line 83	S.7.a Federal Government	Millions of dollars; revaluation
+FR315015605.A	Federal government; total residential and nonresidential structures	Line 84	S.7.a Federal Government	Millions of dollars; revaluation
+FR315013265.A	Federal government; nonresidential equipment, current cost basis	Line 85	S.7.a Federal Government	Millions of dollars; revaluation
+FR315013765.A	Federal government; nonresidential intellectual property products, current cost basis	Line 86	S.7.a Federal Government	Millions of dollars; revaluation
+FR314090005.A	Federal government; total financial assets	Line 87	S.7.a Federal Government	Millions of dollars; revaluation
+FR313011105.A	Federal government; monetary gold and SDRs; asset	Line 88	S.7.a Federal Government	Millions of dollars; revaluation
+FR314000005.A	Federal government; total currency and deposits; asset	Line 89	S.7.a Federal Government	Millions of dollars; revaluation
+FR313011545.A	Federal government; other U.S. reserves, other claims (repurchase agreements); asset	Line 90	S.7.a Federal Government	Millions of dollars; revaluation
+FR313063005.A	Federal government; corporate and foreign bonds; asset	Line 91	S.7.a Federal Government	Millions of dollars; revaluation
+FR313069005.A	Federal government; other loans and advances; asset	Line 92	S.7.a Federal Government	Millions of dollars; revaluation
+FR313064105.A	Federal government; corporate equities; asset	Line 93	S.7.a Federal Government	Millions of dollars; revaluation
+FR313094303.A	Federal government; equity investment in funding corporations under PPIP; asset	Line 94	S.7.a Federal Government	Millions of dollars; revaluation
+FR314190005.A	Federal government; total liabilities	Line 95	S.7.a Federal Government	Millions of dollars; revaluation
+FR313111303.A	Federal government; special drawing rights (SDRs) allocations; liability	Line 96	S.7.a Federal Government	Millions of dollars; revaluation
+FR313190015.A	Federal government; miscellaneous liabilities, excluding claims of pension funds	Line 97	S.7.a Federal Government	Millions of dollars; revaluation
+FR312090095.A	Federal government; net worth (IMA)	Line 98	S.7.a Federal Government	Millions of dollars; revaluation
+FC312090095.A	Federal government; net worth (IMA)	Line 99	S.7.a Federal Government	Millions of dollars; change in unadjusted amounts outstanding end of period
+FL312000095.A	Federal government; total assets (does not include land)	Line 100	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM312010095.A	Federal government; nonfinancial assets (does not include land)	Line 101	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM315015605.A	Federal government; total residential and nonresidential structures	Line 102	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM315013265.A	Federal government; nonresidential equipment, current cost basis	Line 103	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM315013765.A	Federal government; nonresidential intellectual property products, current cost basis	Line 104	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL314090005.A	Federal government; total financial assets	Line 105	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313011105.A	Federal government; monetary gold and SDRs; asset	Line 106	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM313011203.A	Federal government; monetary gold; asset	Line 107	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM313011303.A	Federal government; special drawing rights (SDRs) holdings; asset	Line 108	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL314000005.A	Federal government; total currency and deposits; asset	Line 109	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313020005.A	Federal government; checkable deposits and currency; asset	Line 110	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313030003.A	Federal government; total time and savings deposits; asset	Line 111	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313030505.A	Federal government; other deposits; asset	Line 112	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL314022005.A	Federal government; debt securities; asset	Line 113	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313061703.A	Federal government; agency- and GSE-backed securities; asset	Line 114	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313063005.A	Federal government; corporate and foreign bonds; asset	Line 115	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL314035005.A	Federal government; total loans including security repurchase agreements; asset	Line 116	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL314041005.A	Federal government; loans, excluding mortgages; asset 	Line 117	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM313011545.A	Federal government; other U.S. reserves, other claims (repurchase agreements); asset	Line 118	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL313066220.A	Federal government; consumer credit, student loans; asset	Line 119	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313069005.A	Federal government; other loans and advances; asset	Line 120	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313065005.A	Federal government; total mortgages; asset	Line 121	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313081105.A	Federal government; equity and investment fund shares excluding mutual fund shares and money market fund shares; asset (IMA)	Line 122	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM313064105.A	Federal government; corporate equities; asset	Line 123	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL313092803.A	Federal government; U.S. equity in International Bank for Reconstruction and Development (IBRD), etc.; asset	Line 124	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313092403.A	Federal government; equity in government-sponsored enterprises (GSEs); asset	Line 125	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM313094303.A	Federal government; equity investment in funding corporations under PPIP; asset	Line 126	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL313094205.A	Federal government; Total Exchange Stabilization Fund Economic Recovery Programs investments in Federal Reserve credit facilities; asset	Line 127	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313096005.A	Federal government; other accounts receivable; asset (IMA)	Line 128	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313070000.A	Federal government; trade receivables; asset	Line 129	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313078000.A	Federal government; total taxes receivable; asset	Line 130	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL312000095.A	Federal government; total assets (does not include land)	Line 131	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL314190005.A	Federal government; total liabilities	Line 132	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313111303.A	Federal government; special drawing rights (SDRs) allocations; liability	Line 133	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL314100005.A	Federal government; total currency and deposits; liability	Line 134	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL314122005.A	Federal government; debt securities; liability	Line 135	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313161105.A	Federal government; Treasury securities; liability	Line 136	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313161705.A	Federal government; budget agency securities; liability	Line 137	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL314123005.A	Federal government; loans; liability	Line 138	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313152005.A	Federal government; insurance, pension and standardized guarantee schemes; liability (IMA)	Line 139	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313140003.A	Federal government; life insurance reserves; liability	Line 140	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313195105.A	Federal government; retiree health care funds; liability	Line 141	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL343073045.A	Federal government defined benefit retirement funds; claims of pension funds on sponsor; asset	Line 142	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313196005.A	Federal government; other accounts payable; liability (IMA)	Line 143	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL713011203.A	Monetary authority; monetary gold certificates; asset	Line 144	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL713014003.A	Monetary authority; SDR certificates issued by federal government; asset	Line 145	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313170005.A	Federal government; trade payables; liability	Line 146	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313172003.A	Federal government; Paycheck Protection Program payables; liability	Line 147	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313193013.A	Federal government; liability due to FICO	Line 148	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL312090095.A	Federal government; net worth (IMA)	Line 149	S.7.a Federal Government	Millions of dollars; amounts outstanding end of period, not seasonally adjusted

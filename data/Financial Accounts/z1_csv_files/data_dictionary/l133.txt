@@ -1,0 +1,52 @@
+FL264090005.Q	Rest of the world; total financial assets	Line 1	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM313111303.Q	Federal government; special drawing rights (SDRs) allocations; liability	Line 2	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL264016005.Q	Rest of the world; interbank transactions with banks in foreign countries; asset	Line 3	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263020005.Q	Rest of the world; U.S. checkable deposits and currency; asset	Line 4	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263030005.Q	Rest of the world; U.S. total time and savings deposits; asset	Line 5	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263034003.Q	Rest of the world; U.S. money market fund shares; asset	Line 6	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL262051005.Q	Rest of the world; security repurchase agreements; asset	Line 7	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM264022005.Q	Rest of the world; debt securities, excluding negotiable certificates of deposit; asset 	Line 8	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263069103.Q	Rest of the world; commercial paper; asset	Line 9	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263061105.Q	Rest of the world; Treasury securities; asset	Line 10	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263061705.Q	Rest of the world; agency- and GSE-backed securities; asset	Line 11	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263062003.Q	Rest of the world; municipal securities; asset	Line 12	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263063005.Q	Rest of the world; corporate bonds; asset 	Line 13	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL263069005.Q	Rest of the world; other loans and advances; asset	Line 14	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263069563.Q	Rest of the world; U.S. nonfinancial business loans held by CLOs; asset	Line 15	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263092305.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt; asset 	Line 16	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263064105.Q	Rest of the world; U.S. corporate equities; asset	Line 17	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263092101.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (market value)	Line 18	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263064203.Q	Rest of the world; U.S. mutual fund shares; asset	Line 19	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL543141905.Q	Life insurance companies; assumed life insurance reserve credit from non-U.S. insurers; liability	Line 20	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL543151905.Q	Life insurance companies; assumed pension entitlement reserve credit from non-U.S. insurers; liability	Line 21	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263070005.Q	Rest of the world; trade receivables; asset	Line 22	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL263090005.Q	Rest of the world; total miscellaneous assets	Line 23	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263076005.Q	Rest of the world; assumed policy payables by U.S. reinsurers from non-U.S. insurers; liability 	Line 24	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263094733.Q	Rest of the world; foreign affiliate balances due from U.S. holding companies; asset	Line 25	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL264194005.Q	Rest of the world; total liabilities and equity	Line 26	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL264190005.Q	Rest of the world; total liabilities	Line 27	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM313011303.Q	Federal government; special drawing rights (SDRs) holdings; asset	Line 28	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL264116005.Q	Rest of the world; interbank transactions with banks in foreign countries; liability	Line 29	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263130505.Q	Rest of the world; other deposits; liability	Line 30	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL262151005.Q	Rest of the world; security repurchase agreements, including other claims in official reserves; liability	Line 31	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM264122005.Q	Rest of the world; debt securities, excluding negotiable certificates of deposit; liability	Line 32	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL263169105.Q	Rest of the world; commercial paper; liability	Line 33	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263163005.Q	Rest of the world; bonds; liability	Line 34	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263163063.Q	Rest of the world; bonds: collateralized loan obligations; liability	Line 35	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL264123005.Q	Rest of the world; loans; liability	Line 36	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263168005.Q	Rest of the world; depository institution loans n.e.c.; liability	Line 37	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263169005.Q	Rest of the world; other loans and advances; liability	Line 38	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263192305.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, including Netherlands Antillean Financial subsidiaries; liability	Line 39	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL263140005.Q	Rest of the world; life insurance reserve credit from non-U.S. reinsurers; liability	Line 40	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263150005.Q	Rest of the world; pension entitlement reserve credit from non-U.S. reinsurers; liability	Line 41	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263170005.Q	Rest of the world; trade credit and advances; liability	Line 42	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL263190005.Q	Rest of the world; total miscellaneous liabilities	Line 43	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263194735.Q	Rest of the world; other investments by holding companies, excluding foreign deposits; liability	Line 44	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263195105.Q	Rest of the world; insurance reserves, excluding life insurance reserves and pension entitlements; liability	Line 45	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263176005.Q	Rest of the world; policy payables of non-U.S. reinsurers; liability	Line 46	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263181105.Q	Rest of the world; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA)	Line 47	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263164100.Q	Rest of the world; foreign corporate equities including foreign investment fund shares; liability	Line 48	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263192101.Q	Rest of the world; U.S. direct investment abroad: equity; liability (market value)	Line 49	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL313092803.Q	Federal government; U.S. equity in International Bank for Reconstruction and Development (IBRD), etc.; asset	Line 50	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263098013.Q	Rest of the world; financial derivatives, gross at fair value; asset 	Line 51	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263198013.Q	Rest of the world; financial derivatives, gross at fair value; liability	Line 52	L.133 Rest of the World	Millions of dollars; amounts outstanding end of period, not seasonally adjusted

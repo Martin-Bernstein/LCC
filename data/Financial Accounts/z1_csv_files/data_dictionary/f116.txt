@@ -1,0 +1,53 @@
+FA546000105.Q	Life insurance companies; gross saving including foreign earnings retained abroad less net capital transfers paid	Line 1	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA545013005.Q	Life insurance companies; gross fixed investment, nonresidential structures, equipment, and intellectual property products	Line 2	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA544090005.Q	Life insurance companies; total financial assets 	Line 3	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543020005.Q	Life insurance companies; checkable deposits and currency; asset	Line 4	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543034005.Q	Life insurance companies; money market fund shares; asset	Line 5	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA542051075.Q	Life insurance companies, general accounts; security repurchase agreements, including those held by U.S. captive reinsurers; asset	Line 6	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA544022005.Q	Life insurance companies; debt securities; asset	Line 7	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543069105.Q	Life insurance companies; commercial paper; asset	Line 8	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543061105.Q	Life insurance companies; Treasury securities; asset	Line 9	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543061705.Q	Life insurance companies; agency- and GSE-backed securities; asset	Line 10	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543062005.Q	Life insurance companies; municipal securities; asset	Line 11	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543063005.Q	Life insurance companies; corporate and foreign bonds; asset	Line 12	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA544023005.Q	Life insurance companies; loans; asset	Line 13	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543069005.Q	Life insurance companies; other loans and advances; asset	Line 14	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543065005.Q	Life insurance companies; total mortgages; asset	Line 15	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543092375.Q	Life insurance companies, general accounts; U.S. direct investment abroad: intercompany debt (market value)	Line 16	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543064105.Q	Life insurance companies; corporate equities; asset	Line 17	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543092173.Q	Life insurance companies, general accounts; U.S. direct investment abroad: equity (market value)	Line 18	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543092473.Q	Life insurance companies, general accounts; equity in FHLB; asset	Line 19	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543064205.Q	Life insurance companies; mutual fund shares; asset	Line 20	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543040005.Q	Life insurance companies; life insurance reserve credit from reinsurers; asset	Line 21	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543050005.Q	Life insurance companies; pension entitlements reserve credit from reinsurers; asset	Line 22	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543070005.Q	Life insurance companies; trade receivables from insurers; liability	Line 23	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543090005.Q	Life insurance companies; total miscellaneous assets	Line 24	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543094703.Q	Life insurance companies; balances due from holding company parent; asset	Line 25	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543077073.Q	Life insurance companies, general accounts; deferred and unpaid life insurance premiums; asset	Line 26	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543095105.Q	Life insurance companies; accident and health reserve credit from reinsurers; asset	Line 27	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543093005.Q	Life insurance companies; unidentified miscellaneous assets	Line 28	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA544194005.Q	Life insurance companies; total liabilities and equity	Line 29	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA544190005.Q	Life insurance companies; total liabilities 	Line 30	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA542151073.Q	Life insurance companies, general accounts; security repurchase agreements; liability	Line 31	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543169373.Q	Life insurance companies, general accounts; FHLB advances; liability	Line 32	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543192375.Q	Life insurance companies, general accounts; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 33	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543140005.Q	Life insurance companies; life insurance reserves; liability	Line 34	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543150005.Q	Life insurance companies; pension entitlements, including reserve credit from reinsurers and excluding unallocated insurance contracts; liability	Line 35	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543170005.Q	Life insurance companies; trade payables to insurers; liability	Line 36	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543178075.Q	Life insurance companies, general accounts; total taxes payable; liability	Line 37	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543190005.Q	Life insurance companies; total miscellaneous liabilities	Line 38	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543194703.Q	Life insurance companies; other investment by holding company parent; liability	Line 39	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA673090543.Q	Issuers of asset-backed securities; funding agreements backing securities; asset 	Line 40	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543195005.Q	Life insurance companies; insurance reserves, excluding life insurance reserves and pension entitlements; liability	Line 41	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA593095005.Q	Pension funds; unallocated insurance contracts; asset	Line 42	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543193005.Q	Life insurance companies; unidentified miscellaneous liabilities	Line 43	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543181105.Q	Life insurance companies; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA)	Line 44	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543164175.Q	Life insurance companies, general accounts; corporate equities; liability	Line 45	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543192173.Q	Life insurance companies, general accounts; foreign direct investment in U.S.: equity; liability (market value)	Line 46	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543194603.Q	Life insurance companies; equity investment by parent holding company; liability	Line 47	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA547005005.Q	Life insurance companies; sector discrepancy	Line 48	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543200073.Q	Life insurance companies, general accounts; securities lending; liability	Line 49	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543176015.Q	Life insurance companies; direct reserve credit; liability	Line 50	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543176025.Q	Life insurance companies; reserve credit reinsured to U.S. reinsurers; liability	Line 51	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543076035.Q	Life insurance companies; reserve credit reinsured to non-U.S. reinsurers; asset	Line 52	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543176035.Q	Life insurance companies; reserve credit reinsured from non-U.S. reinsurers; liability	Line 53	F.116 Life Insurance Companies	Millions of dollars; transactions at a seasonally adjusted annual rate

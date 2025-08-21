@@ -1,0 +1,10 @@
+FL893140005.Q	All sectors; life insurance reserves; liability	Line 1	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL313140003.Q	Federal government; life insurance reserves; liability	Line 2	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL543140005.Q	Life insurance companies; life insurance reserves; liability	Line 3	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL263140005.Q	Rest of the world; life insurance reserve credit from non-U.S. reinsurers; liability	Line 4	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL893140005.Q	All sectors; life insurance reserves; liability	Line 5	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL153040005.Q	Households and nonprofit organizations; life insurance reserves; asset	Line 6	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL763040005.Q	U.S.-chartered depository institutions; life insurance reserves; asset       	Line 7	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL543040005.Q	Life insurance companies; life insurance reserve credit from reinsurers; asset	Line 8	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733040005.Q	Holding companies; life insurance reserves; asset	Line 9	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL543141905.Q	Life insurance companies; assumed life insurance reserve credit from non-U.S. insurers; liability	Line 10	L.228 Life Insurance Reserves	Millions of dollars; amounts outstanding end of period, not seasonally adjusted

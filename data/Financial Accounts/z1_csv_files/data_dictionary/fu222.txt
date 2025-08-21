@@ -1,0 +1,15 @@
+FU153166000.Q	Households and nonprofit organizations; consumer credit; liability	Line 1	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU153166000.Q	Households and nonprofit organizations; consumer credit; liability	Line 2	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU163066223.Q	Nonprofit organizations; consumer credit, student loans; asset	Line 3	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU103066005.Q	Nonfinancial corporate business; consumer credit; asset	Line 4	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU113066003.Q	Nonfinancial noncorporate business; consumer credit; asset	Line 5	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU313066220.Q	Federal government; consumer credit, student loans; asset	Line 6	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU763066000.Q	U.S.-chartered depository institutions; consumer credit; asset	Line 7	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU473066000.Q	Credit unions; consumer credit; asset	Line 8	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU403066005.Q	Government-sponsored enterprises; consumer credit held by Sallie Mae; asset	Line 9	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU673066000.Q	Issuers of asset-backed securities; consumer credit; asset	Line 10	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU613066005.Q	Finance companies; consumer credit; asset	Line 11	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU153166100.Q	Households and nonprofit organizations; revolving consumer credit; liability	Line 12	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU153166400.Q	Households and nonprofit organizations; consumer credit, automobile loans; liability 	Line 13	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU153166220.Q	Households and nonprofit organizations; consumer credit, student loans; liability 	Line 14	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted
+FU153166205.Q	Households and nonprofit organizations; other non-revolving consumer credit; liability 	Line 15	F.222 Consumer Credit	Millions of dollars; transactions, not seasonally adjusted

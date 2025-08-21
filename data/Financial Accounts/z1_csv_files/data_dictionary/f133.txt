@@ -1,0 +1,62 @@
+FA266905005.Q	Rest of the world; foreign income from U.S.	Line 1	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266903001.Q	Rest of the world; U.S. imports	Line 2	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266904101.Q	Rest of the world; income receipts from the U.S.	Line 3	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266400101.Q	Rest of the world; current taxes and transfer payments received	Line 4	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266900005.Q	Rest of the world; foreign outlays to U.S.	Line 5	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266903011.Q	Rest of the world; U.S. exports	Line 6	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266904001.Q	Rest of the world; income payments to the U.S.	Line 7	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266400201.Q	Rest of the world; current taxes, contributions for government social insurance, and transfer payments paid	Line 8	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA265440005.Q	Rest of the world; net capital transfers paid 	Line 9	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266000105.Q	Rest of the world; gross saving less net capital transfers paid	Line 10	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA265090005.Q	Rest of the world; gross investment	Line 11	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA265420005.Q	Rest of the world; acquisition of nonproduced nonfinancial assets (net)	Line 12	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA265000005.Q	Rest of the world; net lending (+) or borrowing (-) (financial account)	Line 13	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA264090005.Q	Rest of the world; total financial assets	Line 14	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263011105.Q	Rest of the world; monetary gold and SDRs; assets	Line 15	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA264016005.Q	Rest of the world; interbank transactions with banks in foreign countries; asset	Line 16	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263020005.Q	Rest of the world; U.S. checkable deposits and currency; asset	Line 17	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263030005.Q	Rest of the world; U.S. total time and savings deposits; asset	Line 18	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263034003.Q	Rest of the world; U.S. money market fund shares; asset	Line 19	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA262051005.Q	Rest of the world; security repurchase agreements; asset	Line 20	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA264022005.Q	Rest of the world; debt securities, excluding negotiable certificates of deposit; asset 	Line 21	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263069103.Q	Rest of the world; commercial paper; asset	Line 22	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263061105.Q	Rest of the world; Treasury securities; asset	Line 23	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263061705.Q	Rest of the world; agency- and GSE-backed securities; asset	Line 24	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263062003.Q	Rest of the world; municipal securities; asset	Line 25	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263063005.Q	Rest of the world; corporate bonds; asset 	Line 26	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263069005.Q	Rest of the world; other loans and advances; asset	Line 27	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263092305.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt; asset 	Line 28	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263064105.Q	Rest of the world; U.S. corporate equities; asset	Line 29	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263092101.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (market value)	Line 30	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263064203.Q	Rest of the world; U.S. mutual fund shares; asset	Line 31	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543141905.Q	Life insurance companies; assumed life insurance reserve credit from non-U.S. insurers; liability	Line 32	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543151905.Q	Life insurance companies; assumed pension entitlement reserve credit from non-U.S. insurers; liability	Line 33	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263070005.Q	Rest of the world; trade receivables; asset	Line 34	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263090005.Q	Rest of the world; total miscellaneous assets	Line 35	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA264194005.Q	Rest of the world; total liabilities and equity	Line 36	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA264190005.Q	Rest of the world; total liabilities	Line 37	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA313011303.Q	Federal government; special drawing rights (SDRs) holdings; asset	Line 38	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA264116005.Q	Rest of the world; interbank transactions with banks in foreign countries; liability	Line 39	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263130505.Q	Rest of the world; other deposits; liability	Line 40	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA262151005.Q	Rest of the world; security repurchase agreements, including other claims in official reserves; liability	Line 41	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA264122005.Q	Rest of the world; debt securities, excluding negotiable certificates of deposit; liability	Line 42	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263169105.Q	Rest of the world; commercial paper; liability	Line 43	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263163005.Q	Rest of the world; bonds; liability	Line 44	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA264123005.Q	Rest of the world; loans; liability	Line 45	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263168005.Q	Rest of the world; depository institution loans n.e.c.; liability	Line 46	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263169005.Q	Rest of the world; other loans and advances; liability	Line 47	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263192305.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, including Netherlands Antillean Financial subsidiaries; liability	Line 48	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263140005.Q	Rest of the world; life insurance reserve credit from non-U.S. reinsurers; liability	Line 49	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263150005.Q	Rest of the world; pension entitlement reserve credit from non-U.S. reinsurers; liability	Line 50	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263170005.Q	Rest of the world; trade credit and advances; liability	Line 51	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263190005.Q	Rest of the world; total miscellaneous liabilities	Line 52	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263181105.Q	Rest of the world; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA)	Line 53	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263164100.Q	Rest of the world; foreign corporate equities including foreign investment fund shares; liability	Line 54	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA263192101.Q	Rest of the world; U.S. direct investment abroad: equity; liability (market value)	Line 55	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA313092803.Q	Federal government; U.S. equity in International Bank for Reconstruction and Development (IBRD), etc.; asset	Line 56	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA267005005.Q	Rest of the world; sector discrepancy (FOF basis)	Line 57	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266903005.Q	Rest of the world; net U.S. exports 	Line 58	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266904005.Q	Rest of the world; net income payments to the U.S.	Line 59	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266400101.Q	Rest of the world; current taxes and transfer payments received	Line 60	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266400201.Q	Rest of the world; current taxes, contributions for government social insurance, and transfer payments paid	Line 61	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA266000005.Q	Rest of the world; balance on current account (NIPA)	Line 62	F.133 Rest of the World	Millions of dollars; transactions at a seasonally adjusted annual rate

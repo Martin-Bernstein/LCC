@@ -1,0 +1,29 @@
+FC102090005.Q	Nonfinancial corporate business; net worth	Line 1	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; change in unadjusted amounts outstanding end of period
+FU102090005.Q	Nonfinancial corporate business; net worth	Line 2	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU102010005.Q	Nonfinancial corporate business; nonfinancial assets	Line 3	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105035005.Q	Nonfinancial corporate business; real estate at market value	Line 4	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105015205.Q	Nonfinancial corporate business; equipment, current cost basis 	Line 5	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105013765.Q	Nonfinancial corporate business; nonresidential intellectual property products, current cost basis	Line 6	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105020015.Q	Nonfinancial corporate business; inventories excluding IVA, current cost basis	Line 7	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU105420005.Q	Nonfinancial corporate business; acquisition of nonproduced nonfinancial assets (net)	Line 8	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104090005.Q	Nonfinancial corporate business; total financial assets	Line 9	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FU104190005.Q	Nonfinancial corporate business; total liabilities	Line 10	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; transactions, not seasonally adjusted
+FR102090005.Q	Nonfinancial corporate business; net worth	Line 11	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR102010005.Q	Nonfinancial corporate business; nonfinancial assets	Line 12	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR105035005.Q	Nonfinancial corporate business; real estate at market value	Line 13	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR105015205.Q	Nonfinancial corporate business; equipment, current cost basis 	Line 14	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR105013765.Q	Nonfinancial corporate business; nonresidential intellectual property products, current cost basis	Line 15	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR105020015.Q	Nonfinancial corporate business; inventories excluding IVA, current cost basis	Line 16	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR104090005.Q	Nonfinancial corporate business; total financial assets	Line 17	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR104022005.Q	Nonfinancial corporate business; debt securities; asset	Line 18	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103092305.Q	Nonfinancial corporate business; U.S. direct investment abroad: intercompany debt (market value)	Line 19	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103064103.Q	Nonfinancial corporate business; corporate equities; asset	Line 20	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103092105.Q	Nonfinancial corporate business; U.S. direct investment abroad: equity; asset (market value)	Line 21	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103064203.Q	Nonfinancial corporate business; mutual fund shares; asset	Line 22	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103090005.Q	Nonfinancial corporate business; total miscellaneous assets	Line 23	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR104190005.Q	Nonfinancial corporate business; total liabilities	Line 24	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103192305.Q	Nonfinancial corporate business; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 25	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR573073005.Q	Private defined benefit pension funds; claims of pension fund on sponsor; asset	Line 26	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FR103193005.Q	Nonfinancial corporate business; unidentified miscellaneous liabilities	Line 27	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; revaluation
+FV102090005.Q	Nonfinancial corporate business; net worth	Line 28	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; other changes in volume of assets
+LM102090005.Q	Nonfinancial corporate business; net worth	Line 29	R.103 Change in Net Worth of Nonfinancial Corporate Business	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted

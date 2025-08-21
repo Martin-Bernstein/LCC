@@ -1,0 +1,51 @@
+FL794090005.Q	Domestic financial sectors; total financial assets 	Line 1	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL794010005.Q	Domestic financial sectors; interbank transactions; asset	Line 2	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793020005.Q	Domestic financial sectors; checkable deposits and currency; asset	Line 3	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793030005.Q	Domestic financial sectors; total time and savings deposits; asset	Line 4	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793030505.Q	Domestic financial sectors; other deposits; asset	Line 5	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793034005.Q	Domestic financial sectors; money market fund shares; asset	Line 6	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL792050005.Q	Domestic financial sectors; federal funds and security repurchase agreements; asset	Line 7	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL794022005.Q	Domestic financial sectors; debt securities; asset	Line 8	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793069175.Q	Domestic financial sectors; open market paper; asset	Line 9	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793061105.Q	Domestic financial sectors; Treasury securities; asset	Line 10	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793061705.Q	Domestic financial sectors; agency- and GSE-backed securities; asset	Line 11	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793062005.Q	Domestic financial sectors; municipal securities; asset	Line 12	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793063005.Q	Domestic financial sectors; corporate and foreign bonds; asset	Line 13	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL794023005.Q	Domestic financial sectors; loans; asset	Line 14	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793068005.Q	Domestic financial sectors; depository institution loans n.e.c.; asset	Line 15	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793069005.Q	Domestic financial sectors; other loans and advances; asset	Line 16	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793065005.Q	Domestic financial sectors; total mortgages; asset	Line 17	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793066005.Q	Domestic financial sectors; consumer credit; asset	Line 18	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM793092305.Q	Domestic financial sectors; U.S. direct investment abroad: intercompany debt; asset (market value)	Line 19	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM793064105.Q	Domestic financial sectors; corporate equities; asset	Line 20	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM793081115.Q	Domestic financial sectors; other equity; asset (IMA)	Line 21	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM793064205.Q	Domestic financial sectors; mutual fund shares; asset	Line 22	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL793040005.Q	Domestic financial sectors; life insurance reserves; asset	Line 23	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL543050005.Q	Life insurance companies; pension entitlements reserve credit from reinsurers; asset	Line 24	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793070005.Q	Domestic financial sectors; trade receivables; asset	Line 25	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793090005.Q	Domestic financial sectors; total miscellaneous assets	Line 26	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL794194005.Q	Domestic financial sectors; total liabilities and equity	Line 27	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL794190005.Q	Domestic financial sectors; total liabilities 	Line 28	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL794110005.Q	Domestic financial sectors; interbank transactions; liability	Line 29	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793120005.Q	Domestic financial sectors; checkable deposits and currency; liability	Line 30	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL703130005.Q	Private depository institutions; total time and savings deposits; liability	Line 31	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL403197033.Q	Government-sponsored enterprises; U.S.-chartered depository institutions deposits at Federal Home Loan Banks; liability	Line 32	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL634090005.Q	Money market funds; total financial assets	Line 33	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL792150005.Q	Domestic financial sectors; federal funds and security repurchase agreements; liability	Line 34	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL794122005.Q	Domestic financial sectors; debt securities; liability 	Line 35	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793169175.Q	Domestic financial sectors; open market paper; liability	Line 36	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL423161705.Q	GSEs and agency- and GSE-backed mortgage pools; U.S. government agency securities; liability	Line 37	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793163005.Q	Domestic financial sectors; corporate and foreign bonds; liability	Line 38	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL794123005.Q	Domestic financial sectors; loans; liability 	Line 39	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793168005.Q	Domestic financial sectors; depository institution loans n.e.c.; liability	Line 40	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793169005.Q	Domestic financial sectors; other loans and advances; liability	Line 41	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM793192305.Q	Domestic financial sectors; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 42	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM653164205.Q	Mutual funds; mutual fund shares; liability	Line 43	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL543140005.Q	Life insurance companies; life insurance reserves; liability	Line 44	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL583150005.Q	Insurance companies and pension funds; pension entitlements; liability	Line 45	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793170005.Q	Domestic financial sectors; trade payables; liability	Line 46	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793178005.Q	Domestic financial sectors; taxes payable (net); liability	Line 47	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793190005.Q	Domestic financial sectors; total miscellaneous liabilities	Line 48	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL793181105.Q	Domestic financial sectors; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA)	Line 49	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM793164105.Q	Domestic financial sectors; corporate equities; liability	Line 50	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM793181115.Q	Domestic financial sectors; other equity; liability (IMA)	Line 51	L.108 Domestic Financial Sectors	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted

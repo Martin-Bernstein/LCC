@@ -1,0 +1,21 @@
+FA893065405.Q	All sectors; multifamily residential mortgages; asset	Line 1	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103165405.Q	Nonfinancial corporate business; multifamily residential mortgages; liability	Line 2	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA113165405.Q	Nonfinancial noncorporate business; multifamily residential mortgages; liability	Line 3	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA313165403.Q	Federal government; multifamily residential mortgages; liability	Line 4	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA893065405.Q	All sectors; multifamily residential mortgages; asset	Line 5	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA153065403.Q	Households and nonprofit organizations; multifamily residential mortgages; asset	Line 6	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103065405.Q	Nonfinancial corporate business; multifamily residential mortgages; asset	Line 7	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA113065403.Q	Nonfinancial noncorporate business; multifamily residential mortgages; asset	Line 8	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA313065405.Q	Federal government; multifamily residential mortgages; asset	Line 9	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA213065403.Q	State and local governments; multifamily residential mortgages; asset	Line 10	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA763065405.Q	U.S.-chartered depository institutions; multifamily residential mortgages; asset	Line 11	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA753065403.Q	Foreign banking offices in the U.S.; multifamily residential mortgages; asset 	Line 12	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA473065403.Q	Credit unions; multifamily mortgages; asset	Line 13	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA543065405.Q	Life insurance companies; multifamily residential mortgages; asset	Line 14	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA573065403.Q	Private pension funds; multifamily residential mortgages; asset	Line 15	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA223065443.Q	State and local government employee defined benefit retirement funds; multifamily residential mortgages; asset	Line 16	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA403065405.Q	Government-sponsored enterprises; multifamily residential mortgages; asset	Line 17	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA413065405.Q	Agency-and GSE-backed mortgage pools; multifamily residential mortgages; asset	Line 18	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA673065405.Q	Issuers of asset-backed securities; multifamily residential mortgages; asset	Line 19	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA613065403.Q	Finance companies; multifamily residential mortgages; asset	Line 20	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA643065473.Q	Mortgage real estate investment trusts; multifamily residential mortgages; asset	Line 21	F.219 Multifamily Residential Mortgages	Millions of dollars; transactions at a seasonally adjusted annual rate

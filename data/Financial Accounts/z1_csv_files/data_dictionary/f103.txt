@@ -1,0 +1,58 @@
+FA106060005.Q	Nonfinancial corporate business; corporate profits before tax excluding IVA and CCAdj	Line 1	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA106231005.Q	Nonfinancial corporate business; taxes on corporate income	Line 2	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA106121075.Q	Nonfinancial corporate business; net dividends paid	Line 3	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA105020601.Q	Nonfinancial corporate business; inventory valuation adjustment (IVA)	Line 4	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA106300015.Q	Nonfinancial corporate business; capital consumption allowance	Line 5	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA106006065.Q	Nonfinancial corporate business; foreign earnings retained abroad	Line 6	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA105440005.Q	Nonfinancial corporate business; net capital transfers paid 	Line 7	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA106000105.Q	Nonfinancial corporate business; gross saving including foreign earnings retained abroad less net capital transfers paid	Line 8	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA105090005.Q	Nonfinancial corporate business; gross investment	Line 9	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA105050005.Q	Nonfinancial corporate business; total capital expenditures	Line 10	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA105019005.Q	Nonfinancial corporate business; gross fixed investment	Line 11	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA105020005.Q	Nonfinancial corporate business; inventories including IVA 	Line 12	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA105420005.Q	Nonfinancial corporate business; acquisition of nonproduced nonfinancial assets (net)	Line 13	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA105000005.Q	Nonfinancial corporate business; net lending (+) or borrowing (-) (financial account)	Line 14	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA104090005.Q	Nonfinancial corporate business; total financial assets	Line 15	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103020005.Q	Nonfinancial corporate business; checkable deposits and currency; asset	Line 16	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103030003.Q	Nonfinancial corporate business; total time and savings deposits; asset	Line 17	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103091003.Q	Nonfinancial corporate business; private foreign deposits; asset	Line 18	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103034000.Q	Nonfinancial corporate business; money market fund shares; asset	Line 19	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA102051003.Q	Nonfinancial corporate business; security repurchase agreements; asset	Line 20	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA104022005.Q	Nonfinancial corporate business; debt securities; asset	Line 21	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103069100.Q	Nonfinancial corporate business; commercial paper; asset	Line 22	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103061103.Q	Nonfinancial corporate business; Treasury securities; asset	Line 23	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103061703.Q	Nonfinancial corporate business; agency- and GSE-backed securities; asset	Line 24	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103062003.Q	Nonfinancial corporate business; municipal securities; asset	Line 25	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA123063003.Q	Equity real estate investment trusts; corporate and foreign bonds; asset	Line 26	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA104023005.Q	Nonfinancial corporate business; loans; asset	Line 27	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103065005.Q	Nonfinancial corporate business; total mortgages; asset	Line 28	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103066005.Q	Nonfinancial corporate business; consumer credit; asset	Line 29	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103092305.Q	Nonfinancial corporate business; U.S. direct investment abroad: intercompany debt (market value)	Line 30	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103064103.Q	Nonfinancial corporate business; corporate equities; asset	Line 31	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103092105.Q	Nonfinancial corporate business; U.S. direct investment abroad: equity; asset (market value)	Line 32	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103092405.Q	Nonfinancial corporate business; equity in Fannie Mae and Farm Credit System; asset 	Line 33	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103064203.Q	Nonfinancial corporate business; mutual fund shares; asset	Line 34	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103070005.Q	Nonfinancial corporate business; trade receivables; asset	Line 35	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103090005.Q	Nonfinancial corporate business; total miscellaneous assets	Line 36	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA104194005.Q	Nonfinancial corporate business; total liabilities and equity	Line 37	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA104190005.Q	Nonfinancial corporate business; total liabilities	Line 38	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA104122005.Q	Nonfinancial corporate business; debt securities; liability	Line 39	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103169100.Q	Nonfinancial corporate business; commercial paper; liability	Line 40	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103162000.Q	Nonfinancial corporate business; municipal securities; liability	Line 41	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103163005.Q	Nonfinancial corporate business; corporate bonds; liability	Line 42	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA104123005.Q	Nonfinancial corporate business; loans; liability	Line 43	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103168005.Q	Nonfinancial corporate business; depository institution loans n.e.c.; liability	Line 44	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103169005.Q	Nonfinancial corporate business; other loans and advances; liability	Line 45	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103165005.Q	Nonfinancial corporate business; total mortgages; liability	Line 46	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103192305.Q	Nonfinancial corporate business; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 47	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103170005.Q	Nonfinancial corporate business; trade payables; liability	Line 48	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103178005.Q	Nonfinancial corporate business; total taxes payable; liability	Line 49	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103190005.Q	Nonfinancial corporate business; total miscellaneous liabilities	Line 50	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA573074005.Q	Private pension funds; pension fund contributions receivable; asset	Line 51	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA573073005.Q	Private defined benefit pension funds; claims of pension fund on sponsor; asset	Line 52	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103193005.Q	Nonfinancial corporate business; unidentified miscellaneous liabilities	Line 53	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103181105.Q	Nonfinancial corporate business; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability	Line 54	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103164105.Q	Nonfinancial corporate business; corporate equities; liability	Line 55	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA103192105.Q	Nonfinancial corporate business; foreign direct investment in U.S.; liability (market value)	Line 56	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA107005005.Q	Nonfinancial corporate business; sector discrepancy	Line 57	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate
+FA105005305.Q	Nonfinancial corporate business; difference between capital expenditures and gross savings less net capital transfers paid, excluding foreign earnings retained abroad (financing gap)	Line 58	F.103 Nonfinancial Corporate Business	Millions of dollars; transactions at a seasonally adjusted annual rate

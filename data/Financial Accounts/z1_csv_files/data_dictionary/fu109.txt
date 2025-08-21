@@ -1,0 +1,56 @@
+FU716000105.Q	Monetary authority; gross saving	Line 1	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU715013005.Q	Monetary authority; gross fixed investment, nonresidential structures, equipment, and intellectual property products	Line 2	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU714090005.Q	Monetary authority; total financial assets	Line 3	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU714010005.Q	Monetary authority; interbank transactions with all depository institutions; asset	Line 4	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713022003.Q	Monetary authority; Federal Reserve float; asset	Line 5	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068705.Q	Monetary authority; loans to depository institutions, including AMLF, MMLF, and PPPLF; asset	Line 6	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068703.Q	Monetary authority; loans to domestic banks through the discount window; asset	Line 7	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU763069143.Q	U.S.-chartered depository institutions; commercial paper funded by borrowing from the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF) and Money Market Mutual Fund Liquidity Facility (MMLF); asset	Line 8	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068725.Q	Monetary authority; loans to depository institutions under the Paycheck Protection Program Liquidity Facility (PPPLF), assets	Line 9	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068763.Q	Monetary authority; loans to domestic banks through the Bank Term Funding Program; asset	Line 10	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068753.Q	Monetary authority; loans to domestic banks through other credit extensions; asset	Line 11	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713011515.Q	Federal government; other U.S. reserves, currency and deposits; asset	Line 12	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713091103.Q	Monetary authority; nonofficial foreign currencies (swap lines); asset	Line 13	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713012003.Q	Monetary authority; coin; asset	Line 14	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713011405.Q	Monetary authority; reserve position in IMF (net); asset	Line 15	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU712051005.Q	Monetary authority; security repurchase agreements, including other claims in official reserves; asset	Line 16	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU714022005.Q	Monetary authority; debt securities; asset	Line 17	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713069603.Q	Monetary authority; bankers' acceptances; asset	Line 18	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713061103.Q	Monetary authority; total Treasury securities; asset	Line 19	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713061113.Q	Monetary authority; Treasury bills; asset	Line 20	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713061125.Q	Monetary authority; other Treasury securities, excluding Treasury bills; asset	Line 21	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713061705.Q	Monetary authority; agency- and GSE-backed securities; asset	Line 22	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713061903.Q	Monetary authority; agency mortgage-backed securities; asset	Line 23	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713061703.Q	Monetary authority; agency- and GSE-backed securities other than MBS; asset	Line 24	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713011525.Q	Federal government; other U.S. reserves, foreign securities; asset	Line 25	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068005.Q	Monetary authority; depository institution loans n.e.c.; asset	Line 26	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068813.Q	Monetary authority; depository institution loans n.e.c. to households under Term Asset-Backed Securities Loan Facility (TALF I); asset	Line 27	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068665.Q	Monetary authority; loans to brokers and dealers; asset	Line 28	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068863.Q	Monetary authority; loans to finance companies under the Paycheck Protection Program Liquidity Facility (PPPLF); asset	Line 29	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713068505.Q	Monetary authority; depository institution loans n.e.c. to other financial business; asset	Line 30	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713064103.Q	Monetary authority; corporate equities; asset	Line 31	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713090005.Q	Monetary authority; total miscellaneous assets	Line 32	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713011203.Q	Monetary authority; monetary gold certificates; asset	Line 33	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713014003.Q	Monetary authority; SDR certificates issued by federal government; asset	Line 34	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713093005.Q	Monetary authority; unidentified miscellaneous assets	Line 35	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU714194005.Q	Monetary authority; total liabilities and equity	Line 36	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU714190005.Q	Monetary authority; total liabilities	Line 37	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713113003.Q	Monetary authority; depository institution reserves, excluding FHLB deposits; liability	Line 38	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713120005.Q	Monetary authority; checkable deposits and currency; liability	Line 39	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713123005.Q	Monetary authority; checkable deposits due to the federal government; liability	Line 40	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713123023.Q	Monetary authority; Treasury cash holdings; liability	Line 41	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713123030.Q	Monetary authority; deposits in Treasury general deposit account; liability	Line 42	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713123043.Q	Monetary authority; deposits in Treasury temporary supplementary financing account; liability	Line 43	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713124005.Q	Monetary authority; checkable deposits due to government-sponsored enterprises, including FHLB deposits; liability	Line 44	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713129005.Q	Monetary authority; total checkable deposits due to other financial business; liability	Line 45	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713122605.Q	Monetary authority; checkable deposits due to rest of the world; liability	Line 46	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713125005.Q	Monetary authority; currency outside banks; liability	Line 47	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU703025005.Q	Private depository institutions; vault cash; asset	Line 48	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU712151003.Q	Monetary authority; security repurchase agreements; liability	Line 49	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU712151103.Q	Monetary authority; security repurchase agreements, reverse repurchase agreement operations; liability	Line 50	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU712151115.Q	Monetary authority; security repurchase agreements, excluding those in the reverse repurchase agreement operations; liability	Line 51	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713193005.Q	Monetary authority; unidentified miscellaneous liabilities	Line 52	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713164005.Q	Monetary authority; equity and investment fund shares; liability (SBS)	Line 53	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU313094213.Q	Federal government; Exchange Stabilization Fund Economic Recovery Programs investment in Money Market Mutual Fund Liquidity Facility (MMLF); asset	Line 54	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU713164003.Q	Monetary authority; Federal Reserve bank stock; liability	Line 55	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted
+FU717005005.Q	Monetary authority; sector discrepancy	Line 56	F.109 Monetary Authority	Millions of dollars; transactions, not seasonally adjusted

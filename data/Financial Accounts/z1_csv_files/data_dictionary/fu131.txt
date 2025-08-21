@@ -1,0 +1,33 @@
+FU736000105.Q	Holding companies; gross saving	Line 1	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU735013005.Q	Holding companies; gross fixed investment, nonresidential structures, equipment, and intellectual property products	Line 2	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU734090005.Q	Holding companies; total financial assets	Line 3	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733030005.Q	Holding companies; time and savings deposits; asset	Line 4	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733091003.Q	Holding companies; private foreign deposits at affiliates; asset	Line 5	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU732051003.Q	Holding companies; security repurchase agreements; asset	Line 6	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU734022605.Q	Holding companies; long-term debt securities; asset	Line 7	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733061103.Q	Holding companies; Treasury securities; asset	Line 8	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733061703.Q	Holding companies; agency- and GSE-backed securities; asset	Line 9	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733063003.Q	Holding companies; corporate and foreign bonds; asset	Line 10	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733069005.Q	Holding companies; other loans and advances; asset	Line 11	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733092305.Q	Holding companies; U.S. direct investment abroad: intercompany debt (market value)	Line 12	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733092103.Q	Holding companies; U.S. direct investment abroad: equity (market value)	Line 13	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733094635.Q	Holding companies; equity investment in affiliates; asset	Line 14	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733040005.Q	Holding companies; life insurance reserves; asset	Line 15	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733090005.Q	Holding companies; total miscellaneous assets	Line 16	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733094735.Q	Holding companies; other investment in affiliates; asset	Line 17	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733093005.Q	Holding companies; unidentified miscellaneous assets	Line 18	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU734194005.Q	Holding companies; total liabilities and equity	Line 19	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU734190005.Q	Holding companies; total liabilities	Line 20	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU732151003.Q	Holding companies; security repurchase agreements; liability	Line 21	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU734122005.Q	Holding companies; debt securities; liability	Line 22	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733169103.Q	Holding companies; commercial paper; liability	Line 23	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733163005.Q	Holding companies; corporate and foreign bonds; liability	Line 24	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733192305.Q	Holding companies; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 25	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733178013.Q	Holding companies; taxes payable, tax on foreign earnings retained abroad; liability	Line 26	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733190005.Q	Holding companies; total miscellaneous liabilities	Line 27	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733194735.Q	Holding companies; balances due to affiliates; liability	Line 28	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733193005.Q	Holding companies; unidentified miscellaneous liabilities	Line 29	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733181105.Q	Holding companies; equity and investment fund shares excluding mutual fund shares and money market fund shares; asset	Line 30	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733164105.Q	Holding companies; corporate equities; liability	Line 31	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU733192103.Q	Holding companies; foreign direct investment in U.S.: equity; liability (market value)	Line 32	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted
+FU737005005.Q	Holding companies; sector discrepancy	Line 33	F.131 Holding Companies	Millions of dollars; transactions, not seasonally adjusted

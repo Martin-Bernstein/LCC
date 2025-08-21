@@ -1,0 +1,30 @@
+FL734090005.Q	Holding companies; total financial assets	Line 1	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733030005.Q	Holding companies; time and savings deposits; asset	Line 2	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733091003.Q	Holding companies; private foreign deposits at affiliates; asset	Line 3	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL732051003.Q	Holding companies; security repurchase agreements; asset	Line 4	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM734022605.Q	Holding companies; long-term debt securities; asset	Line 5	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM733061103.Q	Holding companies; Treasury securities; asset	Line 6	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM733061703.Q	Holding companies; agency- and GSE-backed securities; asset	Line 7	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM733063003.Q	Holding companies; corporate and foreign bonds; asset	Line 8	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL733069005.Q	Holding companies; other loans and advances; asset	Line 9	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM733092305.Q	Holding companies; U.S. direct investment abroad: intercompany debt (market value)	Line 10	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM733092103.Q	Holding companies; U.S. direct investment abroad: equity (market value)	Line 11	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL733094635.Q	Holding companies; equity investment in affiliates; asset	Line 12	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733040005.Q	Holding companies; life insurance reserves; asset	Line 13	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733090005.Q	Holding companies; total miscellaneous assets	Line 14	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733094735.Q	Holding companies; other investment in affiliates; asset	Line 15	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733093005.Q	Holding companies; unidentified miscellaneous assets	Line 16	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL734194005.Q	Holding companies; total liabilities and equity	Line 17	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL734190005.Q	Holding companies; total liabilities	Line 18	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL732151003.Q	Holding companies; security repurchase agreements; liability	Line 19	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL734122005.Q	Holding companies; debt securities; liability	Line 20	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733169103.Q	Holding companies; commercial paper; liability	Line 21	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733163005.Q	Holding companies; corporate and foreign bonds; liability	Line 22	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM733192305.Q	Holding companies; foreign direct investment in U.S.: intercompany debt; liability (market value)	Line 23	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL733178013.Q	Holding companies; taxes payable, tax on foreign earnings retained abroad; liability	Line 24	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733190005.Q	Holding companies; total miscellaneous liabilities	Line 25	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733194735.Q	Holding companies; balances due to affiliates; liability	Line 26	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL733193005.Q	Holding companies; unidentified miscellaneous liabilities	Line 27	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM733181105.Q	Holding companies; equity and investment fund shares excluding mutual fund shares and money market fund shares; asset	Line 28	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM733164105.Q	Holding companies; corporate equities; liability	Line 29	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM733192103.Q	Holding companies; foreign direct investment in U.S.: equity; liability (market value)	Line 30	L.131 Holding Companies	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted

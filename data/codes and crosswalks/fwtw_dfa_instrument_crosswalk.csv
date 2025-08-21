@@ -1,0 +1,34 @@
+﻿my_instrument_holder,fwtw_code,fwtw_instrument,dfa_instrument_holder,dfa_instrument_issuer,notes
+Deposits,20500,Federal Funds and Repos,Deposits,Other loans and advances (Liabilities),"In FWTW, households never issue nor hold this instrument"
+Deposits,30110,Monetary Gold and SDRs,Deposits,Other loans and advances (Liabilities),"In FWTW, households never issue nor hold this instrument"
+Deposits,30200,Checkable Deposits and Currency,Deposits,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Deposits,30300,Time and Savings Deposits,Deposits,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Deposits,30305,Other Deposits,Deposits,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Money Market Funds Shares,30340,Money Market Funds Shares,Money market fund shares,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Life insurance assets,30400,Life Insurance Reserves,Life insurance reserves,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Pension Entitlements,30500,Pension Entitlements,Annuities,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Pension Entitlements,30500,Pension Entitlements,DB pension entitlements,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Pension Entitlements,30500,Pension Entitlements,DC pension entitlements,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+U.S. government and municipal securities,30611,Treasury Securities,U.S. government and municipal securities,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+U.S. government and municipal securities,30617,Agency- and GSE-Backed Securities,U.S. government and municipal securities,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+U.S. government and municipal securities,30620,Municipal Securities,U.S. government and municipal securities,Other loans and advances (Liabilities),
+Corporate and Foreign Bonds,30630,Corporate and Foreign Bonds,Corporate and foreign bonds,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Corporate equities and mutual fund shares,30641,Corporate Equity,Corporate equities and mutual fund shares,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Corporate equities and mutual fund shares,30642,Mutual Fund Shares,Corporate equities and mutual fund shares,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Mortgages,30651,Home Mortgages,Mortgages,Home mortgages,
+Mortgages,30654,Multifamily Residential Mortgages,Mortgages,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Mortgages,30655,Commercial Mortgages,Mortgages,Other loans and advances (Liabilities),
+Mortgages,30656,Farm Mortgages,Mortgages,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Other loans and advances (Assets),30660,Consumer Credit,Other loans and advances (Assets),Consumer credit,
+Deposits,30680,Depository Institution Loans N.E.C.,Deposits,Depository institutions loans n.e.c.,
+Other loans and advances (Assets),30690,Other Loans and Advances,Other loans and advances (Assets),Other loans and advances (Liabilities),
+Miscellaneous assets,30691,Open Market Paper,Miscellaneous assets,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Miscellaneous assets,30700,Trade Credit,Miscellaneous assets,Other loans and advances (Liabilities),
+Miscellaneous assets,30780,Taxes Payable by Businesses,Miscellaneous assets,Other loans and advances (Liabilities),"In FWTW, households never issue nor hold this instrument"
+Miscellaneous assets,30900,Identified Miscellaneous Financial Claims - Part 2,Miscellaneous assets,Other loans and advances (Liabilities),
+Miscellaneous assets,30921,FDI Equity,Miscellaneous assets,Other loans and advances (Liabilities),"In FWTW, households never issue nor hold this instrument"
+Miscellaneous assets,30923,FDI Debt,Miscellaneous assets,Other loans and advances (Liabilities),"In FWTW, households never issue nor hold this instrument"
+Miscellaneous assets,30930,Unidentified Miscellaneous Financial Claims,Miscellaneous assets,Other loans and advances (Liabilities),"In FWTW, households never issue nor hold this instrument"
+Miscellaneous assets,30940,Identified Miscellaneous Financial Claims - Part 1,Miscellaneous assets,Other loans and advances (Liabilities),
+Miscellaneous Other Equity,30949,Miscellaneous Other Equity,Miscellaneous other equity,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"
+Miscellaneous assets,40100,Net Interbank Transactions,Miscellaneous assets,Other loans and advances (Liabilities),"In FWTW, households never issue this instrument"

@@ -1,0 +1,15 @@
+FU893065603.Q	All sectors; farm mortgages; asset	Line 1	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU183165603.Q	Corporate farm business; farm mortgages; liability	Line 2	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU233165605.Q	Noncorporate farm business; farm mortgages; liability	Line 3	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU893065603.Q	All sectors; farm mortgages; asset	Line 4	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU153065605.Q	Households and nonprofit organizations; farm mortgages; asset	Line 5	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU113065603.Q	Nonfinancial noncorporate business; farm mortgages; asset	Line 6	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU313065605.Q	Federal government; farm mortgages; asset	Line 7	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU213065603.Q	State and local governments; farm mortgages; asset	Line 8	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU763065633.Q	U.S.-chartered depository institutions; farm mortgages; asset (USDA)	Line 9	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU753065603.Q	Foreign banking offices in the U.S.; farm mortgages; asset	Line 10	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU473065603.Q	Credit unions; farm mortgages; asset	Line 11	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU543065633.Q	Life insurance companies; farm mortgages on farm land; asset 	Line 12	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU223065643.Q	State and local government employee defined benefit retirement funds; farm mortgages; asset	Line 13	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU403065605.Q	Government-sponsored enterprises; farm mortgages; asset	Line 14	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted
+FU413065605.Q	Agency-and GSE-backed mortgage pools; farm mortgages; asset	Line 15	F.221 Farm Mortgages	Millions of dollars; transactions, not seasonally adjusted

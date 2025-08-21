@@ -1,0 +1,29 @@
+LM893181115.Q	All sectors; other equity; liability 	Line 1	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM103192105.Q	Nonfinancial corporate business; foreign direct investment in U.S.; liability (market value)	Line 2	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM113181115.Q	Nonfinancial noncorporate business; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability	Line 3	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL713164005.Q	Monetary authority; equity and investment fund shares; liability (SBS)	Line 4	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+FL763194603.Q	U.S.-chartered depository institutions; equity investment by parent holding company; liability	Line 5	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM753181115.Q	Foreign banking offices in the U.S.; other equity; liability	Line 6	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM513181115.Q	Property-casualty insurance companies; other equity; liability	Line 7	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM543181115.Q	Life insurance companies; other equity; liability	Line 8	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL403192405.Q	Government-sponsored enterprises; equity in government-sponsored enterprises (GSEs); liability	Line 9	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM613192103.Q	Finance companies; foreign direct investment in U.S.: equity; liability (market value)	Line 10	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM663181115.Q	Security brokers and dealers; other equity; liability (IMA)	Line 11	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM733192103.Q	Holding companies; foreign direct investment in U.S.: equity; liability (market value)	Line 12	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM503181115.Q	Other financial business; other equity; liability (IMA)	Line 13	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM263181115.Q	Rest of the world; other equity; liability (IMA)	Line 14	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM893081115.Q	All sectors; other equity; asset 	Line 15	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM153081115.Q	Households and nonprofit organizations; other equity; asset (IMA) 	Line 16	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM103081115.Q	Nonfinancial corporate business; other equity; asset	Line 17	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL113092405.Q	Nonfinancial noncorporate business; equity in Farm Credit System; asset	Line 18	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM313081115.Q	Federal government; other equity; asset (IMA)	Line 19	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM763081115.Q	U.S.-chartered depository institutions; other equity; asset	Line 20	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL473092403.Q	Credit unions; equity in FHLB; asset	Line 21	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM513081115.Q	Property-casualty insurance companies; other equity; asset	Line 22	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM543081115.Q	Life insurance companies; other equity; asset 	Line 23	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM613081115.Q	Finance companies; other equity; asset (IMA) 	Line 24	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL643092473.Q	Mortgage real estate investment trusts; equity in FHLB; asset	Line 25	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM663092103.Q	Security brokers and dealers; U.S. direct investment abroad: equity (market value)	Line 26	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+LM733081115.Q	Holding companies; other equity; asset	Line 27	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
+FL503094505.Q	Other financial business; equity investment in own subsidiaries; asset	Line 28	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, not seasonally adjusted
+LM263092101.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (market value)	Line 29	L.225 Other Equity	Millions of dollars; amounts outstanding end of period, market value, not seasonally adjusted
