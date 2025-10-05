@@ -1,6 +1,0 @@
-FU413065005.Q	Agency-and GSE-backed mortgage pools; total mortgages; asset	Line 1	F.126 Agency- and GSE-Backed Mortgage Pools	Millions of dollars; transactions, not seasonally adjusted
-FU413065105.Q	Agency-and GSE-backed mortgage pools; one-to-four-family residential mortgages; asset	Line 2	F.126 Agency- and GSE-Backed Mortgage Pools	Millions of dollars; transactions, not seasonally adjusted
-FU413065405.Q	Agency-and GSE-backed mortgage pools; multifamily residential mortgages; asset	Line 3	F.126 Agency- and GSE-Backed Mortgage Pools	Millions of dollars; transactions, not seasonally adjusted
-FU413065505.Q	Agency-and GSE-backed mortgage pools; commercial mortgages; asset	Line 4	F.126 Agency- and GSE-Backed Mortgage Pools	Millions of dollars; transactions, not seasonally adjusted
-FU413065605.Q	Agency-and GSE-backed mortgage pools; farm mortgages; asset	Line 5	F.126 Agency- and GSE-Backed Mortgage Pools	Millions of dollars; transactions, not seasonally adjusted
-FU413065005.Q	Agency-and GSE-backed mortgage pools; total mortgages; asset	Line 6	F.126 Agency- and GSE-Backed Mortgage Pools	Millions of dollars; transactions, not seasonally adjusted

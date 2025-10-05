@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+
+
+</head>
+<body>
+<h2>Industry Gross Output Shares</h2>
+<div style="margin-bottom: 1em; text-align:center;">
+  <button id="lessBtn" style="margin-right:10px;">Less detailed</button>
+  <button id="moreBtn">More detailed</button>
+</div>
+<div id="lessDetailDiv">
+  <div style="margin: 20px 0;">
+    <label>Select Year: </label>
+    <input type="range" id="yearSliderLess" min="1963" max="2023" value="1963" step="1" style="width: 80%;"/>
+    <span id="yearDisplayLess" style="margin-left: 10px;"></span>
+  </div>
+  <iframe id="plot_1963" src="gross-output_dashboard_files/plot_1963.html" style="width:95%;height:525px;border:none;display:block;"></iframe>
+  <iframe id="plot_1964" src="gross-output_dashboard_files/plot_1964.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1965" src="gross-output_dashboard_files/plot_1965.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1966" src="gross-output_dashboard_files/plot_1966.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1967" src="gross-output_dashboard_files/plot_1967.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1968" src="gross-output_dashboard_files/plot_1968.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1969" src="gross-output_dashboard_files/plot_1969.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1970" src="gross-output_dashboard_files/plot_1970.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1971" src="gross-output_dashboard_files/plot_1971.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1972" src="gross-output_dashboard_files/plot_1972.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1973" src="gross-output_dashboard_files/plot_1973.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1974" src="gross-output_dashboard_files/plot_1974.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1975" src="gross-output_dashboard_files/plot_1975.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1976" src="gross-output_dashboard_files/plot_1976.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1977" src="gross-output_dashboard_files/plot_1977.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1978" src="gross-output_dashboard_files/plot_1978.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1979" src="gross-output_dashboard_files/plot_1979.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1980" src="gross-output_dashboard_files/plot_1980.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1981" src="gross-output_dashboard_files/plot_1981.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1982" src="gross-output_dashboard_files/plot_1982.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1983" src="gross-output_dashboard_files/plot_1983.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1984" src="gross-output_dashboard_files/plot_1984.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1985" src="gross-output_dashboard_files/plot_1985.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1986" src="gross-output_dashboard_files/plot_1986.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1987" src="gross-output_dashboard_files/plot_1987.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1988" src="gross-output_dashboard_files/plot_1988.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1989" src="gross-output_dashboard_files/plot_1989.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1990" src="gross-output_dashboard_files/plot_1990.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1991" src="gross-output_dashboard_files/plot_1991.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1992" src="gross-output_dashboard_files/plot_1992.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1993" src="gross-output_dashboard_files/plot_1993.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1994" src="gross-output_dashboard_files/plot_1994.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1995" src="gross-output_dashboard_files/plot_1995.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1996" src="gross-output_dashboard_files/plot_1996.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1997" src="gross-output_dashboard_files/plot_1997.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1998" src="gross-output_dashboard_files/plot_1998.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_1999" src="gross-output_dashboard_files/plot_1999.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2000" src="gross-output_dashboard_files/plot_2000.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2001" src="gross-output_dashboard_files/plot_2001.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2002" src="gross-output_dashboard_files/plot_2002.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2003" src="gross-output_dashboard_files/plot_2003.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2004" src="gross-output_dashboard_files/plot_2004.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2005" src="gross-output_dashboard_files/plot_2005.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2006" src="gross-output_dashboard_files/plot_2006.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2007" src="gross-output_dashboard_files/plot_2007.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2008" src="gross-output_dashboard_files/plot_2008.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2009" src="gross-output_dashboard_files/plot_2009.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2010" src="gross-output_dashboard_files/plot_2010.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2011" src="gross-output_dashboard_files/plot_2011.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2012" src="gross-output_dashboard_files/plot_2012.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2013" src="gross-output_dashboard_files/plot_2013.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2014" src="gross-output_dashboard_files/plot_2014.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2015" src="gross-output_dashboard_files/plot_2015.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2016" src="gross-output_dashboard_files/plot_2016.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2017" src="gross-output_dashboard_files/plot_2017.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2018" src="gross-output_dashboard_files/plot_2018.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2019" src="gross-output_dashboard_files/plot_2019.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2020" src="gross-output_dashboard_files/plot_2020.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2021" src="gross-output_dashboard_files/plot_2021.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2022" src="gross-output_dashboard_files/plot_2022.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="plot_2023" src="gross-output_dashboard_files/plot_2023.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+</div>
+<div id="moreDetailDiv" style="display:none;">
+  <div style="margin: 20px 0;">
+    <label>Select Year: </label>
+    <input type="range" id="yearSliderMore" min="2007" max="2017" value="2007" step="5" style="width: 80%;"/>
+    <span id="yearDisplayMore" style="margin-left: 10px;"></span>
+  </div>
+  <iframe id="detailplot_2007" src="gross-output_dashboard_files/detailplot_2007.html" style="width:95%;height:525px;border:none;display:block;"></iframe>
+  <iframe id="detailplot_2012" src="gross-output_dashboard_files/detailplot_2012.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+  <iframe id="detailplot_2017" src="gross-output_dashboard_files/detailplot_2017.html" style="width:95%;height:525px;border:none;display:none;"></iframe>
+</div>
+<script>
+  // Years for each dashboard
+  const less_years = [1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023];
+  const more_years = [2007,2012,2017];
+  // Elements
+  const lessBtn = document.getElementById("lessBtn");
+  const moreBtn = document.getElementById("moreBtn");
+  const lessDiv = document.getElementById("lessDetailDiv");
+  const moreDiv = document.getElementById("moreDetailDiv");
+  // Less detailed slider
+  const lessSlider = document.getElementById("yearSliderLess");
+  const lessDisplay = document.getElementById("yearDisplayLess");
+  // More detailed slider
+  const moreSlider = document.getElementById("yearSliderMore");
+  const moreDisplay = document.getElementById("yearDisplayMore");
+
+  // Toggle dashboard views
+  lessBtn.onclick = function() {
+    lessDiv.style.display = "block";
+    moreDiv.style.display = "none";
+    lessBtn.classList.add("active");
+    moreBtn.classList.remove("active");
+  };
+  moreBtn.onclick = function() {
+    lessDiv.style.display = "none";
+    moreDiv.style.display = "block";
+    lessBtn.classList.remove("active");
+    moreBtn.classList.add("active");
+  };
+
+  // Show correct iframe for less detailed
+  function showYearLess(year) {
+    less_years.forEach(function(y) {
+      document.getElementById("plot_" + y).style.display = (y == year) ? "block" : "none";
+    });
+    lessDisplay.textContent = year;
+  }
+  lessSlider.addEventListener("input", function() {
+    showYearLess(parseInt(lessSlider.value));
+  });
+  showYearLess(1963);
+
+  // Show correct iframe for more detailed
+  function showYearMore(year) {
+    more_years.forEach(function(y) {
+      document.getElementById("detailplot_" + y).style.display = (y == year) ? "block" : "none";
+    });
+    moreDisplay.textContent = year;
+  }
+  moreSlider.addEventListener("input", function() {
+    showYearMore(parseInt(moreSlider.value));
+  });
+  showYearMore(2007);
+
+  // Set initial view
+  lessDiv.style.display = "block";
+  moreDiv.style.display = "none";
+  lessBtn.classList.add("active");
+</script>
+<style>
+    body { font-family: sans-serif; margin: 20px; max-width: 1200px; margin: 0 auto; padding: 20px; }
+    h2 { margin-bottom: 20px; text-align: center; }
+    input[type="range"] { height: 25px; }
+    iframe { margin-top: 20px; border: 1px solid #ddd; border-radius: 4px; background: #fff; }
+    button.active { background: #007bff; color: #fff; }
+    button { padding: 6px 18px; font-size: 16px; border-radius: 4px; border: 1px solid #007bff; background: #fff; color: #007bff; cursor: pointer; }
+    button:hover { background: #e6f0ff; }
+  </style>
+</body>
+</html>

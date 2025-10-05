@@ -265,3 +265,86 @@ get_dfa <- function(){
   # So, the "Level" in dfa is the total assets held in the category.
   return(dfa)
 }
+
+date_conv <- function(qstr) {
+  if(nchar(qstr[1])==4){
+    return(as.numeric(qstr))
+  }else{
+    # Map quarters to starting month
+    quarter_months <- c(Q1 = "01", Q2 = "04", Q3 = "07", Q4 = "10")
+    
+    # Extract year and quarter
+    parts <- tstrsplit(qstr, ":", fixed = TRUE)
+    year <- parts[[1]]
+    quarter <- parts[[2]]
+    
+    # Get corresponding month for each quarter
+    month <- quarter_months[quarter]
+    
+    # Construct date string
+    date_str <- paste0(year, "-", month, "-01")
+    
+    # Convert to Date
+    as.Date(date_str) 
+  }
+}
+
+#Get a cleaned national accounts table from the table name
+clean_NA<-function(fname){
+  #Data
+  f<-fread(file.path('data', "Financial Accounts",
+                     'z1_csv_files','csv',paste0(fname,'.csv')))
+  dup_cols <- duplicated(names(f))
+  # Keep only unique-named columns (i.e., drop duplicates)
+  f <- f[, !dup_cols, with = FALSE]
+  #Add year and pivot
+  f[,year:=as.numeric(substr(date,1,4))]
+  convertcols <- names(f)[2:ncol(f)]
+  # Convert those columns to numeric
+  f[, (convertcols) := lapply(.SD, as.numeric), .SDcols = convertcols]
+  f<-pivot_longer(f,cols=2:(ncol(f)-1),names_to='series',values_to='value')
+  setDT(f)
+  #Clean
+  f[value=='ND',value:=NA]
+  f[,value:=as.numeric(value)]
+  f[,series:=substr(series,1,nchar(series)-2)]
+  f<-f[!is.na(value)]
+  #Annual is avg across all quarters (since these are outstanding quantities)
+  f[,value.a:=mean(value),by=.(series,year)]  
+  
+  #Put into billions (to match JST)
+  f[,value:=value/1000]
+  f[,value.a:=value.a/1000]
+  
+  #Fix date:
+  f[,date:=date_conv(date)]
+  #Give quarterly GDP:
+  gd<-fread(file.path('data','FRED','GDP.csv'))
+  colnames(gd)<-c('date','gdp')
+  #If have annual data, convert:
+  if(nchar(as.character(f[,date][1]))==4){
+    gd[,date:=year(date)]
+    gd<-gd[,.(gdp = mean(gdp)),by=date]
+  }
+  # gd[, date := as.Date(date)]
+  f[,gdp:=gd[.SD,on=.(date),x.gdp]]
+  
+  #Add in other quarters for before 1952:
+  tofix <- f[year < 1952]
+  tofix[, date := NULL]
+  dates <- setDT(data.frame(date=c(paste0(1945:1951, "-01-01"),
+                                   paste0(1945:1951, "-04-01"),
+                                   paste0(1945:1951, "-07-01"))))
+  dates[, date := as.Date(date)]
+  dates[, year := year(date)]
+  fixed <- merge(dates, tofix, by = 'year', allow.cartesian=T)
+  
+  f <- f[year >= 1952]
+  f <- rbind(f, fixed)
+  setorder(f, date, series)
+  
+  #Datadictionary
+  dd<-fread(file.path('data',"Financial Accounts", 'z1_csv_files','data_dictionary',paste0(fname,'.txt')),sep = "\t", header = FALSE, fill = TRUE)
+  colnames(dd)<-c('series','description','line','table','unit')
+  return(list(f,dd))
+}

@@ -2,7 +2,7 @@ PWD /Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/Notes/notes.tex
+INPUT /Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/notes/notes.tex
 OUTPUT build/notes.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls

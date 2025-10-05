@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.23)  19 AUG 2025 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.23)  25 SEP 2025 12:11
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/Notes/notes.tex"
-(/Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/Notes/notes.tex
+**"/Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/notes/notes.tex"
+(/Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/notes/notes.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -348,18 +348,18 @@ File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 <../figures/exploration/IO-matrices/industry_eigenvectors.png, id=28, 722.7pt x 722.7pt>
 File: ../figures/exploration/IO-matrices/industry_eigenvectors.png Graphic file (type png)
 <use ../figures/exploration/IO-matrices/industry_eigenvectors.png>
-Package pdftex.def Info: ../figures/exploration/IO-matrices/industry_eigenvectors.png  used on input line 84.
+Package pdftex.def Info: ../figures/exploration/IO-matrices/industry_eigenvectors.png  used on input line 85.
 (pdftex.def)             Requested size: 469.75502pt x 469.76045pt.
  [3] [4 <../figures/exploration/IO-matrices/industry_eigenvectors.png>]
 <../figures/exploration/IO-matrices/aggregate_GO decomposition.png, id=43, 505.89pt x 289.08pt>
 File: ../figures/exploration/IO-matrices/aggregate_GO decomposition.png Graphic file (type png)
 <use ../figures/exploration/IO-matrices/aggregate_GO decomposition.png>
-Package pdftex.def Info: ../figures/exploration/IO-matrices/aggregate_GO decomposition.png  used on input line 91.
+Package pdftex.def Info: ../figures/exploration/IO-matrices/aggregate_GO decomposition.png  used on input line 92.
 (pdftex.def)             Requested size: 328.82707pt x 187.90417pt.
 <../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png, id=45, 722.7pt x 722.7pt>
 File: ../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png Graphic file (type png)
 <use ../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png>
-Package pdftex.def Info: ../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png  used on input line 97.
+Package pdftex.def Info: ../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png  used on input line 98.
 (pdftex.def)             Requested size: 469.75502pt x 469.76045pt.
  [5 <../figures/exploration/IO-matrices/aggregate_GO decomposition.png>] [6 <../figures/exploration/IO-matrices/GO = wL + GOS + T + M_with_imputation.png>] (build/notes.aux)
  ***********
@@ -378,7 +378,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,902b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on build/notes.pdf (6 pages, 1342154 bytes).
+Output written on build/notes.pdf (6 pages, 1342181 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream

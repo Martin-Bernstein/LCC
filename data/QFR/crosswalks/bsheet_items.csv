@@ -1,0 +1,71 @@
+﻿use_baseline,names_baseline,codes_1952,codes_1947,code,description,maturity,side,category,level,contribution
+,,SALES,SALES,SALES,"Net sales, receipts, and operating revenues",,flow,FLOW THIS Q,7.F,+
+,,DEPREC,COSTS,DEPREC,"Depreciation, depletion, and amortization of property, plant, and equipment",,flow,FLOW THIS Q,7.F,-
+,,COSTS,COSTS,OTHERCOST,All other operating costs and expenses,,flow,FLOW THIS Q,7.F,-
+,,OPERINC,OPERINC,OPERINC,Income (loss) from operations,,flow,FLOW THIS Q,6.F,+
+,,OTHINCEXP,OTHINCEXP,INTEXP,Interest expense,,flow,FLOW THIS Q,6.F,-
+,,OTHINCEXP,OTHINCEXP,DIVINC,Dividend income ¹,,flow,FLOW THIS Q,6.F,+
+,,OTHINCEXP,OTHINCEXP,OTHNOPEXP,Other nonoperating income,,flow,FLOW THIS Q,6.F,+
+,,OTHINCEXP,OTHINCEXP,NONRECUR,"Nonrecurring items, including gain (loss) on sale of assets, restructuring costs, asset writedowns, disposal of business segments, etc. ¹",,flow,FLOW THIS Q,6.F,+
+,,OTHINCEXP,OTHINCEXP,EQUITYINC,"Net income (loss) of foreign branches and equity in earnings (losses) of domestic and foreign nonconsolidated subsidiaries and other investments accounted for by the equity method, net of foreign taxes ¹",,flow,FLOW THIS Q,6.F,+
+,,NIBT,NIBT,NIBT,Income (loss) before income taxes,,flow,FLOW THIS Q,5.F,+
+,,FEDTAXES,FEDTAXES,FEDTAXES,Provision for current and deferred domestic income taxes,,flow,FLOW THIS Q,5.F,-
+,,FEDTAXES,FEDTAXES,OTHERTAX,Provision for current and deferred domestic income taxes: Other ¹,,flow,FLOW THIS Q,5.F,-
+,,NIAT,NIAT,NIAT,Income (loss) after income taxes,,flow,FLOW THIS Q,4.F,+
+,,NIAT,NIAT,EXTRAORD,"Extraordinary gains (losses), net of taxes ¹",,flow,FLOW THIS Q,4.F,+
+,,NIAT,NIAT,CUMACTG,"Cumulative effect of accounting changes, net of taxes ¹",,flow,FLOW THIS Q,4.F,+
+,,NIAT,NIAT,NIQUARTER,Net income (loss) for quarter ¹,,flow,FLOW THIS Q,3.F,+
+,,DIVIDENDS,DIVIDENDS,DIVIDENDS,Cash dividends charged to retained earnings this quarter,,flow,FLOW THIS Q,3.F,-
+,,,NIAT-DIVIDENDS,NIRTINBUS,Net income retained in business,,flow,FLOW THIS Q,2.F,+
+,,RETBEG,,RETBEG,Retained earnings at beginning of quarter,,flow,FLOW LAST Q,2.F,+
+,,OTHERCRDR,,OTHERCRDR,"Other direct credits (charges) to retained earnings (net), including stock and other non-cash dividends, etc.",,flow,FLOW LAST Q,2.F,+
+,,RETEND,,RETEND,Retained earnings at end of quarter,,flow,NET INFLOW THIS Q,1.F,
+,,TOTALCASH,TOTALCASH,CASH,Cash and demand deposits in the U.S.,current,asset,"STOCK (assets, cash)",5.A,+
+,,TOTALCASH,TOTALCASH,TIMEDEP,"Time deposits in the U.S., including negotiable certificates of deposit",current,asset,"STOCK (assets, cash)",5.A,+
+,,TOTALCASH,TOTALCASH,DEPOUTUS,Cash and deposits outside the U.S. ¹,current,asset,"STOCK (assets, cash)",5.A,+
+,,TOTALCASH,TOTALCASH,TOTALCASH,Total cash on hand and in banks ²,current,asset,"STOCK (assets, cash)",4.A,+
+,,GOVTSEC,GOVTSEC,TREASSEC1,U.S. Treasury and Federal agency securities: Subject to agreements to sell ¹,current,asset,"STOCK (assets, financial)",4.A,+
+,,GOVTSEC,GOVTSEC,TREASSEC2,"U.S. Treasury and Federal agency securities: Other, due in 1 year or less ¹",current,asset,"STOCK (assets, financial)",4.A,+
+,,,OTHSEC,COMMPAPER,Commercial and finance company paper of U.S. issuers ¹,current,asset,"STOCK (assets, financial)",4.A,+
+,,GOVTSEC,GOVTSEC,STATESEC,"State and local government securities, due in 1 year or less ¹",current,asset,"STOCK (assets, financial)",4.A,+
+,,,OTHSEC,FOREGNSEC,"Foreign securities, due in 1 year or less ¹",current,asset,"STOCK (assets, financial)",4.A,+
+,,,OTHSEC,OTHSTINV,Other short-term financial investments ²,current,asset,"STOCK (assets, financial)",4.A,+
+TOCASHSEC,Cash and securities,TOCASHSEC,TOTALCASH+GOVTSEC+OTHSEC,TOCASHSEC,"Total cash, U.S. Government and other securities",current,asset,"STOCK (assets, cash and financial)",3.A,+
+,,RECUSGOVT,TOTRECEV,RECUSGOVT,Trade receivables from U.S. Government ¹,current,asset,"STOCK (assets, receivables)",4.A,+
+,,ACCTRECEV,TOTRECEV,ACCTRECEV,Other trade accounts and trade notes receivable (less allowance for doubtful accounts) ²,current,asset,"STOCK (assets, receivables)",4.A,+
+TOTRECEV,Receivables,TOTRECEV,TOTRECEV,TOTRECEV,Total receivables ¹,current,asset,"STOCK (assets, receivables)",3.A,+
+INVENTORY,Inventories,INVENTORY,INVENTORY,INVENTORY,Inventories,current,asset,"STOCK (assets, inventories)",3.A,+
+OTHCURASS,Other short-term assets,OTHCURASS,OTHCURASS,OTHCURASS,All other current assets,current,asset,"STOCK (assets, other)",3.A,+
+,,TOTCRASSET,TOTCRASSET,TOCRASSET,Total current assets,current,asset,"STOCK (assets, current)",2.A,+
+,,FIXASSETS,,FIXASSETS,"Property, plant, and equipment",noncurrent,asset,"STOCK (assets, noncurrent)",3.A,+
+,,FIXASSETS,,LAND,Land and mineral rights,noncurrent,asset,"STOCK (assets, noncurrent)",3.A,+
+,,ACCEDREC,,ACCDEPREC,"Accumulated depreciation, depletion, and amortization",noncurrent,asset,"STOCK (assets, noncurrent)",3.A,+
+NETPPE,"Net property, plant, equipment",NETPPE,NETPPE,NETPPE,"Net property, plant, and equipment",noncurrent,asset,"STOCK (assets, noncurrent)",2.A,+
+,,GOVTSEC,GOVTSEC,TREASSEC3,"U.S. Treasury and Federal agency securities, due in more than 1 year ¹",noncurrent,asset,"STOCK (assets, noncurrent)",2.A,+
+OTHNCASST,Other long-term assets,OTHNCASSET,OTHNCASST,OTHNCASST,"All other noncurrent assets, including investment in nonconsolidated entities, long-term investments, intangibles, etc.",noncurrent,asset,"STOCK (assets, noncurrent)",2.A,+
+,,TOTASSET,TOTASSET,TOTASSET,Total Assets,,asset,"STOCK (assets, total)",1.A,
+,,STBANK,STBANK,STBANK,"Short-term debt, original maturity 1 year or less: Loans from banks",current,liability,"STOCK (liabilities, current)",3.L,+
+,,,,COMPAPER,"Short-term debt, original maturity 1 year or less: Commercial paper ¹",current,liability,"STOCK (liabilities, current)",3.L,+
+,,,,STDEBTOTH,"Short-term debt, original maturity 1 year or less: Other short-term loans (sometimes incl. commercial paper)",current,liability,"STOCK (liabilities, current)",3.L,+
+,,ADVUSGOVT,,ADVUSGOVT,Advances and prepayments by the U.S. Government ¹,current,liability,"STOCK (liabilities, current)",3.L,+
+,,ACCTPAY,ACCTPAY,ACCTPAY,Trade accounts and trade notes payable,current,liability,"STOCK (liabilities, current)",3.L,+
+,,FEDTAXPAY,FEDTAXPAY,FEDTAXPAY,"Income taxes accrued, prior and current years, net of payments: Federal ¹",current,liability,"STOCK (liabilities, current)",3.L,+
+,,,,OTHTAXPAY,"Income taxes accrued, prior and current years, net of payments: Other ²",current,liability,"STOCK (liabilities, current)",3.L,+
+,,,,INSTBANKS,"Current portion of long-term debt, due in 1 year or less: Loans from banks",current,liability,"STOCK (liabilities, current)",3.L,+
+,,,,INSTBONDS,"Current portion of long-term debt, due in 1 year or less: Bonds and debentures ¹",current,liability,"STOCK (liabilities, current)",3.L,+
+,,,,INSTOTHER,"Current portion of long-term debt, due in 1 year or less: Other long-term loans",current,liability,"STOCK (liabilities, current)",3.L,+
+,,OTCURLIAB,OTCURLIAB,OTCURLIAB,"All other current liabilities, including excise and sales taxes, and accrued expenses",current,liability,"STOCK (liabilities, current)",3.L,+
+TOCURLIAB,Short-term liabilities,TOCURLIAB,TOCRLIAB,TOCRLIAB,Total current liabilities,current,liability,"STOCK (liabilities, current)",2.L,+
+LTBNKDEBT,Long-term bank debt,LTBNKDEBT,,LTBNKDEBT,"Long-term debt, due in more than 1 year: Loans from banks",noncurrent,liability,"STOCK (liabilities, noncurrent)",2.L,+
+LTBNDDEBT,Long-term bonds,,,LTBNDDEBT,"Long-term debt, due in more than 1 year: Bonds and debentures ¹",noncurrent,liability,"STOCK (liabilities, noncurrent)",2.L,+
+LTOTHDEBT,Other long-term debt,LTOTHDEBT,,LTOTHDEBT,Long-term debt (due in more than 1 year): Other long-term loans,noncurrent,liability,"STOCK (liabilities, noncurrent)",2.L,+
+OTHNCLIAB,Other long-term liabilities,OTHNCLIAB,,OTHNCLIAB,"All other noncurrent liabilities, including deferred income taxes, capitalized leases, and minority stockholders’ interest in consolidated domestic corporations",noncurrent,liability,"STOCK (liabilities, noncurrent)",2.L,+
+,,TOTLIAB,TLIABEQUI-STOCKEQ,TOTLIAB,Total liabilities,,liability,"STOCK (liabilities, total)",1.L,+
+,,CAPSTOCK,,CAPSTOCK,Capital stock and other capital ²,,equity,STOCK (capital),2.E,+
+,,RETEARN,,RETEARN,Retained earnings,,equity,NET INFLOW THIS Q,2.E,+
+,,,,CUMFORCUR,Cumulative foreign currency translation adjustment ¹,,equity,STOCK (equity adjustment),2.E,+
+,,,,OTSEITEMS,"Other stockholders’ equity items, including unearned compensation and ESOP debt guarantees ¹",,equity,STOCK (equity adjustment),2.E,+
+,,,,TREASSTK,Treasury stock at cost ¹,,equity,STOCK (equity adjustment),2.E,-
+STHLDEQUI,Stockholder equity,STHLDEQUI,STOCKEQ,STHLDEQUI,Stockholders’ equity,,equity,STOCK (equity),1.E,+
+,,TLIABEQUI,TLIABEQUI,TLIABEQUI,Total Liabilities and Stockholders’ Equity,,liabilities + equity,STOCK (liabilities + equity = assets),0.LE,+
+,,NETWKCAP,,NETWKCAP,Net Working Capital: Excess of total current assets over total current liabilities,,working capital,STOCK (net working capital),Other.A,
