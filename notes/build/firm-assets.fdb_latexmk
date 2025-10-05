@@ -1,22 +1,25 @@
 # Fdb version 4
-["biber build/firm-assets"] 1759689059.41508 "build/firm-assets.bcf" "build/firm-assets.bbl" "build/firm-assets" 1759701933.16779 0
-  "build/firm-assets.bcf" 1759701932.98503 107310 7061014b03a00bddcc5da929a9599744 "pdflatex"
+["biber build/firm-assets"] 1759689059.41508 "build/firm-assets.bcf" "build/firm-assets.bbl" "build/firm-assets" 1759704879.65258 0
+  "build/firm-assets.bcf" 1759704879.44417 107310 7061014b03a00bddcc5da929a9599744 "pdflatex"
   (generated)
   "build/firm-assets.bbl"
   "build/firm-assets.blg"
   (rewritten before read)
-["pdflatex"] 1759701928.21704 "/Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/notes/firm-assets.tex" "firm-assets.pdf" "firm-assets" 1759701933.16826 0
+["pdflatex"] 1759704875.33342 "/Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/notes/firm-assets.tex" "firm-assets.pdf" "firm-assets" 1759704879.65293 0
   "../../../slides.sty" 1757777479.5523 1107 30785ed228d0a71d804e5fc5e3b61e29 ""
   "../figures/exploration/firm-assets/QFR_bsheet_assets.png" 1759697977.01008 247940 9f3594300002204f9e435af63846ce5b ""
   "../figures/exploration/firm-assets/assets_allbusiness.png" 1759689442.59007 262559 72452d700904102ff1b6f6bb490ec826 ""
   "../figures/exploration/firm-assets/assets_corporate_noncorporate.png" 1759689347.96964 465724 ccdb2bf105423f0842bbcc9a6a93fa16 ""
-  "/Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/notes/firm-assets.tex" 1759701925.8358 1045 ebfd66ad5c5cae0dfa7744a465c14b93 ""
+  "/Users/martinbernstein/Library/CloudStorage/Dropbox-HarvardUniversity/Martin Bernstein/Fall 2025/Other/LCC/notes/firm-assets.tex" 1759704875.1094 1166 c4710d90a0396c08b741d3edd44afb9a ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fira/fir_iln36p.enc" 1570828436 3071 cfa92ee28d698dd9275559d9d1c3a233 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ectt1095.tfm" 1136768653 1536 a988bfe554c1f79514bd46d13c3c64ce ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fira/FiraSans-ExtraLight-osf-t1--base.tfm" 1558644978 1752 89792f6a336e2716a74a425182ce0877 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fira/FiraSans-ExtraLight-osf-t1.tfm" 1558644978 53248 488e7fd65e1ac1f74ba7475bf52ba332 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb" 1215737283 169670 48d12e69c9a3b23c81f6d703ccbd4554 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-ExtraLight.pfb" 1554498137 444147 3539bb1f8ba83a2af3a7e4de6903f382 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/fira/FiraSans-ExtraLight-osf-t1.vf" 1558644978 1728 030f6f77b2bb3814e3da9e66db831ff3 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -147,6 +150,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty" 1705352648 5119 a04a8b68ab4f6ce800a41f7f8012a10e ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty" 1705352648 5319 2b738d02ce36ada6dcdd9534940db0ee ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo" 1705352648 8464 59874a3b0776c73e2a138b025d8473dd ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd" 1705352648 2443 790016d75def8d3127df5c216a45abcc ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty" 1705352648 2894 fc64867f9d198785eabe71a88276a9cb ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/bbm-macros/bbm.sty" 1191314257 1644 1e0d54b051369c3f457872824cac219f ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamer.cls" 1704576813 12512 a310ecdc7bb8bde63702b12cf1fc0ab5 ""
@@ -299,12 +303,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1724430374.56219 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1724430292 8221423 5f82d8df3b6dfd8c0e94e9ae64b6979a ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "build/firm-assets.aux" 1759701932.98106 1076 a59586df6a83a46a2cf1dd78d80302a7 "pdflatex"
+  "build/firm-assets.aux" 1759704879.43986 1200 03cb79253032fba2b921b7bbe051a392 "pdflatex"
   "build/firm-assets.bbl" 1759689065.0322 0 d41d8cd98f00b204e9800998ecf8427e "biber build/firm-assets"
-  "build/firm-assets.nav" 1759701932.98629 571 686a2d273024229235dc0db1f461ba6c "pdflatex"
-  "build/firm-assets.out" 1759701930.66722 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "build/firm-assets.run.xml" 1759701932.98616 2279 01f5636adf0212c0c320c113d87cecf3 "pdflatex"
-  "firm-assets.tex" 1759701925.8358 1045 ebfd66ad5c5cae0dfa7744a465c14b93 ""
+  "build/firm-assets.nav" 1759704879.44547 659 3cb0dd10b35feddfc4c8158c93cb8db0 "pdflatex"
+  "build/firm-assets.out" 1759704877.14747 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "build/firm-assets.run.xml" 1759704879.44529 2279 01f5636adf0212c0c320c113d87cecf3 "pdflatex"
+  "firm-assets.tex" 1759704875.1094 1166 c4710d90a0396c08b741d3edd44afb9a ""
   (generated)
   "build/firm-assets.aux"
   "build/firm-assets.bcf"

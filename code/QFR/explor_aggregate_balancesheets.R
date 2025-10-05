@@ -60,5 +60,3 @@ ggsave(p, file = file.path("figures", "exploration", "firm-assets",
 #   facet_grid(~industry_code) +
 #   geom_line(data = aggregate,
 #             mapping = aes(date, value, fill = NULL))
-
-d <- fread(file.path("data", "compustat", "compustat_annual.csv"))

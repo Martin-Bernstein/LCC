@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.23)  5 OCT 2025 18:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.23)  5 OCT 2025 18:54
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1687,6 +1687,12 @@ Overfull \vbox (3.00204pt too high) detected at line 30
 [4
 
  <../figures/exploration/firm-assets/QFR_bsheet_assets.png>]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 34.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+) [5
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 \tf@nav=\write8
 \openout8 = `firm-assets.nav'.
 
@@ -1708,18 +1714,18 @@ Package logreq Info: Writing requests to 'firm-assets.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50942 strings out of 474116
- 1179916 string characters out of 5743682
+ 50968 strings out of 474116
+ 1180618 string characters out of 5743682
  1994791 words of memory out of 5000000
- 72477 multiletter control sequences out of 15000+600000
- 626356 words of font info for 46 fonts, out of 8000000 for 9000
+ 72496 multiletter control sequences out of 15000+600000
+ 626670 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,13n,136p,2045b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-ExtraLight.pfb>
-Output written on build/firm-assets.pdf (4 pages, 908103 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-ExtraLight.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on build/firm-assets.pdf (5 pages, 935775 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
+ 64 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
